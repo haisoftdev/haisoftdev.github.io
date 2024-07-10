@@ -22,7 +22,7 @@
     "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "promote",
+    "NativeNetwork"           : "admob",
     
     "IntervalClick"           : 1,
     
@@ -41,7 +41,7 @@
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     "Applovin_Native"         : "76af75d288a7ada9",
     
-    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/vone/persoapp.json"
+    "promote_URL"             : "xxxhttps://haisoftdev.github.io/developers/data/reemdv/vone/persoapp.json"
 
   }
 }
