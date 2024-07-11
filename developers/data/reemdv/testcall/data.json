@@ -1,7 +1,7 @@
 {
     
   "AppRedirect": {
-    "status"                  : true,
+    "status"                  : false,
     "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.vone"
   },
     "AppSettings": {
@@ -23,6 +23,11 @@
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "facebook",
+
+    "BannerNetworkPage"           : "admobpage",
+    "InterstitialNetworkPage"     : "admobpage",
+    "RewardNetworkPage"           : "admobpage",
+    "NativeNetworkPage"           : "facebookpage",
     
     "IntervalClick"           : 10,
     
