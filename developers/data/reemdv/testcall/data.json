@@ -22,7 +22,7 @@
     "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "promote",
+    "NativeNetwork"           : "facebook",
     
     "IntervalClick"           : 10,
     
