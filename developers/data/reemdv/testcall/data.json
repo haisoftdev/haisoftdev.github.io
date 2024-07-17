@@ -5,9 +5,9 @@
     "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.vone"
   },
     "AppSettings": {
-    "adHome_Banner":          "0",
-    "adMain_Banner":          "0",
-    "adLive_Banner":          "0",
+    "adHome_Banner":          "1",
+    "adMain_Banner":          "1",
+    "adLive_Banner":          "1",
     "adSettings_Banner":      "1",
     "adLogin_Banner":         "1",
     "adChat_Banner":          "1",
