@@ -9,7 +9,7 @@
     "adMain_Banner":          "1",
     "adLive_Banner":          "1",
     "adSettings_Banner":      "1",
-    "adLogin_Banner":         "0",
+    "adLogin_Banner":         "1",
     "adChat_Banner":          "0",
     "adRandomCall_Banner":    "0",
     "adContact_Banner":       "0",
