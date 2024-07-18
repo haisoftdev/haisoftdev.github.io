@@ -11,12 +11,14 @@
     "adSettings_Banner":      "1",
     "adLogin_Banner":         "1",
     "adChat_Banner":          "1",
+    "adChat_Banner_Promote":  "1",
     "adRandomCall_Banner":    "1",
     "adContact_Banner":       "1",
     "adMore_Banner":          "1",
     "adAcceptCall_Banner":    "1",
     "adAcceptVideo_Banner":   "1", 
-    "adAbout_Banner":         "1",   
+    "adAbout_Banner":         "1",
+    "adChat_Banner_Promote":  "1", 
     "privacy_link":           "https://sites.google.com/view/reemdev",
     "video_link" :            ""
    },
@@ -27,13 +29,7 @@
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "facebook",
-       
-    "BannerNetworkPromote"           : "admob",
-    "InterstitialNetworkPromote"     : "admob",
-    "RewardNetworkPromote"           : "admob",
-    "NativeNetworkPromote"           : "facebook",
-       
-    
+
     "IntervalClick"           : 9,
     
     "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
