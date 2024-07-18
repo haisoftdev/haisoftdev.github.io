@@ -6,7 +6,7 @@
   },
     "AppSettings": {
     "adHome_Banner":          "1",
-    "adMain_Banner":          "0",
+    "adMain_Banner":          "1",
     "adLive_Banner":          "0",
     "adSettings_Banner":      "0",
     "adLogin_Banner":         "0",
