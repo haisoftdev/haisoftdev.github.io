@@ -15,7 +15,7 @@
     "adContact_Banner":       "1",
     "adMore_Banner":          "1",
     "adAcceptCall_Banner":    "1",
-    "adAcceptVideo_Banner":   "0", 
+    "adAcceptVideo_Banner":   "1", 
     "adAbout_Banner":         "0",   
     "privacy_link":           "https://sites.google.com/view/reemdev",
     "video_link" :            ""
