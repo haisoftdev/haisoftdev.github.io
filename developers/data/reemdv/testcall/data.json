@@ -1,18 +1,22 @@
 {
     
   "AppRedirect": {
-    "status"                  : false,
+    "status"                  : true,
     "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.vone"
   },
     "AppSettings": {
-    "adHome_Banner":          "0",
-    "adStar_Banner":          "0",
-    "adSettings_Banner":      "0",
-    "adMainOffline_Banner":   "1",
-    "adPlayOffline_Banner":   "1",
-    "adMainOnline_Banner":    "1",
-    "adPlayOnline_Banner":    "1",
-    "adMoreApps_Banner":      "0",
+    "adHome_Banner":          "1",
+    "adMain_Banner":          "1",
+    "adLive_Banner":          "1",
+    "adSettings_Banner":      "1",
+    "adLogin_Banner":         "1",
+    "adChat_Banner":          "1",
+    "adRandomCall_Banner":    "1",
+    "adContact_Banner":       "1",
+    "adMore_Banner":          "1",
+    "adAcceptCall_Banner":    "1",
+    "adAcceptVideo_Banner":   "1", 
+    "adAbout_Banner":         "1",   
     "privacy_link":           "https://sites.google.com/view/reemdev",
     "video_link" :            ""
   },
@@ -22,14 +26,14 @@
     "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "promote",
+    "NativeNetwork"           : "facebook",
     
-    "IntervalClick"           : 1,
+    "IntervalClick"           : 9,
     
-    "AdMob_Banner"            : "ca-app-pub-9760311877159894/4444466601",
-    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/7238699642",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_Native"            : "ca-app-pub-9760311877159894/3075544611",
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_RewardAd"          : "ca-app-pub-9760311877159894/5531292885",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
     
     "Facebook_Banner"         : "692961278482629_692963411815749",
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
@@ -41,7 +45,7 @@
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     "Applovin_Native"         : "76af75d288a7ada9",
     
-    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/vone/persoapp.json"
+    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/vone/perso.json"
 
   }
 }
