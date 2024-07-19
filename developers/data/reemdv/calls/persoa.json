@@ -13,6 +13,18 @@
       ]
     },
     {
+      "name"        : "ديانا وروما",
+      "packageName" : "com.reemdev.dinacall",
+      "icon"        : "https://play-lh.googleusercontent.com/zxQ056LlNXD1ZIqnRx687FRHdWk9_5uXM7mqGsQZ-P2dgKg9l0BsAEDdkodgoMkAAgEC=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/ZpU_ZkQf-vXzjToJ_xR3oqCr3DEzG2nmGgru4foSPc21Aue8qGJdIwDY1R-aFTpzAjg=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+       "",
+        "",
+        ""
+      ]
+    },
+    {
       "name"        : "قصي يتصل بك",
       "packageName" : "com.reemdev.qosaycallcall",
       "icon"        : "https://play-lh.googleusercontent.com/t-CVVJGbJdDXL4t2GRdIVp38LvI9eYfl4M1K4Vtzju_7DTrIZMIg4bvFgXHdYs2A7Q=w240-h480-rw",
