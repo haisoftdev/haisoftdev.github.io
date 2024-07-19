@@ -23,29 +23,29 @@
     
   "AdsController": {
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "facebook",
+    "BannerNetwork"           : "Xadmob",
+    "InterstitialNetwork"     : "Xadmob",
+    "RewardNetwork"           : "Xadmob",
+    "NativeNetwork"           : "Xfacebook",
     
     "IntervalClick"           : 9,
     
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"          : "ca-app-pub-9760311877159894/5531292885",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_Banner"            : "XXca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "XXca-app-pub-3940256099942544/1033173712",
+    "AdMob_RewardAd"          : "XXca-app-pub-9760311877159894/5531292885",
+    "AdMob_Native"            : "XXca-app-pub-3940256099942544/2247696110",
     
-    "Facebook_Banner"         : "692961278482629_692963411815749",
-    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
-    "Facebook_RewardAd"       : "692961278482629_857106118734810",
-    "Facebook_Native"         : "692961278482629_857100538735368",
+    "Facebook_Banner"         : "X692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "X692961278482629_692963491815741",
+    "Facebook_RewardAd"       : "X692961278482629_857106118734810",
+    "Facebook_Native"         : "X692961278482629_857100538735368",
     
-    "Applovin_Banner"         : "a5f235ba1320fb35",
-    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
-    "Applovin_RewardAd"       : "76af75d288a7ada9",
-    "Applovin_Native"         : "76af75d288a7ada9",
+    "Applovin_Banner"         : "Xa5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "Xd5a67a7b679c9a38",
+    "Applovin_RewardAd"       : "X76af75d288a7ada9",
+    "Applovin_Native"         : "X76af75d288a7ada9",
     
-    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/vone/perso.json"
+    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/calls/persoa.json"
 
   }
 }
