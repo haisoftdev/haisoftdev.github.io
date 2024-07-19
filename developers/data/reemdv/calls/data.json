@@ -5,14 +5,18 @@
     "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.vone"
   },
     "AppSettings": {
-    "adHome_Banner":          "1",
-    "adStar_Banner":          "1",
-    "adSettings_Banner":      "1",
-    "adMainOffline_Banner":   "1",
-    "adPlayOffline_Banner":   "1",
-    "adMainOnline_Banner":    "1",
-    "adPlayOnline_Banner":    "1",
-    "adMoreApps_Banner":      "1",
+    "adHome_Banner":          "0",
+    "adMain_Banner":          "0",
+    "adLive_Banner":          "0",
+    "adSettings_Banner":      "0",
+    "adLogin_Banner":         "0",
+    "adChat_Banner":          "0",
+    "adRandomCall_Banner":    "0",
+    "adContact_Banner":       "0",
+    "adMore_Banner":          "0",
+    "adAcceptCall_Banner":    "0",
+    "adAcceptVideo_Banner":   "0", 
+    "adAbout_Banner":         "0",   
     "privacy_link":           "https://sites.google.com/view/reemdev",
     "video_link" :            ""
   },
@@ -23,13 +27,12 @@
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "facebook",
-
     
-    "IntervalClick"           : 10,
+    "IntervalClick"           : 9,
     
     "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
     "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_RewardAd"          : "ca-app-pub-9760311877159894/5531292885",
     "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
     
     "Facebook_Banner"         : "692961278482629_692963411815749",
@@ -42,8 +45,7 @@
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     "Applovin_Native"         : "76af75d288a7ada9",
     
-    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/testcall/persoapp.json"
+    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/vone/perso.json"
 
   }
 }
-
