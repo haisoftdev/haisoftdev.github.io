@@ -7,7 +7,7 @@
     "AppSettings": {
     "ad_status":              "1",
     "adHome_Banner":          "1",
-    "adMain_Banner":          "1",
+    "adMain_Banner":          "0",
     "adLive_Banner":          "1",
     "adSettings_Banner":      "0",
     "adLogin_Banner":         "0",
@@ -30,7 +30,7 @@
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "admob",
     
-    "IntervalClick"           : 1,
+    "IntervalClick"           : 5,
     
     "AdMob_Banner"            : "ca-app-pub-9760311877159894/5589304807",
     "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/8760911989",
