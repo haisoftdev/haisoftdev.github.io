@@ -1,10 +1,10 @@
 {
   "AppsPromote": [
     {
-      "name"        : "شفا تتصل بك",
-      "packageName" : "com.reemdev.shafacall",
-      "icon"        : "https://play-lh.googleusercontent.com/F-FesxvH4VMCHKLa5KbQHK2ZA4xIOfTfYBlgTcA-udp5CtUakoY-V4sNzwxadTH-Foc=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/XSdzKlYEwAm9_KqrJZy9qTHeDZ7BOYh0-U3V3x4Z2G38mdc06WhVX7d_vG6863zM8g=w416-h235-rw",
+      "name"        : "قصي ووليد الغابر",
+      "packageName" : "absdev.com.vpwld",
+      "icon"        : "https://play-lh.googleusercontent.com/IyNCk3DvvCAxpEwuMiRSk7bBBi0RRZyRts26yuCK3U4haa4Cisl0xfkr3RjXagzXiQly=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/-n8y98AFEUv73zXdgzX0s7kFrXlMUz6NZPP3uZRK884_B5bOvsJEGsCvxKmaADyNYjA=w416-h235-rw",
       "shortDescription": "بالمجان",
       "screenShot"  : [
         "",
@@ -13,37 +13,13 @@
       ]
     },
     {
-      "name"        : "ديانا وروما",
-      "packageName" : "com.reemdev.dinacall",
-      "icon"        : "https://play-lh.googleusercontent.com/zxQ056LlNXD1ZIqnRx687FRHdWk9_5uXM7mqGsQZ-P2dgKg9l0BsAEDdkodgoMkAAgEC=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/ZpU_ZkQf-vXzjToJ_xR3oqCr3DEzG2nmGgru4foSPc21Aue8qGJdIwDY1R-aFTpzAjg=w416-h235-rw",
+      "name"        : "تطبيق فيديو شفا بدون نت",
+      "packageName" : "chavd.com.absdev",
+      "icon"        : "https://play-lh.googleusercontent.com/h4Hy207_P932hmbqsi2hkJlDKIWL_3v5MjCW2jazLCtIOQk1WxZ2IooVUWLAOrRnRTK_=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/ar65coFdoUZT3QKGR74P9jAd6YWhOI5q4uEc6derwf-MHF3xOHWncs2Mha53hR0I7A=w416-h235-rw",
       "shortDescription": "بالمجان",
       "screenShot"  : [
        "",
-        "",
-        ""
-      ]
-    },
-    {
-      "name"        : "قصي يتصل بك",
-      "packageName" : "com.reemdev.qosaycallcall",
-      "icon"        : "https://play-lh.googleusercontent.com/t-CVVJGbJdDXL4t2GRdIVp38LvI9eYfl4M1K4Vtzju_7DTrIZMIg4bvFgXHdYs2A7Q=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/TTJO2KjgE0niNycRBfPG67wAaLFmgKaeewbeAYWdZOu4zTvNmoghMX5q0iH_O2kGnOY=w416-h235-rw",
-      "shortDescription": "بالمجان",
-      "screenShot"  : [
-       "",
-        "",
-        ""
-      ]
-    },
-    {
-      "name"        : "سامر يتصل بك",
-      "packageName" : "com.reemdev.samercall",
-      "icon"        : "https://play-lh.googleusercontent.com/eANcRBAYKAbQgtD3r_QVIzYxztYr1t4SSG_e8Dl4Nc3VZ8_RXxWoHeeN1jrBHN-Xw5w=w240-h480-rw",
-      "preview"     : "https://play-lh.googleusercontent.com/oxk102Q5SCX4VaCk-5_qvfrgteLdzZJE6h411z_DEx1XseNW_hzylS7gtShytHciuQP_=w416-h235-rw",
-      "shortDescription": "بالمجان",
-      "screenShot"  : [
-        "",
         "",
         ""
       ]
