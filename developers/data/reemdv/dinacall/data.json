@@ -27,14 +27,14 @@
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
     "BannerNetwork"           : "promote",
     "InterstitialNetwork"     : "promote",
-    "RewardNetwork"           : "promote",
+    "RewardNetwork"           : "admob",
     "NativeNetwork"           : "promote",
     
     "IntervalClick"           : 3,
     
     "AdMob_Banner"            : "ca-app-pub-9760311877159894/5589304807",
     "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/8760911989",
-    "AdMob_RewardAd"          : "ca-app-pub-9760311877159894/5531292885",
+    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
     "AdMob_Native"            : "ca-app-pub-9760311877159894/5720386494",
     
     "Facebook_Banner"         : "675924874735634_676257098035745",
