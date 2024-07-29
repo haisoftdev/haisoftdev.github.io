@@ -6,7 +6,7 @@
   },
     "AppSettings": {
     "adHome_Banner":          "0",
-    "adStar_Banner":          "0",
+    "adStar_Banner":          "1",
     "adSettings_Banner":      "0",
     "adMainOffline_Banner":   "1",
     "adPlayOffline_Banner":   "1",
