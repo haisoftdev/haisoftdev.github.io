@@ -5,8 +5,8 @@
     "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.vone"
   },
     "AppSettings": {
-    "adHome_Banner":          "0",
-    "adStar_Banner":          "1",
+    "adHome_Banner":          "1",
+    "adStar_Banner":          "0",
     "adSettings_Banner":      "0",
     "adMainOffline_Banner":   "1",
     "adPlayOffline_Banner":   "1",
