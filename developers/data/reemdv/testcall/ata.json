@@ -29,11 +29,6 @@
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "admob",
-
-    "BannerNetwork2"          : "admob2",
-    "InterstitialNetwork2"    : "admob2",
-    "RewardNetwork2"          : "admob2",
-    "NativeNetwork2"          : "admob2",
       
     "IntervalClick"           : 1,
     
