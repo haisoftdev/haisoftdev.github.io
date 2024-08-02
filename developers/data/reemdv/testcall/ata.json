@@ -4,7 +4,6 @@
     "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.dinacall"
   },
     "AppSettings": {
-    "app_server":             "serve",
     "ad_status":              "1",
     "adHome_Banner":          "1",
     "adMain_Banner":          "1",
