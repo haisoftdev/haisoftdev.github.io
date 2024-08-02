@@ -27,7 +27,7 @@
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
     "BannerNetwork"           : "facebook",
     "InterstitialNetwork"     : "facebook",
-    "RewardNetwork"           : "admob",
+    "RewardNetwork"           : "facebook",
     "NativeNetwork"           : "facebook",
     
     "IntervalClick"           : 1,
