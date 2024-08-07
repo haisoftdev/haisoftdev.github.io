@@ -5,7 +5,7 @@
   },
     "AppSettings": {
     "ad_status":              "1",
-    "promote_Ads":            "0", 
+    "promote_Ads":            "1", 
     "adHome_Banner":          "1",
     "adMain_Banner":          "1",
     "adLive_Banner":          "1",
@@ -50,31 +50,6 @@
     "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     "Applovin_Native"         : "76af75d288a7ada9",
-
-    "readMeB"                  : "you can use : admobb or facebookb or applovinb or promoteb",
-    
-    "BannerNetworkB"           : "admobb",
-    "InterstitialNetworkB"     : "admobb",
-    "RewardNetworkB"           : "admobb",
-    "NativeNetworkB"           : "admobb",
-      
-    "IntervalClickB"           : 1,
-    
-    "AdMob_BannerB"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAdB"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAdB"          : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_NativeB"            : "ca-app-pub-3940256099942544/2247696110",
-    
-    "Facebook_BannerB"         : "675924874735634_676257098035745",
-    "Facebook_InterstitialAdB" : "675924874735634_676274238034031",
-    "Facebook_RewardAdB"       : "675924874735634_676274458034009",
-    "Facebook_NativeB"         : "1552879805615778_1552881435615615",
-      
-    "Applovin_BannerB"         : "a5f235ba1320fb35",
-    "Applovin_InterstitialAdB" : "d5a67a7b679c9a38",
-    "Applovin_RewardAdB"       : "76af75d288a7ada9",
-    "Applovin_NativeB"         : "76af75d288a7ada9",
-    
     
     "promote_URL"             : "https://haisoftdev.github.io/developers/data/andersoft/callshafa/perso.json"
 
