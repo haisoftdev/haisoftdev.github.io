@@ -23,7 +23,7 @@
     "Player_Banner":          "1",
     "Tic_Chose_Banner":       "1", 
     "Tic_Games_Banner":       "1",  
-    "privacy_link":           "https://erindevapp.blogspot.com/2020/04/privacy-policy.html",
+    "privacy_link":           "https://sites.google.com/view/andersoft",
     "video_link" :            ""
   },
     
@@ -36,8 +36,8 @@
       
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
+    "AdMob_Banner"            : "XXca-app-pub-3940256099942544/6300978111",
+    "AdMob_InterstitialAd"    : "XXca-app-pub-3940256099942544/1033173712",
     "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
     "AdMob_Native"            : "0ca-app-pub-3940256099942544/2247696110",
     
