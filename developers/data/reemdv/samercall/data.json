@@ -25,10 +25,10 @@
     
   "AdsController": {
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "admob",
+    "BannerNetwork"           : "facebook",
+    "InterstitialNetwork"     : "facebook",
+    "RewardNetwork"           : "facebook",
+    "NativeNetwork"           : "facebook",
     
     "IntervalClick"           : 1,
     
@@ -37,10 +37,10 @@
     "AdMob_RewardAd"          : "ca-app-pub-9760311877159894/9385410431",
     "AdMob_Native"            : "ca-app-pub-9760311877159894/9604298711",
     
-    "Facebook_Banner"         : "475357068449387_475646735087087",
-    "Facebook_InterstitialAd" : "475357068449387_475647368420357",
-    "Facebook_RewardAd"       : "475357068449387_475647675086993",
-    "Facebook_Native"         : "475357068449387_475358231782604",
+    "Facebook_Banner"         : "1837616263414536_1837616446747851",
+    "Facebook_InterstitialAd" : "1837616263414536_1837616460081183",
+    "Facebook_RewardAd"       : "1837616263414536_1837616456747850",
+    "Facebook_Native"         : "1837616263414536_1837616450081184",
     
     "Applovin_Banner"         : "a5f235ba1320fb35",
     "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
