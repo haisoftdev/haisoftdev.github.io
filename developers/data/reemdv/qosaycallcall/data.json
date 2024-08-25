@@ -2,7 +2,7 @@
     
   "AppRedirect": {
     "status"                  : false,
-    "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.shafacall"
+    "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.qosaycallcall"
   },
     "AppSettings": {
     "ad_status":              "1",
@@ -32,8 +32,8 @@
     
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-9760311877159894/2108952072",
-    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/2229243710",
+    "AdMob_Banner"            : "ca-app-pub-9760311877159894/5980786467",
+    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/2720198301",
     "AdMob_RewardAd"          : "ca-app-pub-9760311877159894/9385410431",
     "AdMob_Native"            : "ca-app-pub-9760311877159894/9604298711",
     
