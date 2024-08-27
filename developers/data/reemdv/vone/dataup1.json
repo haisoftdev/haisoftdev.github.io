@@ -5,21 +5,21 @@
     "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.vone"
   },
     "AppSettings": {
-    "adHome_Banner":          "1",
-    "adStar_Banner":          "1",
+    "adHome_Banner":          "0",
+    "adStar_Banner":          "0",
     "adSettings_Banner":      "0",
-    "adMainOffline_Banner":   "1",
+    "adMainOffline_Banner":   "0",
     "adPlayOffline_Banner":   "1",
-    "adMainOnline_Banner":    "1",
+    "adMainOnline_Banner":    "0",
     "adPlayOnline_Banner":    "1",
-    "adMoreApps_Banner":      "0",
+    "adMoreApps_Banner":      "1",
     "privacy_link":           "https://sites.google.com/view/reemdev",
     "video_link" :            ""
   },
     
   "AdsController": {
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
-    "BannerNetwork"           : "facebook",
+    "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "promote",
