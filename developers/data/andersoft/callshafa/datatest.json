@@ -1,8 +1,8 @@
 {
   "AppRedirect"               : {
     "status"                  : true,
-    "AppUpdate_Title"         : "أصلحنا بعض الأخطاء في النسخة الجديدة",
-    "AppUpdate_Message"       : "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق الجديد.", 
+    "AppUpdate_Title"         : "أصلحنا بعض الأخطاء",
+    "AppUpdate_Message"       : "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق.", 
     "redirect_link"           : "https://play.google.com/store/apps/details?id=com.andersoft.fakecallshafa"
   },
     "AppSettings"             : {
