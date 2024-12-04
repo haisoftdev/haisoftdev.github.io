@@ -1,8 +1,7 @@
 {
   "AppRedirect"               : {
     "status"                  : true,
-    "Update_Title"            : "أصلحنا بعض الأخطاء 11122",
-    "Update_Message"          : "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق 33111.", 
+
     "redirect_link"           : "https://play.google.com/store/apps/details?id=com.andersoft.fakecallshafa"
   },
     "AppSettings"             : {
@@ -26,9 +25,7 @@
     "Tic_Chose_Banner"        : "1", 
     "Tic_Games_Banner"        : "1",  
     "privacy_link"            : "https://sites.google.com/view/andersofts",
-    "video_link"              : "",
-    "Update_Title"            : "أصلحنا بعض الأخطاء 11122",
-    "Update_Message"          : "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق 33111." 
+    "video_link"              : ""
       
   },
     
