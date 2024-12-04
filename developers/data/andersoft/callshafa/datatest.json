@@ -1,30 +1,30 @@
 {
   "AppRedirect": {
     "status"                  : true,
-    "redirect_link":          "https://play.google.com/store/apps/details?id=com.andersoft.fakecallshafa"
+    "redirect_link"           : "https://play.google.com/store/apps/details?id=com.andersoft.fakecallshafa"
   },
-    "AppSettings": {
-    "ad_status":              "1",
-    "promote_Ads":            "1", 
-    "adHome_Banner":          "1",
-    "adMain_Banner":          "1",
-    "adLive_Banner":          "1",
-    "adSettings_Banner":      "1",
-    "adLogin_Banner":         "1",
-    "adChat_Banner":          "1",
-    "adChat_Banner_Promote":  "1",
-    "adRandomCall_Banner":    "1",
-    "adContact_Banner":       "1",
-    "adMore_Banner":          "1",
-    "adAcceptCall_Banner":    "1",
-    "adAcceptVideo_Banner":   "1", 
-    "adAbout_Banner":         "1",
-    "Video_Banner":           "1",
-    "Player_Banner":          "1",
-    "Tic_Chose_Banner":       "1", 
-    "Tic_Games_Banner":       "1",  
-    "privacy_link":           "https://sites.google.com/view/andersofts",
-    "video_link" :            ""
+    "AppSettings"             : {
+    "ad_status"               : "1",
+    "promote_Ads"             : "1", 
+    "adHome_Banner"           : "1",
+    "adMain_Banner"           : "1",
+    "adLive_Banner"           : "1",
+    "adSettings_Banner"       : "1",
+    "adLogin_Banner"          : "1",
+    "adChat_Banner"           : "1",
+    "adChat_Banner_Promote"   : "1",
+    "adRandomCall_Banner"     : "1",
+    "adContact_Banner"        : "1",
+    "adMore_Banner"           : "1",
+    "adAcceptCall_Banner"     : "1",
+    "adAcceptVideo_Banner"    : "1", 
+    "adAbout_Banner"          : "1",
+    "Video_Banner"            : "1",
+    "Player_Banner"           : "1",
+    "Tic_Chose_Banner"        : "1", 
+    "Tic_Games_Banner"        : "1",  
+    "privacy_link"            : "https://sites.google.com/view/andersofts",
+    "video_link"              : ""
   },
     
   "AdsController": {
@@ -56,8 +56,8 @@
     "Appabout_Email"          : "Erindevappnew@gmail.com",
     "Appabout_Web"            : "www.andersoftdevnew.com",
 
-    "Update_Title":           "أصلحنا بعض الأخطاء 11122",
-    "Update_Message":         "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق 33111.", 
+    "Update_Title"            : "أصلحنا بعض الأخطاء 11122",
+    "Update_Message"          : "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق 33111.", 
     
     "promote_URL"             : "https://haisoftdev.github.io/developers/data/andersoft/callshafa/perso.json"
 
