@@ -24,9 +24,8 @@
     "Player_Banner"           : "1",
     "Tic_Chose_Banner"        : "1", 
     "Tic_Games_Banner"        : "1",  
-    "privacy_link"            : "https://sites.google.com/view/andersofts",
-    "video_link"              : ""
-      
+    "privacy_link"            : "https://sites.google.com/view/andersofts"
+    
   },
     
   "AdsController": {
@@ -62,6 +61,7 @@
     "AppUpdate_Message"          : "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق 33111.", 
     
     "promote_URL"             : "https://haisoftdev.github.io/developers/data/andersoft/callshafa/perso.json"
+    "video_link"              : "https://haisoftdev.github.io/developers/data/reemdv/vone/line.json"
 
   }
 }
