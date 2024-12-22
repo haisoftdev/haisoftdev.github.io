@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "message": "مرحبًا! هل تود مساعدتي؟",
+    "choices": [
+      { "text": "نعم", "nextId": 2 },
+      { "text": "لا", "nextId": 3 }
+    ],
+    "effects": {
+      "sound": "rain_sound",
+      "vibration": true,
+      "lightning": true,
+      "background": "dark_forest"
+    }
+  },
+  {
+    "id": 2,
+    "message": "شكرًا على مساعدتك! الآن ماذا سنفعل؟",
+    "choices": [
+      { "text": "نبحث عن طريق الهروب", "nextId": 4 }
+    ],
+    "effects": {
+      "sound": "ghost_sound",
+      "vibration": true
+    }
+  }
+]
