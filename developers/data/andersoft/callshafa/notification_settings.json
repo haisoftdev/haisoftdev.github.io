@@ -1,7 +1,7 @@
 {
   "characterName": "Character_1",
   "characterImage": "character_1.jpg",
-  "notificationTime": "02:00 AM",
+  "notificationTime": "14:05 AM",
   "daysInterval": 2,
   "notificationsEnabled": true,
   "message": "Hey {userName}, can you call me now?"
