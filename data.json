@@ -9,7 +9,7 @@
       "voice": "0/audio.mp3",
       "video": "0/video.mp4",
       "gallery": "0/gallery/0.webp",
-      "locked": false
+      "locked": true
     },
     {
       "name": "شفا 1",
@@ -20,7 +20,7 @@
       "voice": "1/audio.mp3",
       "video": "1/video.mp4",
       "gallery": "1/gallery/0.webp",
-      "locked": false
+      "locked": true
     },
     {
       "name": "شفا 2",
