@@ -1,9 +1,0 @@
-{
-  "isNotificationEnabled": true,
-  "characterName": "Alex",
-  "characterImage": "character_1",
-  "notificationTime": "14:30", 
-  "daysInterval": 2,
-  "message": "Hey Alex! Can you call me now?"
-}
-
