@@ -31,17 +31,17 @@
     
   "AdsController": {
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
-    "BannerNetwork"           : "facebook",
-    "InterstitialNetwork"     : "facebook",
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "facebook",
+    "NativeNetwork"           : "admob",
       
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-3940256099942544/6300978111",
-    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_Native"            : "ca-app-pub-3940256099942544/2247696110",
+    "AdMob_Banner"            : "ca-app-pub-5991888046347578/8758030910",
+    "AdMob_InterstitialAd"    : "ca-app-pub-5991888046347578/6098371693",
+    "AdMob_RewardAd"          : "ca-app-pub-5991888046347578/3472208357",
+    "AdMob_Native"            : "ca-app-pub-5991888046347578/8428215666",
     
     "Facebook_Banner"         : "3365521327087100_3365592980413268",
     "Facebook_InterstitialAd" : "3365521327087100_3365593157079917",
@@ -53,7 +53,7 @@
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     "Applovin_Native"         : "76af75d288a7ada9",
 
-    "Appabout_Version"        : "1.4.3",
+    "Appabout_Version"        : "5.4.3",
     "Appabout_Dev"            : "ANDERSOFT",
     "Appabout_Email"          : "Erindevapp@gmail.com",
     "Appabout_Web"            : "www.andersoftdev.com",
