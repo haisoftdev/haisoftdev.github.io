@@ -3,7 +3,7 @@
     "status"                  : false,
     "AppUpdate_Title"         : "أصلحنا بعض الأخطاء",
     "AppUpdate_Message"       : "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق.", 
-    "redirect_link"           : "https://play.google.com/store/apps/details?id=com.andersoft.fakecallshafa"
+    "redirect_link"           : "https://play.google.com/store/apps/details?id=com.reemdev.shafacall"
   },
     "AppSettings"             : {
     "ad_status"               : "1",
@@ -25,7 +25,7 @@
     "Player_Banner"           : "1",
     "Tic_Chose_Banner"        : "1", 
     "Tic_Games_Banner"        : "1",  
-    "privacy_link"            : "https://sites.google.com/view/andersofts"
+    "privacy_link"            : "https://sites.google.com/view/reemdev"
     
   },
     
@@ -38,28 +38,28 @@
       
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-5991888046347578/8758030910",
-    "AdMob_InterstitialAd"    : "ca-app-pub-5991888046347578/6098371693",
-    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_Native"            : "ca-app-pub-5991888046347578/8428215666",
+    "AdMob_Banner"            : "ca-app-pub-9760311877159894/2108952072",
+    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/2229243710",
+    "AdMob_RewardAd"          : "ca-app-pub-9760311877159894/9385410431",
+    "AdMob_Native"            : "ca-app-pub-9760311877159894/9604298711",
     
-    "Facebook_Banner"         : "3365521327087100_3365592980413268",
-    "Facebook_InterstitialAd" : "3365521327087100_3365593157079917",
-    "Facebook_RewardAd"       : "3365521327087100_3365593483746551",
-    "Facebook_Native"         : "3365521327087100_3365593323746567",
+    "Facebook_Banner"         : "475357068449387_475646735087087",
+    "Facebook_InterstitialAd" : "475357068449387_475647368420357",
+    "Facebook_RewardAd"       : "475357068449387_475647675086993",
+    "Facebook_Native"         : "475357068449387_475358231782604",
       
     "Applovin_Banner"         : "a5f235ba1320fb35",
     "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     "Applovin_Native"         : "76af75d288a7ada9",
 
-    "Appabout_Version"        : "5.4.3",
-    "Appabout_Dev"            : "ANDERSOFT",
-    "Appabout_Email"          : "Erindevapp@gmail.com",
+    "Appabout_Version"        : "39.4.3",
+    "Appabout_Dev"            : "REEMDEV",
+    "Appabout_Email"          : "Makhloukw@gmail.com",
     "Appabout_Web"            : "www.andersoftdev.com",
     
-    "promote_URL"             : "https://haisoftdev.github.io/developers/data/andersoft/callshafa/perso.json",
-    "video_link"              : "https://haisoftdev.github.io/developers/data/andersoft/callshafa/line.json"
+    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/shafacall/perso.json",
+    "video_link"              : "https://haisoftdev.github.io/developers/data/reemdv/shafacall/line.json"
 
   }
 }
