@@ -6,7 +6,7 @@
     "redirect_link"           : "https://play.google.com/store/apps/details?id=com.reemdev.shafacall"
   },
     "AppSettings"             : {
-    "ad_status"               : "1",
+    "ad_status"               : "0",
     "promote_Ads"             : "1", 
     "adHome_Banner"           : "1",
     "adMain_Banner"           : "1",
@@ -31,10 +31,10 @@
     
   "AdsController": {
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
-    "BannerNetwork"           : "applovin",
-    "InterstitialNetwork"     : "applovin",
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "applovin",
+    "NativeNetwork"           : "admob",
       
     "IntervalClick"           : 1,
     
