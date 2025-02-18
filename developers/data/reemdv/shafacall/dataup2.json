@@ -6,7 +6,7 @@
     "redirect_link"           : "https://play.google.com/store/apps/details?id=com.reemdev.shafacall"
   },
     "AppSettings"             : {
-    "ad_status"               : "0",
+    "ad_status"               : "1",
     "promote_Ads"             : "1", 
     "adHome_Banner"           : "1",
     "adMain_Banner"           : "1",
