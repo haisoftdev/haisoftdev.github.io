@@ -1,8 +1,8 @@
 {
     
   "AppRedirect": {
-    "status"                  : false,
-    "redirect_link":          "https://play.google.com/store/apps/details?id=chavd.com.absdev"
+    "status"                  : true,
+    "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.vone"
   },
     "AppSettings": {
     "adHome_Banner":          "0",
