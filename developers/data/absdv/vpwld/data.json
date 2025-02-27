@@ -1,8 +1,8 @@
 {
     
   "AppRedirect": {
-    "status"                  : false,
-    "redirect_link":          "https://play.google.com/store/apps/details?id=absdev.com.vpwld"
+    "status"                  : true,
+    "redirect_link":          "https://play.google.com/store/apps/details?id=com.reemdev.vtwo"
   },
     "AppSettings": {
     "adHome_Banner":          "1",
