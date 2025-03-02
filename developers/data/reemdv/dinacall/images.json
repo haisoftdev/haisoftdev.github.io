@@ -1,14 +1,14 @@
 {
   "images": [
-    "https://example.com/image1.jpg",
-    "https://example.com/image2.jpg",
-    "https://example.com/image3.jpg",
-    "https://example.com/image4.jpg",
-    "https://example.com/image5.jpg",
-    "https://example.com/image6.jpg",
-    "https://example.com/image7.jpg",
-    "https://example.com/image8.jpg",
-    "https://example.com/image9.jpg",
-    "https://example.com/image10.jpg"
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v1.jpg",
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v2.jpg",
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v3.jpg",
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v4.jpg",
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v5.jpg",
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v6.jpg",
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v7.jpg",
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v8.jpg",
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v9.jpg",
+    "https://raw.githubusercontent.com/reemdevapp/apps/main/raw/v10.jpg"
   ]
 }
