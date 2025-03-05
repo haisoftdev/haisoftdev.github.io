@@ -1,0 +1,104 @@
+{
+  "videos": [
+    {
+      "title": "تعلم البرمجة بلغة Java من الصفر",
+      "thumbnail": "https://img.youtube.com/vi/3u1fu6f8Hto/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=3u1fu6f8Hto"
+    },
+    {
+      "title": "كيفية إنشاء تطبيق أندرويد باستخدام Kotlin",
+      "thumbnail": "https://img.youtube.com/vi/N6YdwP1hBOw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=N6YdwP1hBOw"
+    },
+    {
+      "title": "دورة تطوير الويب باستخدام HTML و CSS",
+      "thumbnail": "https://img.youtube.com/vi/HGTJBPNC-Gw/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=HGTJBPNC-Gw"
+    },
+    {
+      "title": "أساسيات الذكاء الاصطناعي والتعلم العميق",
+      "thumbnail": "https://img.youtube.com/vi/aircAruvnKk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aircAruvnKk"
+    },
+    {
+      "title": "تعلم أساسيات React في 10 دقائق",
+      "thumbnail": "https://img.youtube.com/vi/Ke90Tje7VS0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Ke90Tje7VS0"
+    },
+    {
+      "title": "كيفية استخدام Git و GitHub للمطورين",
+      "thumbnail": "https://img.youtube.com/vi/RGOj5yH7evk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+    },
+    {
+      "title": "برمجة الألعاب باستخدام Unity للمبتدئين",
+      "thumbnail": "https://img.youtube.com/vi/XtQMytORBmM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XtQMytORBmM"
+    },
+    {
+      "title": "دورة تطوير تطبيقات Flutter من الصفر",
+      "thumbnail": "https://img.youtube.com/vi/rZLR5olMR7Y/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=rZLR5olMR7Y"
+    },
+    {
+      "title": "ما هو Blockchain وكيف يعمل؟",
+      "thumbnail": "https://img.youtube.com/vi/SSo_EIwHSd4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=SSo_EIwHSd4"
+    },
+    {
+      "title": "شرح SQL وكيفية التعامل مع قواعد البيانات",
+      "thumbnail": "https://img.youtube.com/vi/7S_tz1z_5bA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA"
+    },
+    {
+      "title": "تعلم Python خطوة بخطوة",
+      "thumbnail": "https://img.youtube.com/vi/_uQrJ0TkZlc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+    },
+    {
+      "title": "كيفية بناء REST API باستخدام Node.js و Express",
+      "thumbnail": "https://img.youtube.com/vi/fgTGADljAeg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=fgTGADljAeg"
+    },
+    {
+      "title": "مقدمة إلى تعلم الآلة باستخدام Python",
+      "thumbnail": "https://img.youtube.com/vi/GwIo3gDZCVQ/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GwIo3gDZCVQ"
+    },
+    {
+      "title": "أفضل الطرق لتحسين أداء تطبيقات الأندرويد",
+      "thumbnail": "https://img.youtube.com/vi/XyH1m5vbBdc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=XyH1m5vbBdc"
+    },
+    {
+      "title": "تصميم واجهات UI/UX احترافية للموبايل",
+      "thumbnail": "https://img.youtube.com/vi/H7HmzwI67ec/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=H7HmzwI67ec"
+    },
+    {
+      "title": "دورة كاملة في JavaScript للمبتدئين",
+      "thumbnail": "https://img.youtube.com/vi/W6NZfCO5SIk/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk"
+    },
+    {
+      "title": "كيفية تحليل البيانات باستخدام Python و Pandas",
+      "thumbnail": "https://img.youtube.com/vi/1xMQbL7b8cM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=1xMQbL7b8cM"
+    },
+    {
+      "title": "كيفية بناء تطبيق ويب باستخدام Django",
+      "thumbnail": "https://img.youtube.com/vi/F5mRW0jo-U4/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=F5mRW0jo-U4"
+    },
+    {
+      "title": "مقدمة إلى DevOps وأدوات CI/CD",
+      "thumbnail": "https://img.youtube.com/vi/nrBHi0Bkdv8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=nrBHi0Bkdv8"
+    },
+    {
+      "title": "ما هو Web3 وكيف سيغير الإنترنت؟",
+      "thumbnail": "https://img.youtube.com/vi/Kp9j7D64XfA/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Kp9j7D64XfA"
+    }
+  ]
+}
