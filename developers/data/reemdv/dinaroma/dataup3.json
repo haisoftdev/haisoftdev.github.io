@@ -12,6 +12,11 @@
     "adAbout_Banner"          : "1",
     "adMore_Banner"           : "1",
     "adSettings_Banner"       : "1", 
+    "adStar_Banner"           : "1", 
+    "adPlayer_offline"        : "1",
+    "adPlayer_online"         : "1",
+    "adVideo_offline"         : "1",
+    "adVideo_online"          : "1",
     "privacy_link"            : "https://sites.google.com/view/reemdev"
     
   },
