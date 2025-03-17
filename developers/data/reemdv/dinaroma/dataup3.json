@@ -36,7 +36,7 @@
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "admob",
       
-    "IntervalClick"           : 1,
+    "AdsController"           : 1,
     
     "AdMob_Banner"            : "ca-app-pub-9760311877159894/8846061878",
     "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/9168952588",
