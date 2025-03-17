@@ -18,13 +18,9 @@
     "adRandomCall_Banner"     : "1",
     "adContact_Banner"        : "1",
     "adMore_Banner"           : "1",
-    "adAcceptCall_Banner"     : "1",
-    "adAcceptVideo_Banner"    : "1", 
     "adAbout_Banner"          : "1",
     "Video_Banner"            : "1",
     "Player_Banner"           : "1",
-    "Tic_Chose_Banner"        : "1", 
-    "Tic_Games_Banner"        : "1",  
     "privacy_link"            : "https://sites.google.com/view/reemdev"
     
   },
