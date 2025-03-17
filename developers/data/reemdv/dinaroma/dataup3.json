@@ -1,12 +1,9 @@
 {
     "AppRedirect": {
-    "update_enabled": false,
-    "version_code": 40,
-    "update_url": "https://play.google.com/store/apps/details?id=com.reemdev.dinaroma", 
-    "show_cancel": true,
-    "AppUpdate_Title": "تحديث جديد متاح!",
-    "AppUpdate_Message": "نحن نقدم العديد من التحسينات والميزات الجديدة لجعل تجربتك أفضل.",
-    "icon_url": "https://play-lh.googleusercontent.com/Qe3Kkam1dETf9V81F0Tm0egkdbtSTWYgwLTLf2Gp8fUpEV-gxPbluq1NYTRupfRPpg=w240-h480-rw"
+       "status"                  : true,
+    "AppUpdate_Title"         : "أصلحنا بعض الأخطاء",
+    "AppUpdate_Message"       : "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق.", 
+    "redirect_link"           : "https://play.google.com/store/apps/details?id=com.reemdev.dinaroma"
   },
     "AppSettings"             : {
     "ad_status"               : "1",
