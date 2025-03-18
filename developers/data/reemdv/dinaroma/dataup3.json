@@ -1,8 +1,8 @@
 {
     "AppRedirect": {
     "Update_Enabled": true,
-    "Show_Cancel_Button": false,
-    "Version_Code": 49,
+    "Show_Cancel_Button": true,
+    "Version_Code": 59,
     "ReadMe": "you can use : direct or google_play",
     "Update_Source": "google_play",
     "AppUpdate_Title": "تحديث جديد متاح!",
