@@ -1,5 +1,5 @@
 {
-    "AppRedirect": {
+    "AppUpdateConfig": {
     "Update_Enabled": true,
     "Show_Cancel_Button": true,
     "Version_Code": 59,
