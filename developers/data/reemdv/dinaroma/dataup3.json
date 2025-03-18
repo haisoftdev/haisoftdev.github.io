@@ -14,12 +14,6 @@
     "AppSettings"             : {
     "ad_status"               : "1",
     "promote_Ads"             : "1", 
-    "adHome_Banner"           : "1",
-    "adSettings_Banner"       : "1",
-    "adMore_Banner"           : "1",
-    "adAbout_Banner"          : "1",
-    "Video_Banner"            : "1",
-    "Player_Banner"           : "1",
     "privacy_link"            : "https://sites.google.com/view/reemdev"
     
   },
