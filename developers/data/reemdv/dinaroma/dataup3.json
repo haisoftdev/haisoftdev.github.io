@@ -1,11 +1,15 @@
 {
     "AppRedirect": {
     "Update_Enabled": true,
-    "readMe"                  : "you can use : direct or google play",
-    "update_source": "google_play", 
-    "AppUpdate_Title"         : "أصلحنا بعض الأخطاء",
-    "AppUpdate_Message"       : "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق.", 
-    "Update_Url"              : "https://play.google.com/store/apps/details?id=com.reemdev.dinaroma"
+    "Show_Cancel_Button": true
+    "Version_Code": 49,
+    "ReadMe": "you can use : direct or google_play",
+    "Update_Source": "direct",
+    "AppUpdate_Title": "تحديث جديد متاح!",
+    "AppUpdate_Message": "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق.",
+    "icon_url": "https://play-lh.googleusercontent.com/L3V4oiVZDOmy-ljxCdmsygrlwK3HwncRQ_UUJPZ59NFfyftjg18QauJsODwsg3DoTg=w240-h480-rw",
+    "Update_Url": "https://play.google.com/store/apps/details?id=com.reemdev.shafacall",
+   
   },
     "AppSettings"             : {
     "ad_status"               : "1",
