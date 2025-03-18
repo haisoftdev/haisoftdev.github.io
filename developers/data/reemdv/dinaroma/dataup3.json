@@ -1,7 +1,7 @@
 {
     "AppUpdateConfig": {
     "Update_Enabled": true,
-    "Show_Cancel_Button": true,
+    "Show_Cancel_Button": false,
     "Version_Code": 21,
     "ReadMe": "you can use : direct or google_play",
     "Update_Source": "google_play",
