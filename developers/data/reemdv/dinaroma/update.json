@@ -1,7 +1,8 @@
 {
   "update_enabled": true,
   "version_code": 49,
-  "update_source": "google_play",
+  "readMe": "you can use : direct or google_play",
+  "update_source": "direct",
   "update_url": "https://play.google.com/store/apps/details?id=com.reemdev.shafacall",
   "title": "تحديث جديد متاح!",
   "description": "قم بتحديث تطبيقك إلى أحدث إصدار لاستخدام جميع ميزاتنا الفريدة دون أخطاء ، يرجى النقر على الزر أدناه لتحديث التطبيق.",
