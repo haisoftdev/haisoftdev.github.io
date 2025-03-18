@@ -2,7 +2,7 @@
     "AppUpdateConfig": {
     "Update_Enabled": true,
     "Show_Cancel_Button": true,
-    "Version_Code": 59,
+    "Version_Code": 29,
     "ReadMe": "you can use : direct or google_play",
     "Update_Source": "direct",
     "AppUpdate_Title": "66666666 جديد متاح!",
