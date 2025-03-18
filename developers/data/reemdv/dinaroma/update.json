@@ -1,0 +1,10 @@
+{
+  "update_enabled": true,
+  "version_code": 2,
+  "update_source": "direct",
+  "update_url": "https://yourserver.com/app_latest.apk",
+  "title": "تحديث جديد متاح!",
+  "description": "تحسينات وإصلاحات للأداء.",
+  "icon_url": "https://yourserver.com/icons/update_icon.png",
+  "show_cancel_button": true
+}
