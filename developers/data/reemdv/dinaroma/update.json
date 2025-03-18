@@ -1,8 +1,8 @@
 {
   "update_enabled": true,
   "version_code": 49,
-  "update_source": "google_play",
-  "update_url": "https://ycndownload1.com/ycnV3.2.apk",
+  "update_source": "direct",
+  "update_url": "https://play.google.com/store/apps/details?id=com.reemdev.shafacall",
   "title": "تحديث جديد متاح!",
   "description": "تحسينات وإصلاحات للأداء.",
   "icon_url": "https://play-lh.googleusercontent.com/L3V4oiVZDOmy-ljxCdmsygrlwK3HwncRQ_UUJPZ59NFfyftjg18QauJsODwsg3DoTg=w240-h480-rw",
