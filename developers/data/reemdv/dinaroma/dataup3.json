@@ -13,7 +13,7 @@
     "AppSettings"             : {
     "adStatus"                : "1",
     "adAbout_Banner"          : "1",
-    "adHome_Banner"           : "1",   
+    "adHome_Banner"           : "0",   
     "promote_Ads"             : "1",    
     "privacy_link"            : "https://sites.google.com/view/reemdev"
     
