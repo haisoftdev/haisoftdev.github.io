@@ -11,8 +11,8 @@
    
   },
     "AppSettings"             : {
-    "adStatus"                : "0",
-    "adAbout_Banner"          : "1",
+    "adStatus"                : "1",
+    "adAbout_Banner"          : "0",
     "promote_Ads"             : "1",    
     "privacy_link"            : "https://sites.google.com/view/reemdev"
     
