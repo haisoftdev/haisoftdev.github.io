@@ -42,10 +42,10 @@
     "Applovin_RewardAd"       : "76af75d288a7ada9",
     "Applovin_Native"         : "76af75d288a7ada9",
 
-    "Appabout_Version"        : "40.2.5",
-    "Appabout_Dev"            : "REEMDEV",
-    "Appabout_Email"          : "Makhloukw@gmail.com",
-    "Appabout_Web"            : "www.reemdevapps.com",
+    "App_Version"             : "40.2.5",
+    "App_Author"              : "REEMDEV",
+    "App_Email"               : "Makhloukw@gmail.com",
+    "App_Website"             : "www.reemdevapps.com",
     
     "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/perso.json",
     "video_link"              : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/line.json"
