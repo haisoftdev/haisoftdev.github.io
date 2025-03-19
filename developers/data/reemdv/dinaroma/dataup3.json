@@ -1,6 +1,6 @@
 {
     "AppUpdateConfig": {
-    "Update_Enabled": true,
+    "Update_Enabled": false,
     "Version_Code": 40,
     "ReadMe": "you can use : direct or google_play",
     "Update_Source": "direct",
