@@ -20,7 +20,7 @@
     "adVideoOffline_Banner"   : "1",
     "adVideoOnline_Banner"    : "1",
     "adPlayerOnline_Banner"   : "1",
-    "adPlayerOffline_Banner"  : "1",
+    "adPlayerOffline_Banner"  : "1",    
     "promote_Ads"             : "1",    
     "privacy_link"            : "https://sites.google.com/view/reemdev"
     
@@ -28,10 +28,10 @@
     
   "AdsController": {
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
-    "BannerNetwork"           : "admob",
-    "InterstitialNetwork"     : "admob",
-    "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "promote",
+    "BannerNetwork"           : "promote",
+    "InterstitialNetwork"     : "promote",
+    "RewardNetwork"           : "promote",
+    "NativeNetwork"           : "admob",
       
     "IntervalClick"           : 1,
     
