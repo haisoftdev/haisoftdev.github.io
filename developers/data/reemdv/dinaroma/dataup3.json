@@ -11,7 +11,7 @@
    
   },
     "AppSettings"             : {
-    "adStatus"                : "0",
+    "adStatus"                : "1",
     "adAbout_Banner"          : "1",
     "adHome_Banner"           : "1",
     "adMoreApp_Banner"        : "1",
