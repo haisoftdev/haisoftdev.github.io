@@ -1,106 +1,90 @@
 {
-    "videos": [
-        {
-            "id": 1,
-            "title": "Video 1",
-            "thumbnail": "thumb1.jpg",
-            "video_file": "video1.webm"
-        },
-        {
-            "id": 2,
-            "title": "Video 2",
-            "thumbnail": "thumb2.jpg",
-            "video_file": "video2.webm"
-        },
-        {
-            "id": 3,
-            "title": "Video 3",
-            "thumbnail": "thumb3.jpg",
-            "video_file": "video3.webm"
-        },
-        {
-            "id": 4,
-            "title": "Video 4",
-            "thumbnail": "thumb4.jpg",
-            "video_file": "video4.webm"
-        },
-        {
-            "id": 5,
-            "title": "Video 5",
-            "thumbnail": "thumb5.jpg",
-            "video_file": "video5.webm"
-        },
-        {
-            "id": 6,
-            "title": "Video 6",
-            "thumbnail": "thumb6.jpg",
-            "video_file": "video6.webm"
-        },
-        {
-            "id": 7,
-            "title": "Video 7",
-            "thumbnail": "thumb7.jpg",
-            "video_file": "video7.webm"
-        },
-        {
-            "id": 8,
-            "title": "Video 8",
-            "thumbnail": "thumb8.jpg",
-            "video_file": "video8.webm"
-        },
-        {
-            "id": 9,
-            "title": "Video 9",
-            "thumbnail": "thumb9.jpg",
-            "video_file": "video9.webm"
-        },
-        {
-            "id": 10,
-            "title": "Video 10",
-            "thumbnail": "thumb10.jpg",
-            "video_file": "video10.webm"
-        },
-        {
-            "id": 11,
-            "title": "Video 11",
-            "thumbnail": "thumb11.jpg",
-            "video_file": "video11.webm"
-        },
-        {
-            "id": 12,
-            "title": "Video 12",
-            "thumbnail": "thumb12.jpg",
-            "video_file": "video12.webm"
-        },
-        {
-            "id": 13,
-            "title": "Video 13",
-            "thumbnail": "thumb13.jpg",
-            "video_file": "video13.webm"
-        },
-        {
-            "id": 14,
-            "title": "Video 14",
-            "thumbnail": "thumb14.jpg",
-            "video_file": "video14.webm"
-        },
-        {
-            "id": 15,
-            "title": "Video 15",
-            "thumbnail": "thumb15.jpg",
-            "video_file": "video15.webm"
-        },
-        {
-            "id": 16,
-            "title": "Video 16",
-            "thumbnail": "thumb16.jpg",
-            "video_file": "video16.webm"
-        },
-        {
-            "id": 17,
-            "title": "Video 17",
-            "thumbnail": "thumb17.jpg",
-            "video_file": "video17.webm"
-        }
-    ]
+  "videos": [
+    {
+      "title": "المقطع الأول",
+      "file_name": "video1.mp4",
+      "thumbnail": "thumb1.jpg"
+    },
+    {
+      "title": "المقطع الثاني",
+      "file_name": "video2.mp4",
+      "thumbnail": "thumb2.jpg"
+    },
+    {
+      "title": "المقطع الثالث",
+      "file_name": "video3.mp4",
+      "thumbnail": "thumb3.jpg"
+    },
+    {
+      "title": "المقطع الرابع",
+      "file_name": "video4.mp4",
+      "thumbnail": "thumb4.jpg"
+    },
+    {
+      "title": "المقطع الخامس",
+      "file_name": "video5.mp4",
+      "thumbnail": "thumb5.jpg"
+    },
+    {
+      "title": "المقطع السادس",
+      "file_name": "video6.mp4",
+      "thumbnail": "thumb6.jpg"
+    },
+    {
+      "title": "المقطع السابع",
+      "file_name": "video7.mp4",
+      "thumbnail": "thumb7.jpg"
+    },
+    {
+      "title": "المقطع الثامن",
+      "file_name": "video8.mp4",
+      "thumbnail": "thumb8.jpg"
+    },
+    {
+      "title": "المقطع التاسع",
+      "file_name": "video9.mp4",
+      "thumbnail": "thumb9.jpg"
+    },
+    {
+      "title": "المقطع العاشر",
+      "file_name": "video10.mp4",
+      "thumbnail": "thumb10.jpg"
+    },
+    {
+      "title": "المقطع الحادي عشر",
+      "file_name": "video11.mp4",
+      "thumbnail": "thumb11.jpg"
+    },
+    {
+      "title": "المقطع الثاني عشر",
+      "file_name": "video12.mp4",
+      "thumbnail": "thumb12.jpg"
+    },
+    {
+      "title": "المقطع الثالث عشر",
+      "file_name": "video13.mp4",
+      "thumbnail": "thumb13.jpg"
+    },
+    {
+      "title": "المقطع الرابع عشر",
+      "file_name": "video14.mp4",
+      "thumbnail": "thumb14.jpg"
+    },
+    {
+      "title": "المقطع الخامس عشر",
+      "file_name": "video15.mp4",
+      "thumbnail": "thumb15.jpg"
+    },
+    {
+      "title": "المقطع السادس عشر",
+      "file_name": "video16.mp4",
+      "thumbnail": "thumb16.jpg"
+    },
+    {
+      "title": "المقطع السابع عشر",
+      "file_name": "video17.mp4",
+      "thumbnail": "thumb17.jpg"
+    }
+  ]
 }
+
