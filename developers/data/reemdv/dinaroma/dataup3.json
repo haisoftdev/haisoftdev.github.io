@@ -31,7 +31,7 @@
     "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "promote",
-    "NativeNetwork"           : "admob",
+    "NativeNetwork"           : "promote",
       
     "IntervalClick"           : 1,
     
