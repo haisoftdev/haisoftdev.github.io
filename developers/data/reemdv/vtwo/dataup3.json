@@ -1,7 +1,7 @@
 {
     "AppUpdateConfig": {
-    "Update_Enabled": true,
-    "Version_Code": 42,
+    "Update_Enabled": false,
+    "Version_Code": 40,
     "ReadMe": "you can use : direct or google_play",
     "Update_Source": "direct",
     "AppUpdate_Title": "التحديث الجديد هنا! استمتع بمزايا جديدة",
