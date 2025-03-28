@@ -35,13 +35,13 @@
       
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-9760311877159894/8846061878",
-    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/9168952588",
+    "AdMob_Banner"            : "ca-app-pub-9760311877159894/4457340826",
+    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/3144259151",
     "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
-    "AdMob_Native"            : "ca-app-pub-9760311877159894/1781363253",
+    "AdMob_Native"            : "ca-app-pub-9760311877159894/7047759429",
     
-    "Facebook_Banner"         : "482988747821750_482989764488315",
-    "Facebook_InterstitialAd" : "482988747821750_482989947821630",
+    "Facebook_Banner"         : "900912331873759_900913775206948",
+    "Facebook_InterstitialAd" : "900912331873759_900913961873596",
     "Facebook_RewardAd"       : "692961278482629_857106118734810",
     "Facebook_Native"         : "692961278482629_857100538735368",
       
@@ -55,8 +55,8 @@
     "App_Email"               : "Makhloukw@gmail.com",
     "App_Website"             : "www.reemdevapps.com",
     
-    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/perso.json",
-    "video_link"              : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/line.json"
+    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/vtwo/perso.json",
+    "video_link"              : "https://haisoftdev.github.io/developers/data/reemdv/vtwo/line.json"
 
   }
 }
