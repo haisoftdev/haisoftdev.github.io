@@ -36,8 +36,19 @@
         ""
       ]
     },
-    
     {
+      "name"        : "ديانا وروما",
+      "packageName" : "com.reemdev.dinacall",
+      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/shafacall/img/2.png",
+      "preview"     : "https://play-lh.googleusercontent.com/ZpU_ZkQf-vXzjToJ_xR3oqCr3DEzG2nmGgru4foSPc21Aue8qGJdIwDY1R-aFTpzAjg=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+       "",
+        "",
+        ""
+      ]
+    },
+    {  
       "name"        : "شفا تتصل بك",
       "packageName" : "com.reemdev.shafacall",
       "icon"        : "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
