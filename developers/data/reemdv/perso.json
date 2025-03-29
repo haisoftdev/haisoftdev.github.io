@@ -1,0 +1,52 @@
+{
+  "AppsPromote": [
+    {
+      "name"        : "شفا تتصل بك",
+      "packageName" : "com.reemdev.shafacall",
+      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/shafacall/img/1.png",
+      "preview"     : "https://play-lh.googleusercontent.com/XSdzKlYEwAm9_KqrJZy9qTHeDZ7BOYh0-U3V3x4Z2G38mdc06WhVX7d_vG6863zM8g=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "ديانا وروما",
+      "packageName" : "com.reemdev.dinacall",
+      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/shafacall/img/2.png",
+      "preview"     : "https://play-lh.googleusercontent.com/ZpU_ZkQf-vXzjToJ_xR3oqCr3DEzG2nmGgru4foSPc21Aue8qGJdIwDY1R-aFTpzAjg=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+       "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "قصي يتصل بك",
+      "packageName" : "com.reemdev.qosaycallcall",
+      "icon"        : "https://play-lh.googleusercontent.com/t-CVVJGbJdDXL4t2GRdIVp38LvI9eYfl4M1K4Vtzju_7DTrIZMIg4bvFgXHdYs2A7Q=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/TTJO2KjgE0niNycRBfPG67wAaLFmgKaeewbeAYWdZOu4zTvNmoghMX5q0iH_O2kGnOY=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+       "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "سامر يتصل بك",
+      "packageName" : "com.reemdev.samercall",
+      "icon"        : "https://play-lh.googleusercontent.com/eANcRBAYKAbQgtD3r_QVIzYxztYr1t4SSG_e8Dl4Nc3VZ8_RXxWoHeeN1jrBHN-Xw5w=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/oxk102Q5SCX4VaCk-5_qvfrgteLdzZJE6h411z_DEx1XseNW_hzylS7gtShytHciuQP_=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    }
+  ]
+}
