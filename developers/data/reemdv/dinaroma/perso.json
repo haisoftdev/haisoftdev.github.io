@@ -1,9 +1,46 @@
 {
-  "AppsPromote": [
+    "AppsPromote": [
+    {
+      "name"        : "شفا بدون نت",
+      "packageName" : "com.reemdev.vone",
+      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_3.png",
+      "preview"     : "https://play-lh.googleusercontent.com/AhGGc5qP5yCBSRyq58PlHd9nx-nOH6vQtfCdxt3WfR4wC_pVvdDRKGB28Xbs57Fsm3o=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+     {
+      "name"        : "قصي وليد الغابر",
+      "packageName" : "com.reemdev.vtwo",
+      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_4.png",
+      "preview"     : "https://play-lh.googleusercontent.com/Iop84yW235jyb1lXr4Qac9WqVP2-1CM-eSElyI_ahEMEm3evLgZGR8Ur8QOiDy2TIQA=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "شفا و سوسو",
+      "packageName" : "com.reemdev.three",
+      "icon"        : "https://play-lh.googleusercontent.com/Pwz6RBlwJkQDAcfDVer3aDt2lgVagzp2pfaVpudd9giX6q7X7YYCC16-p0bNnw3x9Qs=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/h9Q5XJIq6HibayqqSvnnuNetyRekA60v187wQrNVaKoI08ZxzClO3zv-iaDKnQs1xQA=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    
     {
       "name"        : "شفا تتصل بك",
       "packageName" : "com.reemdev.shafacall",
-      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/shafacall/img/1.png",
+      "icon"        : "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
       "preview"     : "https://play-lh.googleusercontent.com/XSdzKlYEwAm9_KqrJZy9qTHeDZ7BOYh0-U3V3x4Z2G38mdc06WhVX7d_vG6863zM8g=w416-h235-rw",
       "shortDescription": "بالمجان",
       "screenShot"  : [
@@ -13,21 +50,9 @@
       ]
     },
     {
-      "name"        : "ديانا وروما",
-      "packageName" : "com.reemdev.dinacall",
-      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/shafacall/img/2.png",
-      "preview"     : "https://play-lh.googleusercontent.com/ZpU_ZkQf-vXzjToJ_xR3oqCr3DEzG2nmGgru4foSPc21Aue8qGJdIwDY1R-aFTpzAjg=w416-h235-rw",
-      "shortDescription": "بالمجان",
-      "screenShot"  : [
-       "",
-        "",
-        ""
-      ]
-    },
-    {
       "name"        : "قصي يتصل بك",
       "packageName" : "com.reemdev.qosaycallcall",
-      "icon"        : "https://play-lh.googleusercontent.com/t-CVVJGbJdDXL4t2GRdIVp38LvI9eYfl4M1K4Vtzju_7DTrIZMIg4bvFgXHdYs2A7Q=w240-h480-rw",
+      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_8.png",
       "preview"     : "https://play-lh.googleusercontent.com/TTJO2KjgE0niNycRBfPG67wAaLFmgKaeewbeAYWdZOu4zTvNmoghMX5q0iH_O2kGnOY=w416-h235-rw",
       "shortDescription": "بالمجان",
       "screenShot"  : [
@@ -47,6 +72,57 @@
         "",
         ""
       ]
+    },
+    {
+      "name"        : "ديانا وروما فيديو",
+      "packageName" : "com.reemdev.dinaroma",
+      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_2.png",
+      "preview"     : "https://play-lh.googleusercontent.com/YBhuoKV7JGR-0X4pkXBHjbURvvDHcfpZPVLRd8H8wh4isUtVCXDYGdIzjchRI4Lx4Dz0=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "ستايسي فيديو بدون نت",
+      "packageName" : "com.reemdev.staysi",
+      "icon"        : "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_1.png",
+      "preview"     : "https://play-lh.googleusercontent.com/oksMLU2tYEfMaoG9GAi3fttFckyWKsyLP7Orib_ud66JZzfkIySRaH8jP2q9fwdiB27I=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+     {
+      "name"        : "ستايسي مقاطع فيديو",
+      "packageName" : "com.reemdev.staisione",
+      "icon"        : "https://play-lh.googleusercontent.com/IlP2ghN86hW3T8lRhVbY9NGFQbGoOxBTjUCBCZX6kpMR6zbVzjzSWqPBeGRYLBqpmUCh=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/Q6N_K7GZl7ya5o4OAmqevNluQ5SQ4JdiUaHGdFDL7XPQItKAKzx3kVcprfv7J5XqKg=w416-h235-rw",
+      "shortDescription": "بالمجان",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    }
+    
+  ],
+    
+  "YoutubePromote": [
+    {
+      "title"        : "FUNNY CHALLENGE 🤩",
+      "icon"         :"https://yt3.googleusercontent.com/3eUCMW9bm58QSodERr7fGL5TPb2rQ3Z6DGluB_1Spg3UD-GBToYKueBvuuxRya27XX6DueFHpQ=s176-c-k-c0x00ffffff-no-rj",
+      "preview"      : "https://i.ytimg.com/vi_webp/L90nShCP7PU/maxresdefault.webp",
+      "preview-small": "https://i.ytimg.com/vi_webp/L90nShCP7PU/maxresdefault.webp",
+      "watch"        : "https://youtu.be/_ghlgrWd2rg",
+      "channel"      : "https://youtu.be/_ghlgrWd2rg",
+      "Description"  : "We loved making challenge \n between your characters into popular games"
     }
   ]
+  
+  
 }
