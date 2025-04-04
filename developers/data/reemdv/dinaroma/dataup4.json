@@ -57,7 +57,7 @@
     
     "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/perso.json",
     "video_link"              : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/line.json",
-    "verify_license"          : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/verify_license.json"
+    "verify_license"          : "/verify_license.json"
 
   }
 }
