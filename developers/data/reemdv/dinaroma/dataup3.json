@@ -56,8 +56,7 @@
     "App_Website"             : "www.reemdevapps.com",
     
     "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/perso.json",
-    "video_link"              : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/line.json",
-    "verify_license"          : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/verify_license.json"
+    "video_link"              : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/line.json"
 
   }
 }
