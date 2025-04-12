@@ -24,7 +24,7 @@
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "admob",
     
-    "IntervalClick"           : 1,
+    "IntervalClick"           : 3,
     
     "AdMob_Banner"            : "ca-app-pub-1778309717892354/8946721886",
     "AdMob_InterstitialAd"    : "ca-app-pub-1778309717892354/6616056107",
