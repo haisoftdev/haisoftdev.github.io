@@ -10,7 +10,7 @@
    
   },
     "AppSettings"             : {
-    "adStatus"                : "0",
+    "adStatus"                : "1",
     "adAbout_Banner"          : "1",
     "adHome_Banner"           : "1",
     "adMoreApp_Banner"        : "1",
@@ -28,7 +28,7 @@
     
   "AdsController": {
     "readMe"                  : "you can use : admob or facebook or applovin or promote",
-    "BannerNetwork"           : "admob",
+    "BannerNetwork"           : "promote",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "promote",
     "NativeNetwork"           : "promote",
