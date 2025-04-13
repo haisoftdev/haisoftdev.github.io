@@ -1,0 +1,14 @@
+[
+  {
+    "name": "شرطة الأطفال",
+    "imageUrl": "https://example.com/kids_police_icon.png",
+    "rating": 4.5,
+    "packageName": "com.example.kidspolice"
+  },
+  {
+    "name": "لعبة تعليم الحروف",
+    "imageUrl": "https://example.com/letters_game_icon.png",
+    "rating": 4.7,
+    "packageName": "com.example.lettersgame"
+  }
+]
