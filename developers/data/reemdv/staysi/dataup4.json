@@ -1,0 +1,61 @@
+{
+    "AppUpdateConfig": {
+    "Update_Enabled": false,
+    "Version_Code": 50,
+    "ReadMe": "you can use : direct or google_play",
+    "Update_Source": "direct",
+    "AppUpdate_Title": "التحديث الجديد هنا! استمتع بمزايا جديدة",
+    "AppUpdate_Message": "تم تحسين التطبيق ليصبح أسرع وأكثر تطورًا. لا تفوت فرصة الحصول على جميع المزايا الجديدة التي ستجعل تجربتك أفضل بكثير. قم بالتحديث الآن!",
+    "Update_Url": "https://play.google.com/store/apps/details?id=com.reemdev.staysi"
+   
+  },
+    "AppSettings"             : {
+    "adStatus"                : "1",
+    "adAbout_Banner"          : "1",
+    "adHome_Banner"           : "1",
+    "adMoreApp_Banner"        : "1",
+    "adSettings_Banner"       : "1",
+    "adStar_Banner"           : "1",
+    "adVideoOffline_Banner"   : "1",
+    "adVideoOnline_Banner"    : "1",
+    "adPlayerOnline_Banner"   : "1",
+    "adPlayerOffline_Banner"  : "1",    
+    "promote_Ads"             : "1",    
+    "privacy_link"            : "https://sites.google.com/view/reemdev"
+    
+  },
+    
+  "AdsController": {
+    "readMe"                  : "you can use : admob or facebook or applovin or promote",
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "RewardNetwork"           : "promote",
+    "NativeNetwork"           : "promote",
+      
+    "IntervalClick"           : 1,
+    
+    "AdMob_Banner"            : "ca-app-pub-9760311877159894/8205017755",
+    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/1639609403",
+    "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
+    "AdMob_Native"            : "ca-app-pub-9760311877159894/6700364394",
+    
+    "Facebook_Banner"         : "1552879805615778_1552881435615615",
+    "Facebook_InterstitialAd" : "1552879805615778_1557288421841583",
+    "Facebook_RewardAd"       : "692961278482629_857106118734810",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+      
+    "Applovin_Banner"         : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd" : "d5a67a7b679c9a38",
+    "Applovin_RewardAd"       : "76af75d288a7ada9",
+    "Applovin_Native"         : "76af75d288a7ada9",
+
+    "App_Version"             : "40.2.5",
+    "App_Author"              : "REEMDEV",
+    "App_Email"               : "Makhloukw@gmail.com",
+    "App_Website"             : "www.reemdevapps.com",
+    
+    "promote_URL"             : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/perso.json",
+    "video_link"              : "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/line.json"
+
+  }
+}
