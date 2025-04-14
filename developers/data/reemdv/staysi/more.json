@@ -4,21 +4,24 @@
     "imageUrl": "https://play-lh.googleusercontent.com/Un0imD0W9oL10c5DijborR2a-sSgaFkZTMTUOtWSaq3MjDPh14gaQr_qXVL5uaWP-eM=w240-h480-rw",
     "rating": 4.5,
     "packageName": "com.reemdev.dinaroma",
-    "downloads": "3M+"
+    "downloads": "3M+",
+    "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
   },
   {
     "name": "لعبة ديانا وروما مكالمة وهمية",
     "imageUrl": "https://play-lh.googleusercontent.com/L3V4oiVZDOmy-ljxCdmsygrlwK3HwncRQ_UUJPZ59NFfyftjg18QauJsODwsg3DoTg=w240-h480-rw",
     "rating": 4.7,
     "packageName": "com.reemdev.dinacall",
-    "downloads": "600K+"
+    "downloads": "600K+",
+    "description": "تعلم الأبجدية بطريقة ممتعة!"
       },
   {
     "name": "لعبة سامر المدني يتصل بك",
     "imageUrl": "https://play-lh.googleusercontent.com/eANcRBAYKAbQgtD3r_QVIzYxztYr1t4SSG_e8Dl4Nc3VZ8_RXxWoHeeN1jrBHN-Xw5w=w240-h480-rw",
     "rating": 5.0,
     "packageName": "com.reemdev.samercall",
-    "downloads": "10K+"
+    "downloads": "10K+",
+    "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
   }
 ]
 
