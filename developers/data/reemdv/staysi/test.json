@@ -1,0 +1,15 @@
+[
+  {
+    "name": "لعبة سباق رهيبة",
+    "packageName": "com.example.racinggame",
+    "icon": "https://example.com/icon.png",
+    "rating": 4.6,
+    "downloads": "1M+",
+    "preview": "https://example.com/preview.mp4",
+    "shortDescription": "تحدى أصدقاءك في سباقات السرعة!",
+    "screenShot": [
+      "https://example.com/screen1.jpg",
+      "https://example.com/screen2.jpg"
+    ]
+  }
+]
