@@ -1,0 +1,66 @@
+{
+    "AppsPromote": [
+    {
+      "name"        : "Call Natsya",
+      "packageName" : "com.haha.studio.call.nastya",
+      "icon"        : "https://play-lh.googleusercontent.com/ZGdm4jEz-CBARE7WJDOdFPSJm58MeXclMxNcKxK2bef7DxhBiwdLPDIf6ICUZ4er=w240-h480",
+      "preview"     : "https://play-lh.googleusercontent.com/GOWcTgqd1GZ6x4-lW-8BYJO8vesAwlwTpSPcRNoIaoChUaQtckCUdPdDuRrHpIBT6ik=w416-h235",
+      "shortDescription": "start chat messenger 💬 with nastya",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+     {
+      "name"        : "Chat Vlad",
+      "packageName" : "com.haha.studio.call.vlad",
+      "icon"        : "https://play-lh.googleusercontent.com/vzASPKW_x7YlcqWU6I4ZcZoWZnpMOQwYW3wc3paIQR7bFvCPSAHegOLB_D5nPwQSG4U=w240-h480",
+      "preview"     : "https://play-lh.googleusercontent.com/-o-OmSkO1ijzSXKQtpLYbWnJh06ZAYvJKQFv9IEmNpjqR7JqCM5BJel_OuAdYCwMnvDF=w416-h235",
+      "shortDescription": "meet vlad on video chat 📷",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "Call diana",
+      "packageName" : "com.haha.studio.call.diana",
+      "icon"        : "https://play-lh.googleusercontent.com/iF7kZ0b00BhQMsj74dR-exOlC7o48gJJXz3D2MBm6trplAAAsQm2-qPYaq4act9cfA=w240-h480",
+      "preview"     : "https://play-lh.googleusercontent.com/T1g6w6ucQD0LgshE4q-xir86qyXk2jGxPiWtle_egbeVxDhsKO6forvirJ1Zq6RInDxr=w416-h235",
+      "shortDescription": "say Hey 👋 to diana",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "Chat with Adley",
+      "packageName" : "com.haha.studio.call.adley",
+      "icon"        : "https://play-lh.googleusercontent.com/PwUDphI11JC4JT5VEnYJ3Gn006XHKP4Dwj2q4DbRoRkNZa1DSZJm_reEmCkiRoN0NQ=w240-h480",
+      "preview"     : "https://play-lh.googleusercontent.com/S78ENsYHaYJ-AZGRSfuZpYqTqe0XPhzcldaaxSRapLwXoESfGP0sLbdcxrGy5bw7reY=w416-h235",
+      "shortDescription": "Make call 📞 to Adley",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+    
+   "YoutubePromote": [
+    {
+      "title"        : "BATATA QUEEN",
+      "icon"         :"https://zonekapp.com/promoAd/Assets/ic_batata.png",
+      "preview"      : "https://zonekapp.com/promoAd/Assets/promo_batata.png",
+      "preview-small": "https://zonekapp.com/promoAd/Assets/promo_batata.png",
+      "watch"        : "https://www.youtube.com/watch?v=bk8jOnGTCm0",
+      "channel"      : "channel/UCr84pg7M9VBOCizFvjRdB_Q",
+      "Description"  : "We loved making challenge \n between your characters into popular games"
+    }
+  ]
+  
+  
+}
