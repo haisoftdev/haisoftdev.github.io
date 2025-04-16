@@ -1,7 +1,7 @@
 {
   "AdsController": {
       
-    "AntiServing"            : false ,
+    "AntiServing"            : true ,
     "IntervalServing"        : 1,
     
     "AdNetwork"              : "facebook",
@@ -34,7 +34,7 @@
     "IronSourceKey"          : "176558895",
     
     "AdPromoteYB"            : false,
-    "AdPromoteAPP"           : true,
+    "AdPromoteAPP"           : false,
     "AdBlockCountries"       : ""
     
     
