@@ -1,0 +1,50 @@
+{
+  "AdsController": {
+      
+    "AntiServing"            : true ,
+    "IntervalServing"        : 1,
+    
+    "AdNetwork"              : "facebook",
+    
+    "IntervalClick"          : 1 ,
+
+    
+    "AdMob_ID"               : "pub-3608527014344711",
+    "AdMob_Banner"           : "",
+    "AdMob_InterstitialAd"   : "ca-app-pub-3608527014344711/2872893239",
+    "AdMob_NativeAd"         : "ca-app-pub-3608527014344711/7604159942",
+    "AdMob_RewardAd"         : "ca-app-pub-3608527014344711/2351833265",
+    
+    "Facebook_Banner"        : "666111595048120_666113715047908",
+    "Facebook_InterstitialAd": "666111595048120_666114448381168",
+    "Facebook_NativeAd"      : "666111595048120_666115165047763",
+    "Facebook_RewardAd"      : "666111595048120_666115578381055",
+    
+    "Applovin_Banner"        : "a5f235ba1320fb35",
+    "Applovin_InterstitialAd": "d5a67a7b679c9a38",
+    "Applovin_NativeAd"      : "3eefe9473d38b189",
+    "Applovin_RewardAd"      : "76af75d288a7ada9",
+    
+    "Unity_Status"           : false ,
+    "Unity_GameID"           : "5312719",
+    "Unity_Banner"           : "Banner_Android",
+    "Unity_InterstitialAd"   : "Interstitial_Android",
+    "Unity_RewardAd"         : "Rewarded_Android",
+    
+    "IronSourceKey"          : "176558895",
+    
+    "AdPromoteYB"            : false,
+    "AdPromoteAPP"           : true,
+    "AdBlockCountries"       : ""
+    
+    
+  },
+  
+  "updateAlert":{
+      
+      "version"    : "1.0.2",
+      "updateLink" : "com.haha.studio.call.nastya"
+      
+      
+  }
+}
