@@ -34,7 +34,7 @@
     "IronSourceKey"          : "176558895",
     
     "AdPromoteYB"            : false,
-    "AdPromoteAPP"           : false,
+    "AdPromoteAPP"           : true,
     "AdBlockCountries"       : ""
     
     
@@ -42,7 +42,7 @@
   
   "updateAlert":{
       
-      "version"    : "1.0.0",
+      "version"    : "43.2.5",
       "updateLink" : "com.haha.studio.call.nastya"
       
       
