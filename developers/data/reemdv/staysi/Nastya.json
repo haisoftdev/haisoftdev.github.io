@@ -33,7 +33,7 @@
     
     "IronSourceKey"          : "176558895",
     
-    "AdPromoteYB"            : false,
+    "AdPromoteYB"            : true,
     "AdPromoteAPP"           : true,
     "AdBlockCountries"       : ""
     
