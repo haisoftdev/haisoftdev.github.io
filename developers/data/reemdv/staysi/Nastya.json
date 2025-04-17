@@ -4,7 +4,7 @@
     "AntiServing"            : true ,
     "IntervalServing"        : 1,
     
-    "AdNetwork"              : "Promote",
+    "AdNetwork"              : "AdMob",
     
     "IntervalClick"          : 1 ,
 
