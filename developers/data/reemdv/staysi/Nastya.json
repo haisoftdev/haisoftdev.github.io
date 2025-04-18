@@ -1,10 +1,10 @@
 {
   "AdsController": {
       
-    "AntiServing"            : true ,
+    "AntiServing"            : false ,
     "IntervalServing"        : 1,
     
-    "AdNetwork"              : "AdPromote",
+    "AdNetwork"              : "AdMob",
     
     "IntervalClick"          : 1 ,
 
@@ -28,7 +28,7 @@
     
     
     "AdPromoteYB"            : false,
-    "AdPromoteAPP"           : true,
+    "AdPromoteAPP"           : false,
     "AdBlockCountries"       : ""
     
     
