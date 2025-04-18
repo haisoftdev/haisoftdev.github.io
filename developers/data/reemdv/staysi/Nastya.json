@@ -27,9 +27,9 @@
     
     
     
-    "AdPromoteYB"            : false,
+    "AdPromoteYB"            : true,
     "AdPromoteAPP"           : true,
-    "AdBlockCountries"       : "true"
+    "AdBlockCountries"       : ""
     
     
   },
