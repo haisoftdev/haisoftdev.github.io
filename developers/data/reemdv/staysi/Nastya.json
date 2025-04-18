@@ -25,11 +25,6 @@
     "Applovin_NativeAd"      : "3eefe9473d38b189",
     "Applovin_RewardAd"      : "76af75d288a7ada9",
     
-    "Unity_Status"           : false ,
-    "Unity_GameID"           : "5312719",
-    "Unity_Banner"           : "Banner_Android",
-    "Unity_InterstitialAd"   : "Interstitial_Android",
-    "Unity_RewardAd"         : "Rewarded_Android",
     
     "IronSourceKey"          : "176558895",
     
