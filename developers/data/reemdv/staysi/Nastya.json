@@ -4,7 +4,7 @@
     "AntiServing"            : true ,
     "IntervalServing"        : 1,
     
-    "AdNetwork"              : "AdMob",
+    "AdNetwork"              : "AdPromote",
     
     "IntervalClick"          : 1 ,
 
@@ -29,7 +29,7 @@
     
     "AdPromoteYB"            : false,
     "AdPromoteAPP"           : true,
-    "AdBlockCountries"       : "morocco"
+    "AdBlockCountries"       : ""
     
     
   },
