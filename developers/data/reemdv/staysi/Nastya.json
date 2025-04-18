@@ -27,16 +27,16 @@
     
     
     
-    "AdPromoteYB"            : true,
+    "AdPromoteYB"            : false,
     "AdPromoteAPP"           : true,
-    "AdBlockCountries"       : ""
+    "AdBlockCountries"       : "true"
     
     
   },
   
   "updateAlert":{
       
-      "version"    : "43.2.5",
+      "version"    : "41.2.5",
       "updateLink" : "com.haha.studio.call.nastya"
       
       
