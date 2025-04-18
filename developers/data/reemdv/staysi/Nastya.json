@@ -10,12 +10,12 @@
 
     
     "AdMob_ID"               : "pub-3608527014344711",
-    "AdMob_Banner"           : "xca-app-pub-3940256099942544/6300978111",
+    "AdMob_Banner"           : "ca-app-pub-3940256099942544/6300978111",
     "AdMob_InterstitialAd"   : "ca-app-pub-3940256099942544/1033173712",
-    "AdMob_NativeAd"         : "xca-app-pub-3940256099942544/2247696110",
+    "AdMob_NativeAd"         : "ca-app-pub-3940256099942544/2247696110",
     "AdMob_RewardAd"         : "ca-app-pub-3940256099942544/5224354917",
     
-    "Facebook_Banner"        : "x666111595048120_666113715047908",
+    "Facebook_Banner"        : "666111595048120_666113715047908",
     "Facebook_InterstitialAd": "666111595048120_666114448381168",
     "Facebook_NativeAd"      : "666111595048120_666115165047763",
     "Facebook_RewardAd"      : "666111595048120_666115578381055",
