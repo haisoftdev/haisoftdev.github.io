@@ -30,7 +30,8 @@
     "AdPromoteYB"            : false,
     "AdPromoteAPP"           : true,
     "AdBlockCountries"       : "",
-    "AppLinkPrivacy"         : "https://sites.google.com/view/reemdev"
+    "AppLinkPrivacy"         : "https://sites.google.com/view/reemdev",
+    "AdPromoteLink"         : "https://haisoftdev.github.io/developers/data/reemdv/staysi/PSYT-promote.json"
     
   },
   
