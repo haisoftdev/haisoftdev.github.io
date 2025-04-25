@@ -29,8 +29,8 @@
     
     "AdPromoteYB"            : false,
     "AdPromoteAPP"           : true,
-    "AdBlockCountries"       : ""
-    
+    "AdBlockCountries"       : "",
+    "AppLinkPrivacy"           "https://sites.google.com/view/reemdev"
     
   },
   
