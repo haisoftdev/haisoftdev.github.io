@@ -36,6 +36,12 @@
     "show_banner_about": "1",
     "show_banner_video_screen": "1",
 
+    "show_native_banner_random_call": "1",
+    "show_native_banner_contact": "1",
+	  "show_native_banner_main": "1",
+	  "show_native_banner_more": "1",
+    
+
     "enable_promote_youtube": false,
     "enable_promote_app": true,
     "ad_block_countries": "",
