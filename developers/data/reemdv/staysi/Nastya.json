@@ -43,6 +43,10 @@
     "enable_promote_app": true,
     "enable_promote_youtube": false,
 
+    "show_promote_banner_contact": "0",
+    "show_promote_banner_more": "0",
+    "show_promote_banner_chat": "0",
+    
     "ad_block_countries": "",
     "app_link_privacy": "https://sites.google.com/view/reemdev",
     "promote_data_link": "https://zonekapp.com/GGPS-SM-LG/SLPromote/PSYT-promote.json"
