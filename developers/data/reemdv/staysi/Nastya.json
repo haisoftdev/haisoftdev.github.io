@@ -4,19 +4,23 @@
     "anti_serving": true,
     "interval_serving": 1,
     "interval_click": 1,
+    
     "admob_id": "pub-3608527014344711",
     "admob_banner": "ca-app-pub-9760311877159894/8846061878",
     "admob_interstitial": "ca-app-pub-9760311877159894/2229243710",
     "admob_native": "ca-app-pub-9760311877159894/1781363253",
     "admob_reward": "ca-app-pub-9760311877159894/9385410431",
+    
     "facebook_banner": "666111595048120_666113715047908",
     "facebook_interstitial": "666111595048120_666114448381168",
     "facebook_native": "666111595048120_666115165047763",
     "facebook_reward": "666111595048120_666115578381055",
+    
     "applovin_banner": "a5f235ba1320fb35",
     "applovin_interstitial": "d5a67a7b679c9a38",
     "applovin_native": "3eefe9473d38b189",
     "applovin_reward": "76af75d288a7ada9",
+    
     "show_banner_about": "1",
     "show_banner_accept_call": "1",
     "show_banner_accept_video": "1",
@@ -30,16 +34,21 @@
     "show_banner_random_call": "1",
     "show_banner_settings": "1",
     "show_banner_video_screen": "1",
+    
     "show_native_banner_contact": "1",
     "show_native_banner_main": "1",
     "show_native_banner_more": "1",
     "show_native_banner_random_call": "1",
+    
     "enable_promote_app": true,
     "enable_promote_youtube": false,
+    
     "show_promote_banner_contact": "1",
     "show_promote_banner_more": "0",
     "show_promote_banner_chat": "0",
+    
     "ad_block_countries": "",
+    
     "app_link_privacy": "https://sites.google.com/view/reemdev",
     "promote_data_link": "https://zonekapp.com/GGPS-SM-LG/SLPromote/PSYT-promote.json"
   },
