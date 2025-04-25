@@ -22,8 +22,8 @@
     "applovin_reward": "76af75d288a7ada9",
     
     "show_banner_about": "1",
-    "show_banner_accept_call": "0",
-    "show_banner_accept_video": "0",
+    "show_banner_accept_call": "1",
+    "show_banner_accept_video": "1",
     "show_banner_chat": "1",
     "show_banner_chat_promote": "1",
     "show_banner_contact": "1",
