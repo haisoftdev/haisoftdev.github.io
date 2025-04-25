@@ -43,7 +43,7 @@
     "enable_promote_app": true,
     "enable_promote_youtube": false,
 
-    "show_promote_banner_contact": "0",
+    "show_promote_banner_contact": "1",
     "show_promote_banner_more": "0",
     "show_promote_banner_chat": "0",
     
