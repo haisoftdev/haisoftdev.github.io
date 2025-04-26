@@ -1,9 +1,15 @@
 {
   "ads_controller": {
-    "ad_network": "AdMob",
     "anti_serving": true,
     "interval_serving": 1,
     "interval_click": 1,
+
+    "ad_network": "AdMob",
+
+    "BannerNetwork"           : "admob",
+    "InterstitialNetwork"     : "admob",
+    "RewardNetwork"           : "admob",
+    "NativeNetwork"           : "admob",
     
     "admob_id": "pub-3608527014344711",
     "admob_banner": "ca-app-pub-9760311877159894/8846061878",
