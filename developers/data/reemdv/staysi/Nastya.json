@@ -7,7 +7,7 @@
     "ad_network": "facebook",
 
     "readMe": "You can choose from the following ad networks: admob, facebook, or applovin",
-    "BannerNetwork"           : "facebook",
+    "BannerNetwork"           : "admob",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
     "NativeNetwork"           : "admob",
