@@ -6,7 +6,7 @@
 
     "ad_network": "admob",
 
-    "readMe"                  : "you can use : admob or facebook or applovin",
+    "readMe": "You can choose from the following ad networks: admob, facebook, or applovin."
     "BannerNetwork"           : "facebook",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
