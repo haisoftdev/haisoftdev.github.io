@@ -49,7 +49,7 @@
     
     "enable_notification": "1",
     
-    "ad_block_countries": "MA",
+    "ad_block_countries": "MA,EG,DZ",
     
     "app_link_privacy": "https://sites.google.com/view/reemdev",
     "promote_data_link": "https://zonekapp.com/GGPS-SM-LG/SLPromote/PSYT-promote.json"
