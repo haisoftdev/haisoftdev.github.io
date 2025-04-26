@@ -6,10 +6,11 @@
 
     "ad_network": "AdMob",
 
-    "BannerNetwork"           : "admob",
+    "readMe"                  : "you can use : admob or facebook or applovin",
+    "BannerNetwork"           : "facebook",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "admob",
+    "NativeNetwork"           : "facebook",
     
     "admob_id": "pub-3608527014344711",
     "admob_banner": "ca-app-pub-9760311877159894/8846061878",
