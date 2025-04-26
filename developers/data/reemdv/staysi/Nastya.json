@@ -47,11 +47,14 @@
     "show_promote_banner_more": "0",
     "show_promote_banner_chat": "1",
     
+    "enable_notification": true,
+    
     "ad_block_countries": "",
     
     "app_link_privacy": "https://sites.google.com/view/reemdev",
     "promote_data_link": "https://zonekapp.com/GGPS-SM-LG/SLPromote/PSYT-promote.json"
   },
+  
   "update_alert": {
     "version": "42.2.5",
     "update_link": "com.reemdev.staysi"
