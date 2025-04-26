@@ -7,10 +7,10 @@
     "ad_network": "admob",
 
     "readMe": "You can choose from the following ad networks: admob, facebook, or applovin",
-    "BannerNetwork"           : "admob",
+    "BannerNetwork"           : "facebook",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "facebook",
+    "NativeNetwork"           : "admob",
     
     "admob_id": "pub-3608527014344711",
     "admob_banner": "ca-app-pub-9760311877159894/8846061878",
