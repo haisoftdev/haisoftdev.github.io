@@ -4,7 +4,7 @@
     "interval_serving": 1,
     "interval_click": 1,
 
-    "ad_network": "admob",
+    "ad_network": "facebook",
 
     "readMe": "You can choose from the following ad networks: admob, facebook, or applovin",
     "BannerNetwork"           : "facebook",
@@ -18,7 +18,7 @@
     "admob_native": "ca-app-pub-9760311877159894/1781363253",
     "admob_reward": "ca-app-pub-9760311877159894/9385410431",
     
-    "facebook_banner": "1552881435615615",
+    "facebook_banner": "1552879805615778_1557288421841583",
     "facebook_interstitial": "1552879805615778_1557288421841583",
     "facebook_native": "692961278482629_857100538735368",
     "facebook_reward": "692961278482629_857106118734810",
