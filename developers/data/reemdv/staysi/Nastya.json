@@ -4,13 +4,13 @@
     "interval_serving": 1,
     "interval_click": 1,
 
-    "ad_network": "facebook",
+    "ad_network": "admob",
 
     "readMe"                  : "you can use : admob or facebook or applovin",
     "BannerNetwork"           : "facebook",
     "InterstitialNetwork"     : "admob",
     "RewardNetwork"           : "admob",
-    "NativeNetwork"           : "facebook",
+    "NativeNetwork"           : "admob",
     
     "admob_id": "pub-3608527014344711",
     "admob_banner": "ca-app-pub-9760311877159894/8846061878",
