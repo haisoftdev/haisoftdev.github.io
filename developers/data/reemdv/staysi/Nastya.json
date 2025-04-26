@@ -4,7 +4,7 @@
     "interval_serving": 1,
     "interval_click": 1,
 
-    "ad_network": "AdMob",
+    "ad_network": "facebook",
 
     "readMe"                  : "you can use : admob or facebook or applovin",
     "BannerNetwork"           : "facebook",
