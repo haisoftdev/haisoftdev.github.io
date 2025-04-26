@@ -47,7 +47,7 @@
     "show_promote_banner_more": "0",
     "show_promote_banner_chat": "1",
     
-    "enable_notification": true,
+    "enable_notification": "1",
     
     "ad_block_countries": "",
     
