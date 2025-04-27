@@ -1,6 +1,6 @@
 {
   "ads_controller": {
-    "anti_serving": true,
+    "anti_serving": false,
     "interval_serving": 1,
     "interval_click": 1,
 
