@@ -2,7 +2,7 @@
   "ads_controller": {
     "anti_serving": true,
     "interval_serving": 0,
-    "interval_click": 1,
+    "interval_click": 0,
 
     "ad_network": "admob",
 
