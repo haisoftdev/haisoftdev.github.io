@@ -36,12 +36,12 @@
     "show_banner_contact": "1",
     "show_banner_home": "1",
     "show_banner_live": "1",
-    "show_banner_main": "0",
+    "show_banner_main": "1",
     "show_banner_more": "1",
     "show_banner_random_call": "1",
     "show_banner_settings": "1",
     "show_banner_video_screen": "1",
-    "show_banner_theme_settings": "1",
+    "show_banner_theme_settings": "0",
 
     
     "show_native_banner_contact": "1",
