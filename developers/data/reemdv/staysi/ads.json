@@ -1,28 +1,28 @@
 {
   "ads": [
     {
-      "title": "تطبيق الطقس",
+      "title": "لعبة شفا و سوسو تتصل بك",
       "description": "تعرف على حالة الطقس لحظة بلحظة!",
-      "imageUrl": "https://example.com/images/weather.png",
-      "link": "https://play.google.com/store/apps/details?id=com.weather.app"
+      "imageUrl": "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.reemdev.shafacall"
     },
     {
-      "title": "تطبيق الطبخ",
+      "title": "ديانا وروما فيديو بدون نت",
       "description": "وصفات طبخ يومية سهلة وسريعة.",
-      "imageUrl": "https://example.com/images/cooking.png",
-      "link": "https://play.google.com/store/apps/details?id=com.cooking.recipes"
+      "imageUrl": "https://play-lh.googleusercontent.com/Un0imD0W9oL10c5DijborR2a-sSgaFkZTMTUOtWSaq3MjDPh14gaQr_qXVL5uaWP-eM=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.reemdev.dinaroma"
     },
     {
-      "title": "تطبيق تمارين رياضية",
+      "title": "لعبة ديانا وروما مكالمة وهمية",
       "description": "احصل على جسم مثالي في 30 يومًا!",
-      "imageUrl": "https://example.com/images/fitness.png",
-      "link": "https://play.google.com/store/apps/details?id=com.fitness.trainer"
+      "imageUrl": "https://play-lh.googleusercontent.com/L3V4oiVZDOmy-ljxCdmsygrlwK3HwncRQ_UUJPZ59NFfyftjg18QauJsODwsg3DoTg=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.reemdev.dinacall"
     },
     {
-      "title": "تطبيق تعلّم اللغة",
+      "title": "مقالب شفا و سوسو بدون نت",
       "description": "تعلّم الإنجليزية بسهولة ومرح!",
-      "imageUrl": "https://example.com/images/language.png",
-      "link": "https://play.google.com/store/apps/details?id=com.language.learn"
+      "imageUrl": "https://play-lh.googleusercontent.com/R5eQr4wTA-J438zb-Ki03EthRbPAb0TmhRVNmgaG9fleQFmg8xiplHdNW9O9J7QvFw=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.reemdev.three"
     }
   ]
 }
