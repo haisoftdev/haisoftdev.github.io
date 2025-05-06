@@ -1,0 +1,28 @@
+{
+  "ads": [
+    {
+      "title": "تطبيق الطقس",
+      "description": "تعرف على حالة الطقس لحظة بلحظة!",
+      "imageUrl": "https://example.com/images/weather.png",
+      "link": "https://play.google.com/store/apps/details?id=com.weather.app"
+    },
+    {
+      "title": "تطبيق الطبخ",
+      "description": "وصفات طبخ يومية سهلة وسريعة.",
+      "imageUrl": "https://example.com/images/cooking.png",
+      "link": "https://play.google.com/store/apps/details?id=com.cooking.recipes"
+    },
+    {
+      "title": "تطبيق تمارين رياضية",
+      "description": "احصل على جسم مثالي في 30 يومًا!",
+      "imageUrl": "https://example.com/images/fitness.png",
+      "link": "https://play.google.com/store/apps/details?id=com.fitness.trainer"
+    },
+    {
+      "title": "تطبيق تعلّم اللغة",
+      "description": "تعلّم الإنجليزية بسهولة ومرح!",
+      "imageUrl": "https://example.com/images/language.png",
+      "link": "https://play.google.com/store/apps/details?id=com.language.learn"
+    }
+  ]
+}
