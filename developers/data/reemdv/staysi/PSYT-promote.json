@@ -1,11 +1,12 @@
 {
     "AppsPromote": [
     {
-      "name"        : "Call Natsya",
-      "packageName" : "com.haha.studio.call.nastya",
-      "icon"        : "https://play-lh.googleusercontent.com/ZGdm4jEz-CBARE7WJDOdFPSJm58MeXclMxNcKxK2bef7DxhBiwdLPDIf6ICUZ4er=w240-h480",
+      "name"        : "لعبة شفا و سوسو",
+      "packageName" : "com.reemdev.shafacall",
+      "icon"        : "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
       "preview"     : "https://play-lh.googleusercontent.com/GOWcTgqd1GZ6x4-lW-8BYJO8vesAwlwTpSPcRNoIaoChUaQtckCUdPdDuRrHpIBT6ik=w416-h235",
-      "shortDescription": "start chat messenger 💬 with nastya",
+      "shortDescription": "لعبة شفا و سوسو تتصل بك
+",
       "screenShot"  : [
         "",
         "",
@@ -13,11 +14,11 @@
       ]
     },
      {
-      "name"        : "Chat Vlad",
-      "packageName" : "com.haha.studio.call.vlad",
-      "icon"        : "https://play-lh.googleusercontent.com/vzASPKW_x7YlcqWU6I4ZcZoWZnpMOQwYW3wc3paIQR7bFvCPSAHegOLB_D5nPwQSG4U=w240-h480",
+      "name"        : "ديانا وروما فيديو",
+      "packageName" : "com.reemdev.dinaroma",
+      "icon"        : "https://play-lh.googleusercontent.com/Un0imD0W9oL10c5DijborR2a-sSgaFkZTMTUOtWSaq3MjDPh14gaQr_qXVL5uaWP-eM=w240-h480-rw",
       "preview"     : "https://play-lh.googleusercontent.com/-o-OmSkO1ijzSXKQtpLYbWnJh06ZAYvJKQFv9IEmNpjqR7JqCM5BJel_OuAdYCwMnvDF=w416-h235",
-      "shortDescription": "meet vlad on video chat 📷",
+      "shortDescription": "ديانا وروما فيديو بدون نت",
       "screenShot"  : [
         "",
         "",
@@ -25,9 +26,9 @@
       ]
     },
     {
-      "name"        : "Call diana",
-      "packageName" : "com.haha.studio.call.diana",
-      "icon"        : "https://play-lh.googleusercontent.com/iF7kZ0b00BhQMsj74dR-exOlC7o48gJJXz3D2MBm6trplAAAsQm2-qPYaq4act9cfA=w240-h480",
+      "name"        : "لعبة ديانا وروما",
+      "packageName" : "com.reemdev.dinacall",
+      "icon"        : "https://play-lh.googleusercontent.com/L3V4oiVZDOmy-ljxCdmsygrlwK3HwncRQ_UUJPZ59NFfyftjg18QauJsODwsg3DoTg=w240-h480-rw",
       "preview"     : "https://play-lh.googleusercontent.com/T1g6w6ucQD0LgshE4q-xir86qyXk2jGxPiWtle_egbeVxDhsKO6forvirJ1Zq6RInDxr=w416-h235",
       "shortDescription": "say Hey 👋 to diana",
       "screenShot"  : [
@@ -37,9 +38,9 @@
       ]
     },
     {
-      "name"        : "Chat with Adley",
-      "packageName" : "com.haha.studio.call.adley",
-      "icon"        : "https://play-lh.googleusercontent.com/PwUDphI11JC4JT5VEnYJ3Gn006XHKP4Dwj2q4DbRoRkNZa1DSZJm_reEmCkiRoN0NQ=w240-h480",
+      "name"        : "مقاطع ستايسي فيديو",
+      "packageName" : "com.reemdev.staysi",
+      "icon"        : "https://play-lh.googleusercontent.com/CVXqlDaNAXc-YM6HJuYCqYnS1apbnLg-sYIPgHuTEEdB_mtb6a_HBAJA_oYWltKlZFaX=w240-h480-rw",
       "preview"     : "https://play-lh.googleusercontent.com/S78ENsYHaYJ-AZGRSfuZpYqTqe0XPhzcldaaxSRapLwXoESfGP0sLbdcxrGy5bw7reY=w416-h235",
       "shortDescription": "Make call 📞 to Adley",
       "screenShot"  : [
