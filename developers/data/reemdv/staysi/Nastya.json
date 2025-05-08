@@ -4,7 +4,7 @@
     "interval_serving": 1,
     "interval_click": 1,
 
-    "ad_network": "admob",
+    "ad_network": "facebook",
 
     "readMe": "You can choose from the following ad networks: admob, facebook, or applovin",
     "BannerNetwork"           : "admob",
@@ -58,7 +58,7 @@
     
     "enable_notification": "1",
     
-    "ad_block_countries": "MA",
+    "ad_block_countries": "",
     
     "app_link_privacy": "https://sites.google.com/view/reemdev",
     "promote_data_link": "https://zonekapp.com/GGPS-SM-LG/SLPromote/PSYT-promote.json"
