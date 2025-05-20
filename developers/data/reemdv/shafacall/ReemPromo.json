@@ -1,0 +1,66 @@
+{
+    "AppsPromote": [
+    {
+      "name"        : "لعبة شفا و سوسو",
+      "packageName" : "com.reemdev.shafacall",
+      "icon"        : "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/GOWcTgqd1GZ6x4-lW-8BYJO8vesAwlwTpSPcRNoIaoChUaQtckCUdPdDuRrHpIBT6ik=w416-h235",
+      "shortDescription": "لعبة شفا و سوسو تتصل بك",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+     {
+      "name"        : "ديانا وروما فيديو",
+      "packageName" : "com.reemdev.dinaroma",
+      "icon"        : "https://play-lh.googleusercontent.com/Un0imD0W9oL10c5DijborR2a-sSgaFkZTMTUOtWSaq3MjDPh14gaQr_qXVL5uaWP-eM=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/-o-OmSkO1ijzSXKQtpLYbWnJh06ZAYvJKQFv9IEmNpjqR7JqCM5BJel_OuAdYCwMnvDF=w416-h235",
+      "shortDescription": "ديانا وروما فيديو بدون نت",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "لعبة ديانا وروما",
+      "packageName" : "com.reemdev.dinacall",
+      "icon"        : "https://play-lh.googleusercontent.com/L3V4oiVZDOmy-ljxCdmsygrlwK3HwncRQ_UUJPZ59NFfyftjg18QauJsODwsg3DoTg=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/T1g6w6ucQD0LgshE4q-xir86qyXk2jGxPiWtle_egbeVxDhsKO6forvirJ1Zq6RInDxr=w416-h235",
+      "shortDescription": "say Hey 👋 to diana",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "name"        : "مقاطع ستايسي فيديو",
+      "packageName" : "com.reemdev.staysi",
+      "icon"        : "https://play-lh.googleusercontent.com/CVXqlDaNAXc-YM6HJuYCqYnS1apbnLg-sYIPgHuTEEdB_mtb6a_HBAJA_oYWltKlZFaX=w240-h480-rw",
+      "preview"     : "https://play-lh.googleusercontent.com/S78ENsYHaYJ-AZGRSfuZpYqTqe0XPhzcldaaxSRapLwXoESfGP0sLbdcxrGy5bw7reY=w416-h235",
+      "shortDescription": "Make call 📞 to Adley",
+      "screenShot"  : [
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+    
+   "YoutubePromote": [
+    {
+      "title"        : "BATATA QUEEN",
+      "icon"         :"https://zonekapp.com/promoAd/Assets/ic_batata.png",
+      "preview"      : "https://zonekapp.com/promoAd/Assets/promo_batata.png",
+      "preview-small": "https://zonekapp.com/promoAd/Assets/promo_batata.png",
+      "watch"        : "https://www.youtube.com/watch?v=bk8jOnGTCm0",
+      "channel"      : "channel/UCr84pg7M9VBOCizFvjRdB_Q",
+      "Description"  : "We loved making challenge \n between your characters into popular games"
+    }
+  ]
+  
+  
+}
