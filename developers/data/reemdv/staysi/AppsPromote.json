@@ -1,0 +1,94 @@
+{
+  "AppsPromote": [
+    {
+      "name": "شفا بدون نت",
+      "icon": "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_3.png",
+      "preview": "https://example.com/previews/shafa1_preview.png",
+      "rating": 4.5,
+      "packageName": "com.reemdev.vone",
+      "downloads": "100K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "قصي وليد الغابر",
+      "icon": "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_4.png",
+      "preview": "https://example.com/previews/qosay1_preview.png",
+      "rating": 4.5,
+      "packageName": "com.reemdev.vtwo",
+      "downloads": "100K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "شفا و سوسو",
+      "icon": "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_5.png",
+      "preview": "https://example.com/previews/shafa_soso_preview.png",
+      "rating": 4.5,
+      "packageName": "com.reemdev.three",
+      "downloads": "100K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "ديانا وروما",
+      "icon": "https://haisoftdev.github.io/developers/data/reemdv/shafacall/img/2.png",
+      "preview": "https://example.com/previews/dina_roma_preview.png",
+      "rating": 4.7,
+      "packageName": "com.reemdev.dinacall",
+      "downloads": "600K+",
+      "description": "تعلم الأبجدية بطريقة ممتعة!"
+    },
+    {
+      "name": "شفا تتصل بك",
+      "icon": "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
+      "preview": "https://example.com/previews/shafa_call_preview.png",
+      "rating": 4.6,
+      "packageName": "com.reemdev.shafacall",
+      "downloads": "500K+",
+      "description": "استمتع بالمكالمات الوهمية المسلية!"
+    },
+    {
+      "name": "قصي يتصل بك",
+      "icon": "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_8.png",
+      "preview": "https://example.com/previews/qosay_call_preview.png",
+      "rating": 4.5,
+      "packageName": "com.reemdev.qosaycallcall",
+      "downloads": "50K+",
+      "description": "مكالمة وهمية ممتعة مع قصي!"
+    },
+    {
+      "name": "سامر يتصل بك",
+      "icon": "https://play-lh.googleusercontent.com/eANcRBAYKAbQgtD3r_QVIzYxztYr1t4SSG_e8Dl4Nc3VZ8_RXxWoHeeN1jrBHN-Xw5w=w240-h480-rw",
+      "preview": "https://example.com/previews/samer_call_preview.png",
+      "rating": 5.0,
+      "packageName": "com.reemdev.samercall",
+      "downloads": "10K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "ديانا وروما فيديو",
+      "icon": "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_2.png",
+      "preview": "https://example.com/previews/dinaroma_video_preview.png",
+      "rating": 4.6,
+      "packageName": "com.reemdev.dinaroma",
+      "downloads": "3M+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "ستايسي فيديو بدون نت",
+      "icon": "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_1.png",
+      "preview": "https://example.com/previews/staysi_offline_preview.png",
+      "rating": 4.4,
+      "packageName": "com.reemdev.staysi",
+      "downloads": "100K+",
+      "description": "مقاطع فيديو تعليمية ومسلية!"
+    },
+    {
+      "name": "ستايسي مقاطع فيديو",
+      "icon": "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_6.png",
+      "preview": "https://example.com/previews/staysi_videos_preview.png",
+      "rating": 4.4,
+      "packageName": "com.reemdev.staisione",
+      "downloads": "100K+",
+      "description": "فيديوهات ممتعة للأطفال!"
+    }
+  ]
+}
