@@ -14,8 +14,20 @@
     "InterstitialNetwork": "admob",
     "NativeNetwork"      : "admob",
     "RewardNetwork"      : "admob",
+
+    "anti_serving": true,
+    "interval_serving": 1,
+    "interval_click": 1,
+
+    "ad_network": "admob",
     
     "AdInterval"         : 1,
+
+     "AppSettings": {
+
+     "enable_notification": "1",
+     "ad_block_countries": "",
+     "app_link_privacy": "https://sites.google.com/view/reemdev", 
     
     "AdPlacement": {
         
