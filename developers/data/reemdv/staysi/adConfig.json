@@ -26,7 +26,7 @@
      "AppSettings": {
 
      "enable_notification": "1",
-     "ad_block_countries": "",
+     "ad_block_countries": "MA",
      "app_link_privacy": "https://sites.google.com/view/reemdev", 
     
     "AdPlacement": {
