@@ -7,7 +7,9 @@
       "rating": 4.5,
       "packageName": "com.reemdev.vone",
       "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!",
+      "reviews": "1582"
+
     },
     {
       "name": "قصي وليد الغابر",
@@ -16,7 +18,8 @@
       "rating": 4.5,
       "packageName": "com.reemdev.vtwo",
       "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!",
+      "reviews": "2582"
     },
     {
       "name": "شفا و سوسو",
@@ -25,7 +28,8 @@
       "rating": 4.5,
       "packageName": "com.reemdev.three",
       "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!",
+      "reviews": "3582"
     },
     {
       "name": "ديانا وروما",
@@ -34,7 +38,8 @@
       "rating": 4.7,
       "packageName": "com.reemdev.dinacall",
       "downloads": "600K+",
-      "description": "تعلم الأبجدية بطريقة ممتعة!"
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!",
+      "reviews": "6582"
     },
     {
       "name": "شفا تتصل بك",
@@ -43,7 +48,8 @@
       "rating": 4.6,
       "packageName": "com.reemdev.shafacall",
       "downloads": "500K+",
-      "description": "استمتع بالمكالمات الوهمية المسلية!"
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!",
+      "reviews": "9582"
     },
     {
       "name": "قصي يتصل بك",
