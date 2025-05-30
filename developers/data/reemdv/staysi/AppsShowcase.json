@@ -1,5 +1,5 @@
 {
-  "AppsShowcase": [
+  "SliderShowcase": [
     {
       "name": "شفا بدون نت",
       "icon": "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_3.png",
@@ -34,8 +34,7 @@
       "rating": 4.7,
       "packageName": "com.reemdev.dinacall",
       "downloads": "600K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!",
-      "reviews": "6582"
+      "description": "تعلم الأبجدية بطريقة ممتعة!"
     },
     {
       "name": "شفا تتصل بك",
@@ -44,7 +43,7 @@
       "rating": 4.6,
       "packageName": "com.reemdev.shafacall",
       "downloads": "500K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "استمتع بالمكالمات الوهمية المسلية!"
     },
     {
       "name": "قصي يتصل بك",
@@ -90,6 +89,82 @@
       "packageName": "com.reemdev.staisione",
       "downloads": "100K+",
       "description": "فيديوهات ممتعة للأطفال!"
+    }
+  ],
+  "BannerThreeShowcase": [
+    {
+      "name": " شفا و سوسو تتصل بك",
+      "icon": "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/Mrhw_5PKxdO3oEDkouPgySAkO7ebscAe1zAo9vdw216VmLOGJ9p8qK2IV6TXZ6d3gZBX=w416-h235-rw",
+      "rating": 4.4,
+      "packageName": "com.reemdev.shafacall",
+      "downloads": "100K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "ديانا وروما مكالمة وهمية",
+      "icon": "https://play-lh.googleusercontent.com/L3V4oiVZDOmy-ljxCdmsygrlwK3HwncRQ_UUJPZ59NFfyftjg18QauJsODwsg3DoTg=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/ZpU_ZkQf-vXzjToJ_xR3oqCr3DEzG2nmGgru4foSPc21Aue8qGJdIwDY1R-aFTpzAjg=w416-h235-rw",
+      "rating": 4.2,
+      "packageName": "com.reemdev.dinacall",
+      "downloads": "50K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "ديانا وروما فيديو بدون نت",
+      "icon": "https://play-lh.googleusercontent.com/Un0imD0W9oL10c5DijborR2a-sSgaFkZTMTUOtWSaq3MjDPh14gaQr_qXVL5uaWP-eM=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/YBhuoKV7JGR-0X4pkXBHjbURvvDHcfpZPVLRd8H8wh4isUtVCXDYGdIzjchRI4Lx4Dz0=w416-h235-rw",
+      "rating": 4.5,
+      "packageName": "com.reemdev.dinaroma",
+      "downloads": "100K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    }
+  ],
+  "BannerShowcase": [
+    {
+      "name": "مقاطع ستايسي فيديو بدون نت",
+      "icon": "https://play-lh.googleusercontent.com/CVXqlDaNAXc-YM6HJuYCqYnS1apbnLg-sYIPgHuTEEdB_mtb6a_HBAJA_oYWltKlZFaX=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/oksMLU2tYEfMaoG9GAi3fttFckyWKsyLP7Orib_ud66JZzfkIySRaH8jP2q9fwdiB27I=w416-h235-rw",
+      "rating": 4.5,
+      "packageName": "com.reemdev.staysi",
+      "downloads": "100K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "مقالب شفا و سوسو بدون نت",
+      "icon": "https://play-lh.googleusercontent.com/R5eQr4wTA-J438zb-Ki03EthRbPAb0TmhRVNmgaG9fleQFmg8xiplHdNW9O9J7QvFw=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/h9Q5XJIq6HibayqqSvnnuNetyRekA60v187wQrNVaKoI08ZxzClO3zv-iaDKnQs1xQA=w416-h235-rw",
+      "rating": 4.5,
+      "packageName": "com.reemdev.three",
+      "downloads": "100K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "مقاطع فيديو ومقالب شفا بدون نت",
+      "icon": "https://play-lh.googleusercontent.com/kun_Fzw1h8vN8QeUcZEv1Y5o6aaJi7sr51-iYfjdzTGFJx1aN3iCCnpUzfd68If0A4ix=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/AhGGc5qP5yCBSRyq58PlHd9nx-nOH6vQtfCdxt3WfR4wC_pVvdDRKGB28Xbs57Fsm3o=w416-h235-rw",
+      "rating": 4.5,
+      "packageName": "com.reemdev.vone",
+      "downloads": "100K+",
+      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+    },
+    {
+      "name": "مقاطع فيديو قصي وليد الغابر",
+      "icon": "https://play-lh.googleusercontent.com/59lp2k5MOgANtOsRg-PDDqJPFYhrYrYussjBGzW8H6oOeRxowcBStvpDkz8o-9BIoSE=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/Iop84yW235jyb1lXr4Qac9WqVP2-1CM-eSElyI_ahEMEm3evLgZGR8Ur8QOiDy2TIQA=w416-h235-rw",
+      "rating": 4.7,
+      "packageName": "com.reemdev.vtwo",
+      "downloads": "600K+",
+      "description": "تعلم الأبجدية بطريقة ممتعة!"
+    },
+    {
+      "name": "ستايسي مقاطع فيديو بدون نت",
+      "icon": "https://play-lh.googleusercontent.com/z9HkypUAO7z7g_IsFCNzqaR7z_Kr4-ImMYmMHTPafZZZtSbxL-Fo3Aw7wZ63MpLmgQ=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/Q6N_K7GZl7ya5o4OAmqevNluQ5SQ4JdiUaHGdFDL7XPQItKAKzx3kVcprfv7J5XqKg=w416-h235-rw",
+      "rating": 4.6,
+      "packageName": "com.reemdev.staisione",
+      "downloads": "500K+",
+      "description": "استمتع بالمكالمات الوهمية المسلية!"
     }
   ]
 }
