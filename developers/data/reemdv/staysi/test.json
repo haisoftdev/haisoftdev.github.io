@@ -149,20 +149,20 @@
       "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
     },
     {
-      "name": "ديانا وروما",
-      "icon": "...",
-      "preview": "...",
+      "name": "مقاطع فيديو قصي وليد الغابر",
+      "icon": "https://play-lh.googleusercontent.com/59lp2k5MOgANtOsRg-PDDqJPFYhrYrYussjBGzW8H6oOeRxowcBStvpDkz8o-9BIoSE=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/Iop84yW235jyb1lXr4Qac9WqVP2-1CM-eSElyI_ahEMEm3evLgZGR8Ur8QOiDy2TIQA=w416-h235-rw",
       "rating": 4.7,
-      "packageName": "com.reemdev.dinacall",
+      "packageName": "com.reemdev.vtwo",
       "downloads": "600K+",
       "description": "تعلم الأبجدية بطريقة ممتعة!"
     },
     {
-      "name": "شفا تتصل بك",
-      "icon": "...",
-      "preview": "...",
+      "name": "ستايسي مقاطع فيديو بدون نت",
+      "icon": "https://play-lh.googleusercontent.com/z9HkypUAO7z7g_IsFCNzqaR7z_Kr4-ImMYmMHTPafZZZtSbxL-Fo3Aw7wZ63MpLmgQ=w240-h480-rw",
+      "preview": "https://play-lh.googleusercontent.com/Q6N_K7GZl7ya5o4OAmqevNluQ5SQ4JdiUaHGdFDL7XPQItKAKzx3kVcprfv7J5XqKg=w416-h235-rw",
       "rating": 4.6,
-      "packageName": "com.reemdev.shafacall",
+      "packageName": "com.reemdev.staisione",
       "downloads": "500K+",
       "description": "استمتع بالمكالمات الوهمية المسلية!"
     }
