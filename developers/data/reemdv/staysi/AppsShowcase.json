@@ -177,26 +177,17 @@
     {
       "name": " شفا و سوسو تتصل بك",
       "icon": "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
-      "rating": 4.4,
-      "packageName": "com.reemdev.shafacall",
-      "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "packageName": "com.reemdev.shafacall"
     },
     {
       "name": "ديانا وروما مكالمة وهمية",
       "icon": "https://play-lh.googleusercontent.com/L3V4oiVZDOmy-ljxCdmsygrlwK3HwncRQ_UUJPZ59NFfyftjg18QauJsODwsg3DoTg=w240-h480-rw",
-      "rating": 4.2,
-      "packageName": "com.reemdev.dinacall",
-      "downloads": "50K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "packageName": "com.reemdev.dinacall"
     },
     {
       "name": "ديانا وروما فيديو بدون نت",
       "icon": "https://play-lh.googleusercontent.com/Un0imD0W9oL10c5DijborR2a-sSgaFkZTMTUOtWSaq3MjDPh14gaQr_qXVL5uaWP-eM=w240-h480-rw",
-      "rating": 4.5,
-      "packageName": "com.reemdev.dinaroma",
-      "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "packageName": "com.reemdev.dinaroma"
     }
   ],
   "BannerShowcase": [
