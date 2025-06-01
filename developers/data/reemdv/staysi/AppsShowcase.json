@@ -196,40 +196,35 @@
       "icon": "https://play-lh.googleusercontent.com/CVXqlDaNAXc-YM6HJuYCqYnS1apbnLg-sYIPgHuTEEdB_mtb6a_HBAJA_oYWltKlZFaX=w240-h480-rw",
       "rating": 4.5,
       "packageName": "com.reemdev.staysi",
-      "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "downloads": "100K+"
     },
     {
       "name": "مقالب شفا و سوسو بدون نت",
       "icon": "https://play-lh.googleusercontent.com/R5eQr4wTA-J438zb-Ki03EthRbPAb0TmhRVNmgaG9fleQFmg8xiplHdNW9O9J7QvFw=w240-h480-rw",
       "rating": 4.5,
       "packageName": "com.reemdev.three",
-      "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "downloads": "100K+"
     },
     {
       "name": "مقاطع فيديو ومقالب شفا بدون نت",
       "icon": "https://play-lh.googleusercontent.com/kun_Fzw1h8vN8QeUcZEv1Y5o6aaJi7sr51-iYfjdzTGFJx1aN3iCCnpUzfd68If0A4ix=w240-h480-rw",
       "rating": 4.5,
       "packageName": "com.reemdev.vone",
-      "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "downloads": "100K+"
     },
     {
       "name": "مقاطع فيديو قصي وليد الغابر",
       "icon": "https://play-lh.googleusercontent.com/59lp2k5MOgANtOsRg-PDDqJPFYhrYrYussjBGzW8H6oOeRxowcBStvpDkz8o-9BIoSE=w240-h480-rw",
       "rating": 4.7,
       "packageName": "com.reemdev.vtwo",
-      "downloads": "600K+",
-      "description": "تعلم الأبجدية بطريقة ممتعة!"
+      "downloads": "600K+"
     },
     {
       "name": "ستايسي مقاطع فيديو بدون نت",
       "icon": "https://play-lh.googleusercontent.com/z9HkypUAO7z7g_IsFCNzqaR7z_Kr4-ImMYmMHTPafZZZtSbxL-Fo3Aw7wZ63MpLmgQ=w240-h480-rw",
       "rating": 4.6,
       "packageName": "com.reemdev.staisione",
-      "downloads": "500K+",
-      "description": "استمتع بالمكالمات الوهمية المسلية!"
+      "downloads": "500K+"
     }
   ]
 }
