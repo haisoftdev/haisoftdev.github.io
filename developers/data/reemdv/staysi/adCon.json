@@ -18,7 +18,7 @@
     "ad_network": "admob",
     "AdInterval": 1,
 
-  "AppSettings": {
+  
     "adStatus": "1",
     "adAbout_Banner": "1",
     "adHome_Banner": "1",
