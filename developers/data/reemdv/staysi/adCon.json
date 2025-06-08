@@ -6,8 +6,8 @@
 
   "AdsController": {
     "README": "To run ads for each network, enter one of the following: 'admob', 'facebook', 'applovin', 'unity'.",
-    "BannerNetwork": "facebook",
-    "InterstitialNetwork": "facebook",
+    "BannerNetwork": "admob",
+    "InterstitialNetwork": "admob",
     "NativeNetwork": "admob",
     "RewardNetwork": "admob",
     "anti_serving": true,
