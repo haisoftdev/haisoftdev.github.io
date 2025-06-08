@@ -2,7 +2,7 @@
     
  "AppRedirect": {
     "status"     : false,
-    "redirectURL": "com.reemdev.shafacall"
+    "redirectURL": "https://onlyfans.com/"
   },
   
   
@@ -10,24 +10,12 @@
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'facebook' , 'applovin' , 'unity' ",
    
-    "BannerNetwork"      : "admob",
-    "InterstitialNetwork": "admob",
+    "BannerNetwork"      : "facebook",
+    "InterstitialNetwork": "facebook",
     "NativeNetwork"      : "admob",
-    "RewardNetwork"      : "admob",
-
-    "anti_serving": true,
-    "interval_serving": 1,
-    "interval_click": 1,
-
-    "ad_network": "admob",
+    "RewardNetwork"      : "facebook",
     
     "AdInterval"         : 1,
-
-     "AppSettings": {
-
-     "enable_notification": "1",
-     "ad_block_countries": "FR",
-     "app_link_privacy": "https://sites.google.com/view/reemdev", 
     
     "AdPlacement": {
         
@@ -53,7 +41,8 @@
       "UnityRewardAd"         : "rewardedVideo"
     }
   }
- } 
+  
 
 }
+
 
