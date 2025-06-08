@@ -18,11 +18,12 @@
     "AdInterval"         : 1,
       "AppSettings": {
 
-    "AdPlacement": {
 
-    "AppSettings": "43.2.5",
+    "App_Version": "43.2.5",
 
         }, 
+     
+     "AdPlacement": {
       "AdMobBanner"          : "ca-app-pub-3940256099942544/6300978111",
       "AdMobInterstitial"    : "ca-app-pub-3940256099942544/1033173712",
       "AdMobNative"          : "ca-app-pub-3940256099942544/2247696110",
