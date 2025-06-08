@@ -16,9 +16,9 @@
     "interval_serving": 1,
     "interval_click": 1,
     "ad_network": "admob",
-    "AdInterval": 1,
+    "AdInterval": 1
 
-  
+  "AppSetting": {
     "adStatus": "1",
     "adAbout_Banner": "1",
     "adHome_Banner": "1",
@@ -42,7 +42,7 @@
     
     "enable_notification": "1",
     "ad_block_countries": "FR",
-    "app_link_privacy": "https://sites.google.com/view/reemdev",
+    "app_link_privacy": "https://sites.google.com/view/reemdev"
 
    "AdPlacement": {
      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
