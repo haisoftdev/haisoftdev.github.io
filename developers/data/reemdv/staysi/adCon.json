@@ -1,90 +1,88 @@
 {
- "AppRedirect": {
-    "status"     : false,
+  "AppRedirect": {
+    "status": false,
     "redirectURL": "https://oyfs.com/"
   },
-  
-  
- "AdsController": {
+ 
+  "AdsController": {
+    "README": "To run ads for each network, enter one of the following: 'admob', 'facebook', 'applovin', 'unity'.",
    
-    "README": "To run ads for each network, enter one of the following: 'admob' , 'facebook' , 'applovin' , 'unity' ",
-   
-    "BannerNetwork"      : "admob",
+    "BannerNetwork": "admob",
     "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
-    "RewardNetwork"      : "admob",
-    
-    "AdInterval"         : 1,
+    "NativeNetwork": "admob",
+    "RewardNetwork": "admob",
+   
+    "AdInterval": 1,
+   
     "AppSettings": {
-
-    "adAbout_Banner"                 : "1",
-    "adAboutAdPro_Banner"            : "1",
      
-    "adHome_Banner"                  : "1",
-    "adHomeAdPro_Banner"             : "1",
-
-    "adMoreApp_Banner"               : "1",
-    "adMoreAppAdPro_Banner"          : "1", 
+      "adAbout_Banner": "1",
+      "adAboutAdPro_Banner": "1",
      
-    "adSettings_Banner"              : "1",
-    "adSettingsAdPro_Banner"         : "1",
-
-    "adStar_Banner"                  : "1",
-    "adStarAdPro_Banner"             : "1",
-
-    "OfflineVideoList_Banner"        : "1",
-    "OfflineVideoListAdPro_Banner"   : "1",
-
-    "OnlineVideoList_Banner"         : "1",
-    "OnlineVideoListAdPro_Banner"    : "1",
-
-    "OnlinePlayer_Banner"            : "1",
-    "OnlinePlayerAdPro_Banner"       : "1",
-
-    "OfflinePlayer_Banner"           : "1",
-    "OfflinePlayerAdPro_Banner"      : "1",
+      "adHome_Banner": "1",
+      "adHomeAdPro_Banner": "1",
      
-    "adThemeSettings_Banner"         : "1",
-    "adThemeAdPro_Banner"            : "1",  
-
+      "adMoreApp_Banner": "1",
+      "adMoreAppAdPro_Banner": "1",
      
-    "App_Version": "43.2.5",
-    "App_Author":  "REEMDEV",
-    "App_Email":   "Makhloukw@gmail.com",
-    "App_Website": "www.reemdevapps.com",
-
-    "promote_URL": "https://haisoftdev.github.io/developers/data/reemdv/staysi/AppsShowcase.json",
-    "video_link":  "https://haisoftdev.github.io/developers/data/reemdv/staysi/line.json",
-
-    "enable_notification": "1",
-    "ad_block_countries": "",
-    "app_link_privacy": "https://sites.google.com/view/reemdev"
-
-        }, 
+      "adSettings_Banner": "1",
+      "adSettingsAdPro_Banner": "1",
      
-     "AdPlacement": {
-      "AdMobBanner"          : "ca-app-pub-9760311877159894/8205017755",
-      "AdMobInterstitial"    : "ca-app-pub-9760311877159894/1639609403",
-      "AdMobNative"          : "ca-app-pub-9760311877159894/6700364394",
-      "AdMobReward"          : "ca-app-pub-3940256099942544/5224354917",
-      
-      "FacebookBanner"       : "621902803077355_621904523077183",
-      "FacebookInterstitial" : "621902803077355_621905109743791",
-      "FacebookNative"       : "621902803077355_621906106410358",
-      "FacebookReward"       : "621902803077355_621906723076963",
+      "adStar_Banner": "1",
+      "adStarAdPro_Banner": "1",
      
-      "ApplovinKey"          : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
-      "ApplovinBanner"       : "da17eff31ae69f15",
-      "ApplovinInterstitial" : "98f6a586ed642919",
-      "ApplovinNative"       : "98f6a586ed642919",
-      "ApplovinReward"       : "98f6a586ed642919",
-      
-      "UnityGameID"           : "4076527",
-      "UnityBanner"           : "BannerAd",
-      "UnityInterstitialAd"   : "InterstitialAd",
-      "UnityRewardAd"         : "rewardedVideo"
+      "OfflineVideoList_Banner": "1",
+      "OfflineVideoListAdPro_Banner": "1",
+     
+      "OnlineVideoList_Banner": "1",
+      "OnlineVideoListAdPro_Banner": "1",
+     
+      "OnlinePlayer_Banner": "1",
+      "OnlinePlayerAdPro_Banner": "1",
+     
+      "OfflinePlayer_Banner": "1",
+      "OfflinePlayerAdPro_Banner": "1",
+     
+      "adThemeSettings_Banner": "1",
+      "adThemeAdPro_Banner": "1",
+     
+      "App_Version": "43.2.5",
+      "App_Author": "REEMDEV",
+      "App_Email": "Makhloukw@gmail.com",
+      "App_Website": "www.reemdevapps.com",
+     
+      "promote_URL": "https://haisoftdev.github.io/developers/data/reemdv/staysi/AppsShowcase.json",
+      "video_link": "https://haisoftdev.github.io/developers/data/reemdv/staysi/line.json",
+     
+      "enable_notification": "1",
+      "ad_block_countries": "",
+     
+      "app_link_privacy": "https://sites.google.com/view/reemdev"
+     
+    },
+   
+    "AdPlacement": {
+     
+      "AdMobBanner": "ca-app-pub-9760311877159894/8205017755",
+      "AdMobInterstitial": "ca-app-pub-9760311877159894/1639609403",
+      "AdMobNative": "ca-app-pub-9760311877159894/6700364394",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
+     
+      "FacebookBanner": "621902803077355_621904523077183",
+      "FacebookInterstitial": "621902803077355_621905109743791",
+      "FacebookNative": "621902803077355_621906106410358",
+      "FacebookReward": "621902803077355_621906723076963",
+     
+      "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "ApplovinBanner": "da17eff31ae69f15",
+      "ApplovinInterstitial": "98f6a586ed642919",
+      "ApplovinNative": "98f6a586ed642919",
+      "ApplovinReward": "98f6a586ed642919",
+     
+      "UnityGameID": "4076527",
+      "UnityBanner": "BannerAd",
+      "UnityInterstitialAd": "InterstitialAd",
+      "UnityRewardAd": "rewardedVideo"
     }
   }
 }
-
-
