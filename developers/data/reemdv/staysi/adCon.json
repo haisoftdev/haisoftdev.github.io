@@ -25,7 +25,7 @@
     "OfflineVideoList_Banner"   : "0",
     "OnlineVideoList_Banner"    : "0",
     "OnlinePlayer_Banner"       : "0",
-    "OfflinePlayer_Banner"      : "1",
+    "OfflinePlayer_Banner"      : "0",
     "adThemeSettings_Banner"    : "1",  
      
     "App_Version": "43.2.5",
