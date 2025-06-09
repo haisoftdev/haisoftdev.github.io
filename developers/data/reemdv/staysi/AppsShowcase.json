@@ -185,6 +185,11 @@
       "packageName": "com.reemdev.dinacall"
     },
     {
+      "name": "ستايسي فيديو بدون نت",
+      "icon": "https://haisoftdev.github.io/developers/data/reemdv/img/ic_app_6.png",
+      "packageName": "com.reemdev.staisione"
+    },
+    {
       "name": "ديانا وروما فيديو بدون نت",
       "icon": "https://play-lh.googleusercontent.com/Un0imD0W9oL10c5DijborR2a-sSgaFkZTMTUOtWSaq3MjDPh14gaQr_qXVL5uaWP-eM=w240-h480-rw",
       "packageName": "com.reemdev.staysi"
