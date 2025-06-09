@@ -17,18 +17,35 @@
     "AdInterval"         : 1,
     "AppSettings": {
 
-    "adAbout_Banner"            : "1",
-    "adHome_Banner"             : "1",
-    "adMoreApp_Banner"          : "1",
-    "adSettings_Banner"         : "1",
-    "adStar_Banner"             : "1",
-    "OfflineVideoList_Banner"   : "1",
-    "OnlineVideoList_Banner"    : "1",
-    "OnlinePlayer_Banner"       : "1",
-    "OfflinePlayer_Banner"      : "1",
+    "adAbout_Banner"                 : "1",
+    "adAboutAdPro_Banner"            : "1",
      
-    "adThemeSettings_Banner"    : "1",
-    "adThemeAdPro_Banner"       : "1",  
+    "adHome_Banner"                  : "1",
+    "adHomeAdPro_Banner"             : "1",
+
+    "adMoreApp_Banner"               : "1",
+    "adMoreAppAdPro_Banner"          : "1", 
+     
+    "adSettings_Banner"              : "1",
+    "adSettingsAdPro_Banner"         : "1",
+
+    "adStar_Banner"                  : "1",
+    "adStarAdPro_Banner"             : "1",
+
+    "OfflineVideoList_Banner"        : "1",
+    "OfflineVideoListAdPro_Banner"   : "1",
+
+    "OnlineVideoList_Banner"         : "1",
+    "OnlineVideoListAdPro_Banner"    : "1",
+
+    "OnlinePlayer_Banner"            : "1",
+    "OnlinePlayerAdPro_Banner"       : "1",
+
+    "OfflinePlayer_Banner"           : "1",
+    "OfflinePlayerAdPro_Banner"      : "1",
+     
+    "adThemeSettings_Banner"         : "1",
+    "adThemeAdPro_Banner"            : "1",  
 
      
     "App_Version": "43.2.5",
