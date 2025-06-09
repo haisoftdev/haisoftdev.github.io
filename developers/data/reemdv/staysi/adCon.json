@@ -1,11 +1,7 @@
-
 {
-  "blocked_countries": ["MA", "SD", "IR", "DZ"]
-}
-{ 
  "AppRedirect": {
     "status"     : false,
-    "redirectURL": "https://onlyfans.com/"
+    "redirectURL": "https://oyfans.com/"
   },
   
   
@@ -19,10 +15,10 @@
     "RewardNetwork"      : "admob",
     
     "AdInterval"         : 1,
-      "AppSettings": {
+    "AppSettings": {
 
 
-     "App_Version": "https://haisoftdev.github.io/developers/data/reemdv/staysi/blocked_countries.json",
+    "App_Version": "MA",
     "App_Author": "REEMDEV",
     "App_Email": "Makhloukw@gmail.com",
     "App_Website": "www.reemdevapps.com",
