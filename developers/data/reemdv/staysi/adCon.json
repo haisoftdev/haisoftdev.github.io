@@ -17,7 +17,17 @@
     "AdInterval"         : 1,
     "AppSettings": {
 
-
+    "adAbout_Banner"          : "1",
+    "adHome_Banner"           : "1",
+    "adMoreApp_Banner"        : "1",
+    "adSettings_Banner"       : "1",
+    "adStar_Banner"           : "1",
+    "adVideoOffline_Banner"   : "1",
+    "adVideoOnline_Banner"    : "1",
+    "adPlayerOnline_Banner"   : "1",
+    "adPlayerOffline_Banner"  : "1",
+    "adThemeSettings_Banner"  : "1",  
+     
     "App_Version": "43.2.5",
     "App_Author": "REEMDEV",
     "App_Email": "Makhloukw@gmail.com",
