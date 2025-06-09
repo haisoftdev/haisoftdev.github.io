@@ -29,12 +29,12 @@
     "adThemeSettings_Banner"    : "1",  
      
     "App_Version": "43.2.5",
-    "App_Author": "REEMDEV",
-    "App_Email": "Makhloukw@gmail.com",
+    "App_Author":  "REEMDEV",
+    "App_Email":   "Makhloukw@gmail.com",
     "App_Website": "www.reemdevapps.com",
 
     "promote_URL": "https://haisoftdev.github.io/developers/data/reemdv/staysi/AppsShowcase.json",
-    "video_link": "https://haisoftdev.github.io/developers/data/reemdv/staysi/line.json",
+    "video_link":  "https://haisoftdev.github.io/developers/data/reemdv/staysi/line.json",
 
     "enable_notification": "1",
     "ad_block_countries": "",
