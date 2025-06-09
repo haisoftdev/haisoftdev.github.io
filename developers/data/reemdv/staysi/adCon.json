@@ -1,5 +1,8 @@
+
 {
-    
+  "blocked_countries": ["MA", "SD", "IR", "DZ"]
+}
+{ 
  "AppRedirect": {
     "status"     : false,
     "redirectURL": "https://onlyfans.com/"
