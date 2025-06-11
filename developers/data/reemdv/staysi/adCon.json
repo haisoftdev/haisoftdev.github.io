@@ -7,8 +7,8 @@
   "AdsController": {
     "README": "To run ads for each network, enter one of the following: 'admob', 'facebook', 'applovin', 'unity'.",
    
-    "BannerNetwork": "applovin",
-    "InterstitialNetwork": "applovin",
+    "BannerNetwork": "admob",
+    "InterstitialNetwork": "admob",
     "NativeNetwork": "admob",
     "RewardNetwork": "admob",
    
@@ -16,19 +16,19 @@
    
     "AppSettings": {
      
-      "adAbout_Banner": "1",
+      "adAbout_Banner": "0",
       "adAboutAdPro_Banner": "1",
      
-      "adHome_Banner": "1",
+      "adHome_Banner": "0",
       "adHomeAdPro_Banner": "1",
      
       "adMoreApp_Banner": "1",
       "adMoreAppAdPro_Banner": "1",
      
-      "adSettings_Banner": "1",
+      "adSettings_Banner": "0",
       "adSettingsAdPro_Banner": "1",
      
-      "adStar_Banner": "1",
+      "adStar_Banner": "0",
       "adStarAdPro_Banner": "1",
      
       "OfflineVideoList_Banner": "1",
