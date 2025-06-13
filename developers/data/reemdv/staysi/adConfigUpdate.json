@@ -1,6 +1,6 @@
 {
   "AppRedirect": {
-    "status": true,
+    "status": false,
     "redirectURL": "com.reemdev.staysi"
   },
  
