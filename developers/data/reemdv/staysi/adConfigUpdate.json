@@ -31,25 +31,25 @@
       "adMain_hub_Banner": "0",
       "adMain_hub_AdPro_Banner": "1",
      
-      "OfflineVideoList_Banner": "1",
+      "OfflineVideoList_Banner": "0",
       "OfflineVideoListAdPro_Banner": "1",
 
-      "OfflineVideoList_Native": "1",
+      "OfflineVideoList_Native": "0",
       "OfflineVideoListAdPro_Native": "1",
       
-      "OnlineVideoList_Banner": "1",
+      "OnlineVideoList_Banner": "0",
       "OnlineVideoListAdPro_Banner": "1",
 
       "OnlineVideoList_Native": "0",
       "OnlineVideoListAdPro_Native": "1",
      
-      "OnlinePlayer_Banner": "1",
+      "OnlinePlayer_Banner": "0",
       "OnlinePlayerAdPro_Banner": "1",
      
-      "OfflinePlayer_Banner": "1",
+      "OfflinePlayer_Banner": "0",
       "OfflinePlayerAdPro_Banner": "1",
      
-      "adThemeSettings_Banner": "1",
+      "adThemeSettings_Banner": "0",
       "adThemeAdPro_Banner": "1",
      
       "App_Version": "43.2.5",
