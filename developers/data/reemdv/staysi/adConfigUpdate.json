@@ -7,7 +7,7 @@
   "AdsController": {
     "README": "To run ads for each network, enter one of the following: 'admob', 'facebook', 'applovin', 'unity'.",
    
-    "BannerNetwork": "admob",
+    "BannerNetwork": "facebook",
     "InterstitialNetwork": "facebook",
     "NativeNetwork": "admob",
     "RewardNetwork": "admob",
@@ -25,31 +25,31 @@
       "adMoreApp_Banner": "0",
       "adMoreAppAdPro_Banner": "1",
      
-      "adSettings_Banner": "0",
+      "adSettings_Banner": "1",
       "adSettingsAdPro_Banner": "1",
      
-      "adMain_hub_Banner": "0",
+      "adMain_hub_Banner": "1",
       "adMain_hub_AdPro_Banner": "1",
      
-      "OfflineVideoList_Banner": "0",
+      "OfflineVideoList_Banner": "1",
       "OfflineVideoListAdPro_Banner": "1",
 
-      "OfflineVideoList_Native": "0",
+      "OfflineVideoList_Native": "1",
       "OfflineVideoListAdPro_Native": "1",
       
-      "OnlineVideoList_Banner": "0",
+      "OnlineVideoList_Banner": "1",
       "OnlineVideoListAdPro_Banner": "1",
 
-      "OnlineVideoList_Native": "0",
+      "OnlineVideoList_Native": "1",
       "OnlineVideoListAdPro_Native": "1",
      
-      "OnlinePlayer_Banner": "0",
+      "OnlinePlayer_Banner": "1",
       "OnlinePlayerAdPro_Banner": "1",
      
-      "OfflinePlayer_Banner": "0",
+      "OfflinePlayer_Banner": "1",
       "OfflinePlayerAdPro_Banner": "1",
      
-      "adThemeSettings_Banner": "0",
+      "adThemeSettings_Banner": "1",
       "adThemeAdPro_Banner": "1",
      
       "App_Version": "43.2.5",
