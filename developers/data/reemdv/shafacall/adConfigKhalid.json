@@ -11,10 +11,10 @@
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'facebook' , 'applovin' , 'unity', 'promote' ",
    
-    "BannerNetwork"      : "admob",
+    "BannerNetwork"      : "promote",
     "InterstitialNetwork": "promote",
     "NativeNetwork"      : "admob",
-    "RewardNetwork"      : "admob",
+    "RewardNetwork"      : "promote",
     
     "AdInterval"         : 1,
     "NativeAdRow"        : 3,
