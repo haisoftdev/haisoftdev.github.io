@@ -11,10 +11,10 @@
    
     "README": "To run ads for each network, enter one of the following: 'admob' , 'facebook' , 'applovin' , 'unity', 'promote' ",
    
-    "BannerNetwork"      : "promote",
+    "BannerNetwork"      : "admob",
     "InterstitialNetwork": "promote",
-    "NativeNetwork"      : "admob",
-    "RewardNetwork"      : "promote",
+    "NativeNetwork"      : "promote",
+    "RewardNetwork"      : "admob",
     
     "AdInterval"         : 1,
     "NativeAdRow"        : 3,
@@ -45,7 +45,7 @@
     
     "PopAdSetting":{
       "showBtnClose"  :  true,
-      "showFullScreen":  false,
+      "showFullScreen":  true,
       "icon"          : "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
       "preview"       : "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
       "title"         : "Good news ! play and earn coins",
