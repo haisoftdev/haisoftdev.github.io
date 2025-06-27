@@ -13,6 +13,7 @@
     "RewardNetwork": "admob",
    
     "AdInterval": 1,
+    "NativeAdRow": 3,
    
     "AppSettings": {
      
