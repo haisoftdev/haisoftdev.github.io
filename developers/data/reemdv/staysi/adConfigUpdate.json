@@ -13,12 +13,17 @@
     "RewardNetwork": "facebook",
    
     "AdInterval": 1,
-    "NativeAdRow": 2,
    
     "AppSettings": {
 
       "update_lock_state": "on",
-
+      
+      "show_native_post_offline": true,
+      "native_rows_all_post_offline": 5,
+      
+      "show_native_post_online": true,
+      "native_rows_all_post_online": 3
+      
       "adAbout_Banner": "0",
       "adAboutAdPro_Banner": "1",
      
