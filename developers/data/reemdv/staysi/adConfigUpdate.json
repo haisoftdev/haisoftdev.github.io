@@ -19,7 +19,7 @@
       "update_lock_state": "on",
       
       "show_native_post_offline": true,
-      "native_rows_all_post_offline": 3,
+      "native_rows_all_post_offline": 5,
       
       "show_native_post_online": true,
       "native_rows_all_post_online": 5,
