@@ -16,7 +16,9 @@
     "NativeAdRow": 3,
    
     "AppSettings": {
-     
+
+      "update_lock_state": "on",
+    
       "adAbout_Banner": "0",
       "adAboutAdPro_Banner": "1",
      
