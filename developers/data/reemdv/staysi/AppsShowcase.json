@@ -7,7 +7,7 @@
       "rating": 4.5,
       "packageName": "com.reemdev.vone",
       "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية وتعليمية!"
     },
     {
       "name": "قصي وليد الغابر",
@@ -16,7 +16,7 @@
       "rating": 4.5,
       "packageName": "com.reemdev.vtwo",
       "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية وتعليمية!"
     },
     {
       "name": "شفا و سوسو",
@@ -25,7 +25,7 @@
       "rating": 4.5,
       "packageName": "com.reemdev.three",
       "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية وتعليمية!"
     },
     {
       "name": "ديانا وروما",
@@ -34,7 +34,7 @@
       "rating": 4.7,
       "packageName": "com.reemdev.dinacall",
       "downloads": "600K+",
-      "description": "تعلم الأبجدية بطريقة ممتعة!"
+      "description": "استمتع بالمكالمات الوهمية المسلية!"
     },
     {
       "name": "شفا تتصل بك",
@@ -61,7 +61,7 @@
       "rating": 5.0,
       "packageName": "com.reemdev.samercall",
       "downloads": "10K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية!"
     },
     {
       "name": "ديانا وروما فيديو",
@@ -70,7 +70,7 @@
       "rating": 4.6,
       "packageName": "com.reemdev.dinaroma",
       "downloads": "3M+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية!"
     },
     {
       "name": "ستايسي فيديو بدون نت",
@@ -88,7 +88,7 @@
       "rating": 4.4,
       "packageName": "com.reemdev.staisione",
       "downloads": "100K+",
-      "description": "فيديوهات ممتعة للأطفال!"
+      "description": "فيديوهات ممتعة!"
     }
   ],
     "AutoBannerShowcase": [
@@ -98,7 +98,7 @@
       "rating": 4.5,
       "packageName": "com.reemdev.vone",
       "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية!"
     },
     {
       "name": "قصي وليد الغابر",
@@ -106,7 +106,7 @@
       "rating": 4.5,
       "packageName": "com.reemdev.vtwo",
       "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية!"
     },
     {
       "name": "شفا و سوسو",
@@ -114,7 +114,7 @@
       "rating": 4.5,
       "packageName": "com.reemdev.three",
       "downloads": "100K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة ترفيهية!"
     },
     {
       "name": "ديانا وروما",
@@ -122,7 +122,7 @@
       "rating": 4.7,
       "packageName": "com.reemdev.dinacall",
       "downloads": "600K+",
-      "description": "تعلم الأبجدية بطريقة ممتعة!"
+      "description": "استمتع بالمكالمات الوهمية المسلية!"
     },
     {
       "name": "شفا تتصل بك",
@@ -146,7 +146,7 @@
       "rating": 5.0,
       "packageName": "com.reemdev.samercall",
       "downloads": "10K+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "أفضل لعبة !"
     },
     {
       "name": "ديانا وروما فيديو",
@@ -154,7 +154,7 @@
       "rating": 4.6,
       "packageName": "com.reemdev.dinaroma",
       "downloads": "3M+",
-      "description": "أفضل لعبة ترفيهية وتعليمية للأطفال!"
+      "description": "فيديوهات ممتعة!"
     },
     {
       "name": "ستايسي فيديو بدون نت",
@@ -162,7 +162,7 @@
       "rating": 4.4,
       "packageName": "com.reemdev.staysi",
       "downloads": "100K+",
-      "description": "مقاطع فيديو تعليمية ومسلية!"
+      "description": "فيديوهات ممتعة!"
     },
     {
       "name": "ستايسي مقاطع فيديو",
@@ -170,7 +170,7 @@
       "rating": 4.4,
       "packageName": "com.reemdev.staisione",
       "downloads": "100K+",
-      "description": "فيديوهات ممتعة للأطفال!"
+      "description": "فيديوهات ممتعة!"
     }
   ],
   "BannerThreeShowcase": [
