@@ -10,17 +10,17 @@
    
   },
     "AppSettings"             : {
-    "adStatus"                : "1",
-    "adAbout_Banner"          : "1",
-    "adHome_Banner"           : "1",
-    "adMoreApp_Banner"        : "1",
-    "adSettings_Banner"       : "1",
-    "adStar_Banner"           : "1",
+    "adStatus"                : "0",
+    "adAbout_Banner"          : "0",
+    "adHome_Banner"           : "0",
+    "adMoreApp_Banner"        : "0",
+    "adSettings_Banner"       : "0",
+    "adStar_Banner"           : "0",
     "adVideoOffline_Banner"   : "1",
     "adVideoOnline_Banner"    : "1",
     "adPlayerOnline_Banner"   : "1",
     "adPlayerOffline_Banner"  : "1",
-    "adThemeSettings_Banner"  : "1",  
+    "adThemeSettings_Banner"  : "0",  
     "promote_Ads"             : "1",    
     "privacy_link"            : "https://sites.google.com/view/reemdev"
     
@@ -35,8 +35,8 @@
       
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-9760311877159894/8205017755",
-    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/1639609403",
+    "AdMob_Banner"            : "ca-app-pub-9760311877159894/8555718180",
+    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/4859197515",
     "AdMob_RewardAd"          : "ca-app-pub-3940256099942544/5224354917",
     "AdMob_Native"            : "ca-app-pub-9760311877159894/6700364394",
     
