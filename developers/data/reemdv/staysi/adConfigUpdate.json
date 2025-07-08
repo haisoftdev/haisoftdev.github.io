@@ -16,7 +16,7 @@
    
     "AppSettings": {
 
-      "update_lock_state": "on",
+      "update_lock_state": "offn",
       
       "show_native_post_offline": true,
       "native_rows_all_post_offline": 5,
