@@ -1,7 +1,7 @@
 {
   "AppRedirect": {
     "status": false,
-    "redirectURL": "com.reemdev.staysi"
+    "redirectURL": "com.reemdev.three"
   },
  
   "AdsController": {
@@ -22,19 +22,19 @@
       "native_rows_all_post_offline": 5,
       
       "show_native_post_online": true,
-      "native_rows_all_post_online": 3,
+      "native_rows_all_post_online": 5,
       
       "adAbout_Banner": "0",
-      "adAboutAdPro_Banner": "1",
+      "adAboutAdPro_Banner": "0",
      
       "adHome_Banner": "0",
-      "adHomeAdPro_Banner": "1",
+      "adHomeAdPro_Banner": "0",
      
       "adMoreApp_Banner": "0",
-      "adMoreAppAdPro_Banner": "1",
+      "adMoreAppAdPro_Banner": "0",
      
       "adSettings_Banner": "0",
-      "adSettingsAdPro_Banner": "1",
+      "adSettingsAdPro_Banner": "0",
      
       "adMain_hub_Banner": "0",
       "adMain_hub_AdPro_Banner": "1",
@@ -58,7 +58,7 @@
       "OfflinePlayerAdPro_Banner": "1",
      
       "adThemeSettings_Banner": "0",
-      "adThemeAdPro_Banner": "1",
+      "adThemeAdPro_Banner": "0",
      
       "App_Version": "43.2.5",
       "App_Author": "REEMDEV",
@@ -66,7 +66,7 @@
       "App_Website": "www.reemdevapps.com",
      
       "promote_URL": "https://haisoftdev.github.io/developers/data/reemdv/staysi/AppsShowcase.json",
-      "video_link": "https://haisoftdev.github.io/developers/data/reemdv/staysi/line.json",
+      "video_link": "https://haisoftdev.github.io/developers/data/reemdv/dinaroma/line.json",
      
       "enable_notification": "1",
       "ad_block_countries": "",
@@ -77,10 +77,10 @@
    
     "AdPlacement": {
      
-      "AdMobBanner": "ca-app-pub-9760311877159894/8555718180",
-      "AdMobInterstitial": "ca-app-pub-9760311877159894/4859197515",
-      "AdMobNative": "ca-app-pub-9760311877159894/9099208311",
-      "AdMobReward": "ca-app-pub-9760311877159894/4949044462",
+      "AdMobBanner": "ca-app-pub-9760311877159894/8846061878",
+      "AdMobInterstitial": "ca-app-pub-9760311877159894/9168952588",
+      "AdMobNative": "ca-app-pub-9760311877159894/1781363253",
+      "AdMobReward": "ca-app-pub-9760311877159894/3473963653",
      
       "FacebookBanner": "621902803077355_621904523077183",
       "FacebookInterstitial": "621902803077355_621905109743791",
@@ -100,3 +100,4 @@
     }
   }
 }
+
