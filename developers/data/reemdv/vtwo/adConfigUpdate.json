@@ -1,7 +1,7 @@
 {
   "AppRedirect": {
     "status": false,
-    "redirectURL": "com.reemdev.staysi"
+    "redirectURL": "com.reemdev.vtwo"
   },
  
   "AdsController": {
@@ -66,7 +66,7 @@
       "App_Website": "www.reemdevapps.com",
      
       "promote_URL": "https://haisoftdev.github.io/developers/data/reemdv/staysi/AppsShowcase.json",
-      "video_link": "https://haisoftdev.github.io/developers/data/reemdv/staysi/line.json",
+      "video_link": "https://haisoftdev.github.io/developers/data/reemdv/vtwo/line.json",
      
       "enable_notification": "1",
       "ad_block_countries": "",
@@ -77,15 +77,15 @@
    
     "AdPlacement": {
      
-      "AdMobBanner": "ca-app-pub-9760311877159894/8555718180",
-      "AdMobInterstitial": "ca-app-pub-9760311877159894/4859197515",
-      "AdMobNative": "ca-app-pub-9760311877159894/9099208311",
-      "AdMobReward": "ca-app-pub-9760311877159894/4949044462",
+      "AdMobBanner": "ca-app-pub-9760311877159894/4974958645",
+      "AdMobInterstitial": "ca-app-pub-9760311877159894/3144259151",
+      "AdMobNative": "ca-app-pub-9760311877159894/7047759429",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
      
-      "FacebookBanner": "621902803077355_621904523077183",
-      "FacebookInterstitial": "621902803077355_621905109743791",
-      "FacebookNative": "621902803077355_621906106410358",
-      "FacebookReward": "621902803077355_621906723076963",
+      "FacebookBanner": "900912331873759_900913775206948",
+      "FacebookInterstitial": "900912331873759_900913961873596",
+      "FacebookNative": "692961278482629_857100538735368",
+      "FacebookReward": "692961278482629_857106118734810",
      
       "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner": "da17eff31ae69f15",
