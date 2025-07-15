@@ -18,10 +18,10 @@
 
       "update_lock_state": "on",
       
-      "show_native_post_offline": true,
+      "show_native_post_offline": false,
       "native_rows_all_post_offline": 5,
       
-      "show_native_post_online": true,
+      "show_native_post_online": false,
       "native_rows_all_post_online": 3,
       
       "adAbout_Banner": "0",
