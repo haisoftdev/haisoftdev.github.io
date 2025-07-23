@@ -6,10 +6,10 @@
   },
     "AppSettings": {
     "ad_status":              "1",
-    "adHome_Banner":          "1",
-    "adMain_Banner":          "1",
+    "adHome_Banner":          "0",
+    "adMain_Banner":          "0",
     "adLive_Banner":          "1",
-    "adSettings_Banner":      "1",
+    "adSettings_Banner":      "0",
     "adLogin_Banner":         "0",
     "adChat_Banner":          "0",
     "adChat_Banner_Promote":  "1",
@@ -18,7 +18,7 @@
     "adMore_Banner":          "0",
     "adAcceptCall_Banner":    "1",
     "adAcceptVideo_Banner":   "1", 
-    "adAbout_Banner":         "1",   
+    "adAbout_Banner":         "0",   
     "privacy_link":           "https://sites.google.com/view/reemdev",
     "video_link" :            ""
   },
