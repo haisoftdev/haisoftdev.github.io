@@ -6,10 +6,10 @@
   },
     "AppSettings": {
     "ad_status":              "1",
-    "adHome_Banner":          "1",
-    "adMain_Banner":          "1",
+    "adHome_Banner":          "0",
+    "adMain_Banner":          "0",
     "adLive_Banner":          "1",
-    "adSettings_Banner":      "1",
+    "adSettings_Banner":      "0",
     "adLogin_Banner":         "0",
     "adChat_Banner":          "0",
     "adChat_Banner_Promote":  "1",
@@ -18,7 +18,7 @@
     "adMore_Banner":          "0",
     "adAcceptCall_Banner":    "1",
     "adAcceptVideo_Banner":   "1", 
-    "adAbout_Banner":         "1",   
+    "adAbout_Banner":         "0",   
     "privacy_link":           "https://sites.google.com/view/reemdev",
     "video_link" :            ""
   },
@@ -32,10 +32,10 @@
     
     "IntervalClick"           : 1,
     
-    "AdMob_Banner"            : "ca-app-pub-9760311877159894/5980786467",
-    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/2720198301",
-    "AdMob_RewardAd"          : "ca-app-pub-9760311877159894/9385410431",
-    "AdMob_Native"            : "ca-app-pub-9760311877159894/9604298711",
+    "AdMob_Banner"            : "ca-app-pub-9760311877159894/5668229182",
+    "AdMob_InterstitialAd"    : "ca-app-pub-9760311877159894/2193902508",
+    "AdMob_RewardAd"          : "ca-app-pub-9760311877159894/7604165371",
+    "AdMob_Native"            : "ca-app-pub-9760311877159894/5971481515",
     
     "Facebook_Banner"         : "1555163858752690_1555165102085899",
     "Facebook_InterstitialAd" : "1555163858752690_1555165322085877",
