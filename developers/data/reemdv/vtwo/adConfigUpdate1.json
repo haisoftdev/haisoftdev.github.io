@@ -1,0 +1,102 @@
+{
+  "AppRedirect": {
+    "status": false,
+    "redirectURL": "com.reemdev.vtwo"
+  },
+ 
+  "AdsController": {
+    "README": "To run ads for each network, enter one of the following: 'admob', 'facebook', 'applovin', 'unity'.",
+   
+    "BannerNetwork": "admob",
+    "InterstitialNetwork": "admob",
+    "NativeNetwork": "admob",
+    "RewardNetwork": "admob",
+   
+    "AdInterval": 1,
+   
+    "AppSettings": {
+
+      "update_lock_state": "on",
+      
+      "show_native_post_offline": true,
+      "native_rows_all_post_offline": 5,
+      
+      "show_native_post_online": true,
+      "native_rows_all_post_online": 4,
+      
+      "adAbout_Banner": "0",
+      "adAboutAdPro_Banner": "0",
+     
+      "adHome_Banner": "0",
+      "adHomeAdPro_Banner": "0",
+     
+      "adMoreApp_Banner": "0",
+      "adMoreAppAdPro_Banner": "0",
+     
+      "adSettings_Banner": "0",
+      "adSettingsAdPro_Banner": "0",
+     
+      "adMain_hub_Banner": "0",
+      "adMain_hub_AdPro_Banner": "1",
+     
+      "OfflineVideoList_Banner": "1",
+      "OfflineVideoListAdPro_Banner": "1",
+
+      "OfflineVideoList_Native": "1",
+      "OfflineVideoListAdPro_Native": "1",
+      
+      "OnlineVideoList_Banner": "1",
+      "OnlineVideoListAdPro_Banner": "1",
+
+      "OnlineVideoList_Native": "1",
+      "OnlineVideoListAdPro_Native": "1",
+     
+      "OnlinePlayer_Banner": "1",
+      "OnlinePlayerAdPro_Banner": "1",
+     
+      "OfflinePlayer_Banner": "1",
+      "OfflinePlayerAdPro_Banner": "1",
+     
+      "adThemeSettings_Banner": "0",
+      "adThemeAdPro_Banner": "0",
+     
+      "App_Version": "46.2.5",
+      "App_Author": "REEMDEV",
+      "App_Email": "Makhloukw@gmail.com",
+      "App_Website": "www.reemdevapps.com",
+     
+      "promote_URL": "https://haisoftdev.github.io/developers/data/reemdv/staysi/AppsShowcase.json",
+      "video_link": "https://haisoftdev.github.io/developers/data/reemdv/vtwo/line.json",
+     
+      "enable_notification": "1",
+      "ad_block_countries": "",
+     
+      "app_link_privacy": "https://sites.google.com/view/reemdev"
+     
+    },
+   
+    "AdPlacement": {
+     
+      "AdMobBanner": "ca-app-pub-9760311877159894/6733898840",
+      "AdMobInterstitial": "ca-app-pub-9760311877159894/6789739166",
+      "AdMobNative": "ca-app-pub-9760311877159894/1038757027",
+      "AdMobReward": "ca-app-pub-9760311877159894/7174766447",
+     
+      "FacebookBanner": "900912331873759_900913775206948",
+      "FacebookInterstitial": "900912331873759_900913961873596",
+      "FacebookNative": "692961278482629_857100538735368",
+      "FacebookReward": "692961278482629_857106118734810",
+     
+      "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "ApplovinBanner": "da17eff31ae69f15",
+      "ApplovinInterstitial": "98f6a586ed642919",
+      "ApplovinNative": "98f6a586ed642919",
+      "ApplovinReward": "98f6a586ed642919",
+     
+      "UnityGameID": "4076527",
+      "UnityBanner": "BannerAd",
+      "UnityInterstitialAd": "InterstitialAd",
+      "UnityRewardAd": "rewardedVideo"
+    }
+  }
+}
