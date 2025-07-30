@@ -1,7 +1,7 @@
 {
   "AppRedirect": {
     "status": false,
-    "redirectURL": "com.reemdev.staysi"
+    "redirectURL": "com.reemdev.vone"
   },
  
   "AdsController": {
@@ -77,10 +77,10 @@
    
     "AdPlacement": {
      
-      "AdMobBanner": "ca-app-pub-9760311877159894/4522668470",
-      "AdMobInterstitial": "ca-app-pub-9760311877159894/5420817175",
-      "AdMobNative": "ca-app-pub-9760311877159894/1649093129",
-      "AdMobReward": "ca-app-pub-9760311877159894/9942516110",
+      "AdMobBanner": "ca-app-pub-9760311877159894/4444466601",
+      "AdMobInterstitial": "ca-app-pub-9760311877159894/7238699642",
+      "AdMobNative": "ca-app-pub-9760311877159894/3075544611",
+      "AdMobReward": "ca-app-pub-9760311877159894/2028144062",
      
       "FacebookBanner": "621902803077355_621904523077183",
       "FacebookInterstitial": "621902803077355_621905109743791",
