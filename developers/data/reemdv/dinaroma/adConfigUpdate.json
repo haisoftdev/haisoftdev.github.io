@@ -1,6 +1,6 @@
 {
   "AppRedirect": {
-    "status": false,
+    "status": true,
     "redirectURL": "com.reemdev.dinaroma"
   },
  
