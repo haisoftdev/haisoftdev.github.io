@@ -46,11 +46,11 @@
     "PopAdSetting":{
       "showBtnClose"  :  true,
       "showFullScreen":  false,
-      "icon"          : "https://play-lh.googleusercontent.com/L3V4oiVZDOmy-ljxCdmsygrlwK3HwncRQ_UUJPZ59NFfyftjg18QauJsODwsg3DoTg=w240-h480-rw",
-      "preview"       : "https://play-lh.googleusercontent.com/ZpU_ZkQf-vXzjToJ_xR3oqCr3DEzG2nmGgru4foSPc21Aue8qGJdIwDY1R-aFTpzAjg=w416-h235-rw",
+      "icon"          : "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
+      "preview"       : "https://play-lh.googleusercontent.com/Mrhw_5PKxdO3oEDkouPgySAkO7ebscAe1zAo9vdw216VmLOGJ9p8qK2IV6TXZ6d3gZBX=w416-h235-rw",
       "title"         : "لعبة ديانا وروما مكالمة وهمية",
       "button_title"  : "Install",
-      "button_url"    : "https://play.google.com/store/apps/details?id=com.reemdev.dinacall"
+      "button_url"    : "https://play.google.com/store/apps/details?id=com.reemdev.shafacall"
     }
     
   }
