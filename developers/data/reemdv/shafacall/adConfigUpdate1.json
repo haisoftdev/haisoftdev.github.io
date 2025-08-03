@@ -13,7 +13,7 @@
    
     "BannerNetwork"      : "admob",
     "InterstitialNetwork": "admob",
-    "NativeNetwork"      : "admob",
+    "NativeNetwork"      : "facebook",
     "RewardNetwork"      : "admob",
     
     "AdInterval"         : 1,
@@ -28,7 +28,7 @@
       
       "FacebookBanner"       : "475357068449387_475646735087087",
       "FacebookInterstitial" : "475357068449387_475647368420357",
-      "FacebookNative"       : "475357068449387_475358231782604,
+      "FacebookNative"       : "475357068449387_475358231782604",
       "FacebookReward"       : "475357068449387_475647675086993",
      
       "ApplovinKey"          : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
