@@ -21,15 +21,15 @@
     
     "AdPlacement": {
         
-      "AdMobBanner": "ca-app-pub-9760311877159894/9930945817",
-      "AdMobInterstitial": "ca-app-pub-9760311877159894/3951822833",
-      "AdMobNative": "ca-app-pub-9760311877159894/3021884546",
-      "AdMobReward": "ca-app-pub-9760311877159894/5648047884",
+      "AdMobBanner": "ca-app-pub-1778309717892354/7504135246",
+      "AdMobInterstitial": "ca-app-pub-1778309717892354/7127864751",
+      "AdMobNative": "ca-app-pub-1778309717892354/8089592634",
+      "AdMobReward": "ca-app-pub-1778309717892354/3648650719",
       
-      "FacebookBanner"       : "621902803077355_621904523077183",
-      "FacebookInterstitial" : "621902803077355_621905109743791",
-      "FacebookNative"       : "621902803077355_621906106410358",
-      "FacebookReward"       : "621902803077355_621906723076963",
+      "FacebookBanner"       : "3365521327087100_3365592980413268",
+      "FacebookInterstitial" : "3365521327087100_3365593157079917",
+      "FacebookNative"       : "3365521327087100_3365593323746567",
+      "FacebookReward"       : "3365521327087100_3365593483746551",
      
       "ApplovinKey"          : "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner"       : "da17eff31ae69f15",
