@@ -44,7 +44,7 @@
     },
     
     "PopAdSetting":{
-      "showBtnClose"  :  true,
+      "showBtnClose"  :  false,
       "showFullScreen":  false,
       "icon"          : "https://play-lh.googleusercontent.com/9H7GqugrfiWnOIfbxUPxhmFDAN_K7AmA-M-gmyE_xKjReGK-Y79TIOE2gInGgFvwPCU=w240-h480-rw",
       "preview"       : "https://play-lh.googleusercontent.com/Mrhw_5PKxdO3oEDkouPgySAkO7ebscAe1zAo9vdw216VmLOGJ9p8qK2IV6TXZ6d3gZBX=w416-h235-rw",
