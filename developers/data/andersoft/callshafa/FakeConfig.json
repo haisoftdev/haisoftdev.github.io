@@ -1,6 +1,6 @@
 {
   "AppRedirect": {
-    "status": false,
+    "status": true,
     "version": "1.0.0",
     "redirectURL": "https://play.google.com/store/apps/details?id=com.andersoft.fakecallshafa"
   },
@@ -12,8 +12,8 @@
     "ShowAds" : true,
 
     "BannerNetwork"        : "admob",
-    "InterstitialNetwork"  : "admob",
-    "InterstitialSPNetwork": "admob",
+    "InterstitialNetwork"  : "promote",
+    "InterstitialSPNetwork": "promote",
     "NativeNetwork"        : "admob",
     "RewardNetwork"        : "admob",
 
