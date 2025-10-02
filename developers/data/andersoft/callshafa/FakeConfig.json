@@ -67,34 +67,34 @@
 
     "contacts": [
       {
-        "name": "Nastya",
-        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/profile.jpg",
-        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
-        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
+        "name": "1",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/video.mp4",
         "birthday": 2014,
         "country": "Russia",
         "job": "Playing with my family and make videos",
         "locked": false,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/gallery/0.jpg",
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/gallery/1.jpg"
         ]
       },
       {
-        "name": "Anna Mother",
-        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/profile.jpg",
-        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/audio.mp3",
-        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/video.mp4",
+        "name": "2",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/2/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/2/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/2/video.mp4",
         "birthday": 1989,
         "country": "Russia",
         "job": "makeup salon to wedding",
         "locked": false,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/gallery/0.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/2/gallery/0.jpg"
         ]
       },
       {
-        "name": "Sergey Father",
+        "name": "3",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/3/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/3/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/3/video.mp4",
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "name": "Daniel Brother",
+        "name": "4",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/video.mp4",
@@ -120,7 +120,7 @@
         ]
       },
       {
-        "name": "Viktoria Sister",
+        "name": "5",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/video.mp4",
@@ -133,7 +133,7 @@
         ]
       },
       {
-        "name": "Alisa Friend",
+        "name": "6",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/video.mp4",
@@ -146,7 +146,7 @@
         ]
       },
       {
-        "name": "Karina Teacher",
+        "name": "7",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/video.mp4",
@@ -159,7 +159,7 @@
         ]
       },
       {
-        "name": "Ryan Friend",
+        "name": "8",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/video.mp4",
