@@ -90,7 +90,8 @@
         "job": "makeup salon to wedding",
         "locked": false,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/2/gallery/0.jpg"
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
@@ -103,7 +104,8 @@
         "job": "construction company",
         "locked": false,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/gallery/0.jpg"
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
@@ -116,7 +118,8 @@
         "job": "I'm currently student in primary school",
         "locked": false,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/gallery/0.jpg"
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
@@ -129,7 +132,8 @@
         "job": "nothing",
         "locked": false,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/gallery/0.jpg"
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
@@ -142,7 +146,8 @@
         "job": "Make videos with Nastya",
         "locked": true,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/gallery/0.jpg"
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
@@ -155,7 +160,8 @@
         "job": "Teach Nastya and learn multiple language together",
         "locked": true,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/gallery/0.jpg"
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
@@ -168,7 +174,8 @@
         "job": "Playing toys with Nastya",
         "locked": true,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/gallery/0.jpg"
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       }
     ],
