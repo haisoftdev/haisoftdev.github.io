@@ -68,107 +68,107 @@
     "contacts": [
       {
         "name": "Nastya",
-        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/nastya/profile.jpg",
-        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/nastya/audio.mp3",
-        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/nastya/video.mp4",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
         "birthday": 2014,
         "country": "Russia",
         "job": "Playing with my family and make videos",
         "locked": false,
         "gallery": [
-          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/gallery/0.jpg",
-          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/gallery/1.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
         "name": "Anna Mother",
-        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/anna/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
-        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/video.mp4",
         "birthday": 1989,
         "country": "Russia",
         "job": "makeup salon to wedding",
         "locked": false,
         "gallery": [
-          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/anna/gallery/0.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/1/gallery/0.jpg"
         ]
       },
       {
         "name": "Sergey Father",
-        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/sergey/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
-        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/3/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/3/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/3/video.mp4",
         "birthday": 1986,
         "country": "United States",
         "job": "construction company",
         "locked": false,
         "gallery": [
-          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/sergey/gallery/0.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/3/gallery/0.jpg"
         ]
       },
       {
         "name": "Daniel Brother",
-        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/daniel/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
-        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/video.mp4",
         "birthday": 2016,
         "country": "United States",
         "job": "I'm currently student in primary school",
         "locked": false,
         "gallery": [
-          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/daniel/gallery/0.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/gallery/0.jpg"
         ]
       },
       {
         "name": "Viktoria Sister",
-        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/viktoria/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/viktoria/audio.mp3",
-        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/viktoria/video.mp4",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/video.mp4",
         "birthday": 2020,
         "country": "United States",
         "job": "nothing",
         "locked": false,
         "gallery": [
-          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/viktoria/gallery/0.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/gallery/0.jpg"
         ]
       },
       {
         "name": "Alisa Friend",
-        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/alisa/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
-        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/video.mp4",
         "birthday": 2015,
         "country": "Atlanta, US",
         "job": "Make videos with Nastya",
         "locked": true,
         "gallery": [
-          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/alisa/gallery/0.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/gallery/0.jpg"
         ]
       },
       {
         "name": "Karina Teacher",
-        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/karina/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
-        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/video.mp4",
         "birthday": 1998,
         "country": "Russia",
         "job": "Teach Nastya and learn multiple language together",
         "locked": true,
         "gallery": [
-          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/karina/gallery/0.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/gallery/0.jpg"
         ]
       },
       {
         "name": "Ryan Friend",
-        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/ryan/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
-        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/video.mp4",
         "birthday": 2013,
         "country": "Russia",
         "job": "Playing toys with Nastya",
         "locked": true,
         "gallery": [
-          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/ryan/gallery/0.jpg"
+          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/gallery/0.jpg"
         ]
       }
     ],
