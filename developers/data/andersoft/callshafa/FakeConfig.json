@@ -2,7 +2,7 @@
   "AppRedirect": {
     "status": false,
     "version": "1.0.0",
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.appStudio.valorant.wallpaper"
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.andersoft.fakecallshafa"
   },
 
   "AdsController": {
@@ -11,9 +11,9 @@
 
     "ShowAds" : true,
 
-    "BannerNetwork"        : "promote",
-    "InterstitialNetwork"  : "promote",
-    "InterstitialSPNetwork": "promote",
+    "BannerNetwork"        : "admob",
+    "InterstitialNetwork"  : "admob",
+    "InterstitialSPNetwork": "admob",
     "NativeNetwork"        : "admob",
     "RewardNetwork"        : "admob",
 
@@ -47,9 +47,9 @@
       "IronReward": "76yy3nay3ceui2a3",
 
 
-      "PrivacyURL" : "https://sites.google.com/view/essota-policy",
+      "PrivacyURL" : "https://sites.google.com/view/andersofts",
       "OnesignalID": "xx-xxx-xxx-xxx-xxx",
-      "WebURL"     : "https://github.com/saidmotya"
+      "WebURL"     : "https://play.google.com/store/apps/developer?id=ANDERSOFT"
     },
 
     "PopAdSetting": {
@@ -83,7 +83,8 @@
       {
         "name": "Anna Mother",
         "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/anna/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/anna/audio.mp3",
+                "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
+        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
         "video": "",
         "birthday": 1989,
         "country": "Russia",
@@ -96,7 +97,8 @@
       {
         "name": "Sergey Father",
         "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/sergey/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/sergey/audio.mp3",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
+        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
         "video": "",
         "birthday": 1986,
         "country": "United States",
@@ -109,7 +111,8 @@
       {
         "name": "Daniel Brother",
         "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/daniel/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/daniel/audio.mp3",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
+        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
         "video": "",
         "birthday": 2016,
         "country": "United States",
@@ -135,7 +138,8 @@
       {
         "name": "Alisa Friend",
         "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/alisa/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/alisa/audio.mp3",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
+        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
         "video": "",
         "birthday": 2015,
         "country": "Atlanta, US",
@@ -148,7 +152,8 @@
       {
         "name": "Karina Teacher",
         "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/karina/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/karina/audio.mp3",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
+        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
         "video": "",
         "birthday": 1998,
         "country": "Russia",
@@ -161,7 +166,8 @@
       {
         "name": "Ryan Friend",
         "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/ryan/profile.jpg",
-        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/ryan/audio.mp3",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
+        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
         "video": "",
         "birthday": 2013,
         "country": "Russia",
