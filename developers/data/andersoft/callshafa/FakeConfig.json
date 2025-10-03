@@ -14,7 +14,7 @@
     "BannerNetwork"        : "admob",
     "InterstitialNetwork"  : "promote",
     "InterstitialSPNetwork": "promote",
-    "NativeNetwork"        : "admob",
+    "NativeNetwork"        : "",
     "RewardNetwork"        : "admob",
 
     "AdInterval": 1,
