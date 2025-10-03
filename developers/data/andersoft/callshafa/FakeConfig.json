@@ -9,7 +9,7 @@
 
     "README" : "To run ads for each network, enter one of this : 'admob' , 'applovin' , 'ironsource', 'promote' ,'browser for open web url' ",
 
-    "ShowAds" : true,
+    "ShowAds" : false,
 
     "BannerNetwork"        : "admob",
     "InterstitialNetwork"  : "promote",
