@@ -9,7 +9,7 @@
 
     "README" : "To run ads for each network, enter one of this : 'admob' , 'applovin' , 'ironsource', 'promote' ,'browser for open web url' ",
 
-    "ShowAds" : false,
+    "ShowAds" : true,
 
     "BannerNetwork"        : "admob",
     "InterstitialNetwork"  : "promote",
@@ -110,71 +110,71 @@
       },
       {
         "name": "4",
-        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/profile.jpg",
-        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
-        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
-        "birthday": 2014,
-        "country": "Russia",
-        "job": "Playing with my family and make videos",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/video.mp4",
+        "birthday": 2016,
+        "country": "United States",
+        "job": "I'm currently student in primary school",
         "locked": false,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
           "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
         "name": "5",
-        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/profile.jpg",
-        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
-        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
-        "birthday": 2014,
-        "country": "Russia",
-        "job": "Playing with my family and make videos",
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/video.mp4",
+        "birthday": 2020,
+        "country": "United States",
+        "job": "nothing",
         "locked": false,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
           "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
         "name": "6",
-        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/profile.jpg",
-        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
-        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
-        "birthday": 2014,
-        "country": "Russia",
-        "job": "Playing with my family and make videos",
-        "locked": false,
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/video.mp4",
+        "birthday": 2015,
+        "country": "Atlanta, US",
+        "job": "Make videos with Nastya",
+        "locked": true,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
           "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
         "name": "7",
-        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/profile.jpg",
-        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
-        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
-        "birthday": 2014,
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/video.mp4",
+        "birthday": 1998,
         "country": "Russia",
-        "job": "Playing with my family and make videos",
-        "locked": false,
+        "job": "Teach Nastya and learn multiple language together",
+        "locked": true,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
           "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       },
       {
         "name": "8",
-        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/profile.jpg",
-        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
-        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
-        "birthday": 2014,
+        "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/profile.jpg",
+        "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/audio.mp3",
+        "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/video.mp4",
+        "birthday": 2013,
         "country": "Russia",
-        "job": "Playing with my family and make videos",
-        "locked": false,
+        "job": "Playing toys with Nastya",
+        "locked": true,
         "gallery": [
-          "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
+         "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/0.jpg",
           "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/gallery/1.jpg"
         ]
       }
