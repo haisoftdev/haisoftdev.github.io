@@ -192,251 +192,250 @@
       "Your are a amazing "
     ],
 
-    "autoLive": [
-      "hi #NAME",
-      "How are you #NAME ?",
-      "Live chat is begin cool",
-      "Hello every one...happy day",
-      "I love you so much",
-      "Im glad to talk with you #NAME",
-      "can you show us your toys ?",
-      "where is your parent #NAME ?",
-      "#NAME do you go to school ?",
-      "what is your educational level",
-      "#NAME it possible to be friends ?",
-      "I'm happy to see you #NAME",
-      "I like Mathematics and cartoon and you #NAME ?",
-      "#NAME are you alone ? have you done the homework",
-      "i love this Application so much"
-    ],
+   "autoLive": [
+  "مرحباً #NAME",
+  "كيف حالك #NAME ؟",
+  "المحادثة المباشرة بدأت رائعة",
+  "مرحبا بالجميع... يوم سعيد",
+  "أحبك كثيراً",
+  "سعيد بالتحدث معك #NAME",
+  "هل يمكنك أن تُرينا ألعابك ؟",
+  "أين والديك #NAME ؟",
+  "#NAME هل تذهب إلى المدرسة ؟",
+  "ما هو مستواك الدراسي",
+  "#NAME هل من الممكن أن نكون أصدقاء ؟",
+  "سعيد برؤيتك #NAME",
+  "أحب الرياضيات والكرتون وأنت #NAME ؟",
+  "#NAME هل أنت وحدك ؟ هل أنجزت واجبك المنزلي",
+  "أنا أحب هذا التطبيق كثيراً"
+],
 
-    "autoChat": [
-      {
-        "question": "Hello #HERO 🙋",
-        "answer": [
-          "hey there 😅",
-          "hi #USER 😎",
-          "hello #USER 😃",
-          "hey #USER 🤔 ! how are you",
-          "good day to you, how are you doing #USER ? 🧉"
-        ]
-      },
-      {
-        "question": "what's up? 😊",
-        "answer": [
-          "Just the usual, what about you? 🧘",
-          "nothing much really, what about you? 🧔",
-          "I am having a really good day, 😳 you?",
-          "Things are pretty good, hbu? 😜",
-          "just surfing social media, you? 😃"
-        ]
-      },
-      {
-        "question": "what your name ? 🙅",
-        "answer": [
-          "my name is #HERO 🙆 what about you ?",
-          "#HERO and you ? 🙅",
-          "my name is #HERO 🙄 and you ?"
-        ]
-      },
-      {
-        "question": "my name is #USER 🙄",
-        "answer": [
-          "nice meeting you #USER 🙋",
-          "glad to meet you #USER 🙋",
-          "nice too meet you, 🙋 tell me more about yourself",
-          "Glad to make your acquaintances #USER 🙋",
-          "hi #USER 🙋 what's on your mind?"
-        ]
-      },
-      {
-        "question": "how are you ? 😃",
-        "answer": [
-          "I am well, 😳 how are you?",
-          "doing pretty well, 😳 how about u?",
-          "I am good, 😊 how are you?",
-          "I am really good, thanks! 😊",
-          "good, what about you? 🧔",
-          "I'm doing fine, thanks 😃",
-          "I am doing very well today 😃",
-          "good, 😒 how is your day going?"
-        ]
-      },
-      {
-        "question": "I am good ❤️ thank you",
-        "answer": [
-          "good to hear that 😃",
-          "I am happy to talk with you today 😊",
-          "Welcome to my chat, 😊 it great day to lak with you"
-        ]
-      },
-      {
-        "question": "How old are you ? 🧘",
-        "answer": [
-          "by next month i will be #AGE years old 🙄",
-          "my age is #AGE years old 🙄",
-          "Iam #AGE years old 🙄"
-        ]
-      },
-      {
-        "question": "Where are you from ? 🧔",
-        "answer": [
-          "I'm from #COUNTRY 🙇",
-          "my country called #COUNTRY 🙋",
-          "#COUNTRY this is my country",
-          "#COUNTRY is my home 🙋",
-          "I'm from #COUNTRY but actually living in USA 🙋"
-        ]
-      },
-      {
-        "question": "What is your job ? 😅",
-        "answer": [
-          "I'm now #JOB 😶",
-          "my job for now is #JOB but next time i don't know",
-          "I'm working in #JOB 🙋 for this moment",
-          "#JOB what about you ? 😤"
-        ]
-      },
-      {
-        "question": "send me your photo #PHOTO",
-        "answer": [
-          "of course i will sent you my photo 📱",
-          "wait me to take same photo for you ❤️",
-          "do you mean my photo 📱 ? look it in my profile",
-          "what photo do you talk about 🧔 ? ok i will sent my picture",
-          "I'm going to take same photo for you ❤️",
-          "look if you talk about my photo 🙇",
-          "please, keep my photo between us 🙇"
-        ]
-      },
-      {
-        "question": "can you call me ? 📱 #CALL",
-        "answer": [
-          "do you want to call you now ? okay just wait",
-          "now ? ok please wait few moment",
-          "with pleasure, wait..",
-          "wait some few seconds",
-          "*emm , ok i will call you now",
-          "yes of course, wait me some second",
-          "emm ok right now"
-        ]
-      },
-      {
-        "question": "send me video 📹",
-        "answer": [
-          "i will sent you my video tomorrow okay ?",
-          "why do you want my video, 📱 ok call me video than",
-          "if you want my video, call me video 📱"
-        ]
-      },
-      {
-        "question": "I'm happy 😎",
-        "answer": [
-          "is it because of me 😎 ?",
-          "how ws I helpful in making you fell that way?",
-          "It makes me feel good to know that 😎",
-          "happy to hear that 😅",
-          "that is great to know",
-          "that's amazing 😅",
-          "what makes you that happy 😎 ?",
-          "I hope you always feel that way",
-          "can you explain to me the reason behind you felling that way?"
-        ]
-      },
-      {
-        "question": "do you like this application ? ❤️",
-        "answer": [
-          "Yes i like it ! if you like this chat please rate me on 👇 :\n #RATE"
-        ]
-      },
-      {
-        "question": "what cartoon do you like ? 🤔",
-        "answer": [
-          "My favourite cartoon is sponge bob , ❤️ and you ?",
-          "I like the Tom and Jerry , ❤️ and you ?",
-          "I love the Queen of ice",
-          "Emm let me think, i guest naratoo is amazing"
-        ]
-      },
-      {
-        "question": "what your film do you prefer ? 🧔",
-        "answer": [
-          "My favourite film is sponge bob",
-          "I love star trek films 🔭",
-          "I love 🔭 the scientific films",
-          "I love the horror films",
-          "The science fiction is my fav 🔭"
-        ]
-      },
-      {
-        "question": "do you play sport ? 🏃",
-        "answer": [
-          "I like running 🏃",
-          "I love swimming in the sea 😳",
-          "I love 😳 the football sports ",
-          "i love dancing 😳",
-          "riding 😅",
-          "climb mountains",
-          "i like hunting 😊 but rarely play it",
-          "racing cars",
-          "BasketBall with my local team 😅",
-          "Handball and you ?",
-          "Tennis and you ?",
-          "baseball 😳 and you ?",
-          "bowling 😊 and you ?",
-          "fishing LOL",
-          "judo and you ?",
-          "i play 😊 karate to defense",
-          "surfing every summer 😊",
-          "volleyball with my friends 😊"
-        ]
-      },
-      {
-        "question": "who are you ? 🧔",
-        "answer": [
-          "i'm robot 🤖 ! do machines worry you?",
-          "what do you think of artificial intelligence? 🤖",
-          "what is the relevance of this to the topic 🙆",
-          "what do machines 🤖 have to do with your problem?",
-          "i'm computer 🤖 doing just what they are programmed to do",
-          "I would love to know more about what you think of that 🙆"
-        ]
-      },
-      {
-        "question": "do you know where I am? 🧔",
-        "answer": [
-          "no 🧔",
-          "no I don't 🤔",
-          "how can I possibly 🤔 know that?"
-        ]
-      },
-      {
-        "question": "good day 🙋",
-        "answer": [
-          "good evening, how is your day going?",
-          "hey there, what are you up to?",
-          "evening, how was your day?"
-        ]
-      },
-      {
-        "question": "good 🌃 night",
-        "answer": [
-          "have a good night, see you soon.",
-          "sweet dreams, hope I'll see you soon 😛"
-        ]
-      },
-      {
-        "question": "goodbye 👋",
-        "answer": [
-          "alright, see you later then 😎",
-          "well, take care then. see you later 😊",
-          "be safe, talk to you soon 👋",
-          "okay, hope we can talk more soon. #USER",
-          "leaving so soon?",
-          "take care. 👋",
-          "alright, be safe 😊"
-        ]
-      }
+"autoChat": [
+  {
+    "question": "مرحبا #HERO 🙋",
+    "answer": [
+      "أهلاً 😅",
+      "مرحباً #USER 😎",
+      "أهلاً #USER 😃",
+      "هاي #USER 🤔 ! كيف حالك",
+      "نهارك سعيد، كيف حالك #USER ؟ 🧉"
+    ]
+  },
+  {
+    "question": "ما الأخبار؟ 😊",
+    "answer": [
+      "الأمور عادية، ماذا عنك؟ 🧘",
+      "لا شيء جديد، ماذا عنك؟ 🧔",
+      "أنا أقضي يوماً رائعاً 😳 وأنت؟",
+      "كل شيء جيد، وأنت؟ 😜",
+      "أقضي الوقت على مواقع التواصل، وأنت؟ 😃"
+    ]
+  },
+  {
+    "question": "ما اسمك ؟ 🙅",
+    "answer": [
+      "اسمي #HERO 🙆 وأنت ؟",
+      "#HERO وأنت ؟ 🙅",
+      "اسمي #HERO 🙄 وأنت ؟"
+    ]
+  },
+  {
+    "question": "اسمي #USER 🙄",
+    "answer": [
+      "تشرفت بمعرفتك #USER 🙋",
+      "سعيد بلقائك #USER 🙋",
+      "تشرفت بلقائك 🙋 أخبرني المزيد عن نفسك",
+      "سعيد بالتعرف عليك #USER 🙋",
+      "مرحباً #USER 🙋 ماذا يدور في بالك؟"
+    ]
+  },
+  {
+    "question": "كيف حالك ؟ 😃",
+    "answer": [
+      "أنا بخير 😳 ماذا عنك؟",
+      "أنا بخير 😳 ماذا عنك؟",
+      "أنا جيد 😊 وأنت؟",
+      "أنا بخير شكراً 😊",
+      "جيد، ماذا عنك؟ 🧔",
+      "أنا بخير شكراً 😃",
+      "أنا بخير جداً اليوم 😃",
+      "جيد 😒 كيف يجري يومك؟"
+    ]
+  },
+  {
+    "question": "أنا بخير ❤️ شكراً",
+    "answer": [
+      "سعيد بسماع ذلك 😃",
+      "سعيد بالتحدث معك اليوم 😊",
+      "مرحباً بك في محادثتي 😊 يوم رائع للتحدث معك"
+    ]
+  },
+  {
+    "question": "كم عمرك ؟ 🧘",
+    "answer": [
+      "الشهر القادم سأصبح #AGE سنة 🙄",
+      "عمري #AGE سنة 🙄",
+      "أنا #AGE سنة 🙄"
+    ]
+  },
+  {
+    "question": "من أين أنت ؟ 🧔",
+    "answer": [
+      "أنا من #COUNTRY 🙇",
+      "بلدي يسمى #COUNTRY 🙋",
+      "#COUNTRY هذا وطني",
+      "#COUNTRY هو منزلي 🙋",
+      "أنا من #COUNTRY لكن أعيش حالياً في أمريكا 🙋"
+    ]
+  },
+  {
+    "question": "ما هي وظيفتك ؟ 😅",
+    "answer": [
+      "أنا الآن #JOB 😶",
+      "عملي حالياً هو #JOB لكن لاحقاً لا أعلم",
+      "أعمل في #JOB 🙋 حالياً",
+      "#JOB وماذا عنك ؟ 😤"
+    ]
+  },
+  {
+    "question": "أرسل لي صورتك #PHOTO",
+    "answer": [
+      "بالطبع سأرسل لك صورتي 📱",
+      "انتظرني لألتقط صورة لك ❤️",
+      "تقصد صورتي 📱 ؟ شاهدها في ملفي الشخصي",
+      "أي صورة تقصد 🧔 ؟ حسناً سأرسل صورتي",
+      "سألتقط لك صورة ❤️",
+      "إن كنت تقصد صورتي 🙇",
+      "من فضلك، اجعل صورتي بيننا 🙇"
+    ]
+  },
+  {
+    "question": "هل يمكنك الاتصال بي ؟ 📱 #CALL",
+    "answer": [
+      "هل تريد أن أتصل بك الآن ؟ حسناً انتظر",
+      "الآن ؟ حسناً انتظر لحظات",
+      "بكل سرور، انتظر..",
+      "انتظر بضع ثوانٍ",
+      "*هممم حسناً سأتصل بك الآن",
+      "نعم بالطبع، انتظر قليلاً",
+      "حسناً الآن"
+    ]
+  },
+  {
+    "question": "أرسل لي فيديو 📹",
+    "answer": [
+      "سأرسل لك فيديو غداً، هل هذا مناسب؟",
+      "لماذا تريد فيديو لي؟ 📱 حسناً اتصل بي فيديو",
+      "إن أردت فيديو لي، اتصل بي فيديو 📱"
+    ]
+  },
+  {
+    "question": "أنا سعيد 😎",
+    "answer": [
+      "هل السبب أنا 😎 ؟",
+      "كيف ساعدتك لتشعر بذلك؟",
+      "سعيد بمعرفة ذلك 😎",
+      "سعيد لسماع ذلك 😅",
+      "هذا رائع أن أعرف",
+      "هذا مذهل 😅",
+      "ما الذي يجعلك سعيداً لهذه الدرجة 😎 ؟",
+      "أتمنى أن تبقى دائماً كذلك",
+      "هل يمكنك أن تشرح لي سبب شعورك بذلك؟"
+    ]
+  },
+  {
+    "question": "هل تحب هذا التطبيق ؟ ❤️",
+    "answer": [
+      "نعم أحبه ! إذا أعجبك هذا الشات يرجى تقييمي 👇 :\n #RATE"
+    ]
+  },
+  {
+    "question": "ما هو الكرتون المفضل لديك ؟ 🤔",
+    "answer": [
+      "الكرتون المفضل لدي هو سبونج بوب ❤️ وأنت؟",
+      "أحب توم وجيري ❤️ وأنت؟",
+      "أحب ملكة الجليد",
+      "هممم دعني أفكر، أظن أن ناروتو رائع"
+    ]
+  },
+  {
+    "question": "ما هو فيلمك المفضل ؟ 🧔",
+    "answer": [
+      "فيلمي المفضل هو سبونج بوب",
+      "أحب أفلام ستار تريك 🔭",
+      "أحب الأفلام العلمية 🔭",
+      "أحب أفلام الرعب",
+      "أحب أفلام الخيال العلمي 🔭"
+    ]
+  },
+  {
+    "question": "هل تمارس الرياضة ؟ 🏃",
+    "answer": [
+      "أحب الجري 🏃",
+      "أحب السباحة في البحر 😳",
+      "أحب كرة القدم 😳",
+      "أحب الرقص 😳",
+      "ركوب الخيل 😅",
+      "تسلق الجبال",
+      "أحب الصيد 😊 لكن نادراً",
+      "سباق السيارات",
+      "كرة السلة مع فريقي المحلي 😅",
+      "كرة اليد وأنت؟",
+      "التنس وأنت؟",
+      "البيسبول 😳 وأنت؟",
+      "البولينج 😊 وأنت؟",
+      "الصيد ههه",
+      "الجودو وأنت؟",
+      "ألعب الكاراتيه 😊 للدفاع عن النفس",
+      "ركوب الأمواج كل صيف 😊",
+      "الكرة الطائرة مع أصدقائي 😊"
+    ]
+  },
+  {
+    "question": "من أنت ؟ 🧔",
+    "answer": [
+      "أنا روبوت 🤖 ! هل تخيفك الآلات؟",
+      "ما رأيك بالذكاء الاصطناعي؟ 🤖",
+      "ما علاقة ذلك بالموضوع 🙆",
+      "ما علاقة الآلات 🤖 بمشكلتك؟",
+      "أنا جهاز حاسوب 🤖 أفعل ما تمت برمجتي عليه",
+      "أود أن أعرف رأيك في ذلك 🙆"
+    ]
+  },
+  {
+    "question": "هل تعرف أين أنا ؟ 🧔",
+    "answer": [
+      "لا 🧔",
+      "لا أعرف 🤔",
+      "كيف يمكنني أن أعرف ذلك 🤔؟"
+    ]
+  },
+  {
+    "question": "نهارك سعيد 🙋",
+    "answer": [
+      "مساء الخير، كيف كان يومك؟",
+      "أهلاً، ماذا تفعل الآن؟",
+      "مساء الخير، كيف كان يومك؟"
+    ]
+  },
+  {
+    "question": "تصبح على خير 🌃",
+    "answer": [
+      "تصبح على خير، أراك قريباً.",
+      "أحلام سعيدة، أتمنى أن أراك قريباً 😛"
+    ]
+  },
+  {
+    "question": "إلى اللقاء 👋",
+    "answer": [
+      "حسناً، أراك لاحقاً 😎",
+      "اعتنِ بنفسك، أراك لاحقاً 😊",
+      "كن بخير، سنتحدث قريباً 👋",
+      "حسناً، آمل أن نتحدث أكثر لاحقاً #USER",
+      "تغادر بهذه السرعة؟",
+      "اعتنِ بنفسك 👋",
+      "حسناً، كن بخير 😊"
     ]
   }
-}
+]
+
