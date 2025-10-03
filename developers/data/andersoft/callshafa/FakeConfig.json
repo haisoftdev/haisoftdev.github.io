@@ -67,7 +67,7 @@
 
     "contacts": [
       {
-        "name": "1",
+        "name": "رامي",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
@@ -81,7 +81,7 @@
         ]
       },
       {
-        "name": "2",
+        "name": "سارة",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/2/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
@@ -95,7 +95,7 @@
         ]
       },
       {
-        "name": "3",
+        "name": "أيمن",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
@@ -109,7 +109,7 @@
         ]
       },
       {
-        "name": "4",
+        "name": "ريما",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/4/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
@@ -123,7 +123,7 @@
         ]
       },
       {
-        "name": "5",
+        "name": "جاد",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/5/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
@@ -137,7 +137,7 @@
         ]
       },
       {
-        "name": "6",
+        "name": "جعفر",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/6/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
@@ -151,7 +151,7 @@
         ]
       },
       {
-        "name": "7",
+        "name": "سلمى",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/7/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
@@ -165,7 +165,7 @@
         ]
       },
       {
-        "name": "8",
+        "name": "حفصة",
         "profile": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/8/profile.jpg",
         "audio": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/audio.mp3",
         "video": "https://haisoftdev.github.io/developers/data/andersoft/callshafa/contacts/0/video.mp4",
