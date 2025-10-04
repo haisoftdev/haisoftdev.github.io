@@ -11,10 +11,10 @@
 
     "ShowAds" : true,
 
-    "BannerNetwork"        : "admob",
+    "BannerNetwork"        : "",
     "InterstitialNetwork"  : "",
     "InterstitialSPNetwork": "",
-    "NativeNetwork"        : "admob",
+    "NativeNetwork"        : "",
     "RewardNetwork"        : "admob",
 
     "AdInterval": 1,
