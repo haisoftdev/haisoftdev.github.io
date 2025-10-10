@@ -11,9 +11,9 @@
 
     "ShowAds" : true,
 
-    "BannerNetwork"        : "admob",
-    "InterstitialNetwork"  : "admob",
-    "InterstitialSPNetwork": "admob",
+    "BannerNetwork"        : "promote",
+    "InterstitialNetwork"  : "promote",
+    "InterstitialSPNetwork": "promote",
     "NativeNetwork"        : "admob",
     "RewardNetwork"        : "admob",
 
@@ -21,11 +21,11 @@
 
     "AdPlacement": {
 
-      "AdMobBanner": "ca-app-pub-9760311877159894/2223808196",
-      "AdMobInterstitial": "ca-app-pub-9760311877159894/7284563180",
-      "AdMobInterstitialSP": "ca-app-pub-9760311877159894/7284563180",
-      "AdMobNative": "ca-app-pub-9760311877159894/3592730189",
-      "AdMobReward": "ca-app-pub-9760311877159894/2447169470",
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialSP": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
 
       "FacebookBanner": "621902803077355_621904523077183",
       "FacebookInterstitial": "621902803077355_621905109743791",
