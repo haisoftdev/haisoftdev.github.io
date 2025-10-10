@@ -180,17 +180,17 @@
       }
     ],
 
-    "autoComment": [
-      "Awesome picture ! nice ",
-      "So cute images, i love it ",
-      "Wow it a wonderful pic ",
-      "Thanks for sending me your photo, it cute ",
-      "Cool ! what camera used for take this image ",
-      "I love it, it beautiful ",
-      "Very nice pic, i will save them in my Gallery ",
-      "This image contains some flow, but it nice i love it thanks ",
-      "Your are a amazing "
-    ],
+   "autoComment": [
+  "صورة جميلة جدًا!",
+  "يا لها من صورة لطيفة، أحببتها!",
+  "واو! صورة رائعة فعلًا!",
+  "شكرًا لأنك شاركت صورتك، إنها جميلة!",
+  "رائع! هل التقطت هذه الصورة بهاتفك؟",
+  "أحب هذه الصورة! إنها جميلة جدًا!",
+  "صورة مميزة! سأحتفظ بها في المفضلة!",
+  "صورة رائعة! شكرًا لمشاركتها معنا!",
+  "أنت رائع!"
+  ]
 
    "autoLive": [
   "مرحباً #NAME",
