@@ -11,9 +11,9 @@
 
     "ShowAds" : true,
 
-    "BannerNetwork"        : "promote",
-    "InterstitialNetwork"  : "promote",
-    "InterstitialSPNetwork": "promote",
+    "BannerNetwork"        : "admob",
+    "InterstitialNetwork"  : "admob",
+    "InterstitialSPNetwork": "admob",
     "NativeNetwork"        : "admob",
     "RewardNetwork"        : "admob",
 
