@@ -51,10 +51,10 @@
       "OnesignalID": "xx-xxx-xxx-xxx-xxx",
       "WebURL"     : "https://play.google.com/store/apps/developer?id=ANDERSOFT",
       
-      "App_Version": "46.2.5",
-      "App_Author": "REEMDEV",
-      "App_Email": "Makhloukw@gmail.com",
-      "App_Website": "www.reemdevapps.com",
+      "AppVersion": "46.2.5",
+      "AppAuthor":  "ANDERSOFT",
+      "AppEmail":   "Erindevapp@gmail.com",
+      "AppWebsite": "www.erindevapps.com",
 
       "Ad_block_countries": ""
 
