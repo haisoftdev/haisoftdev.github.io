@@ -1,0 +1,435 @@
+{
+  "AppRedirect": {
+    "status": false,
+    "version": "1.0.0",
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.appStudio.valorant.wallpaper"
+  },
+
+  "AdsController": {
+
+    "README" : "To run ads for each network, enter one of this : 'admob' , 'applovin' , 'ironsource', 'promote' ,'browser for open web url' ",
+
+    "ShowAds" : true,
+
+    "BannerNetwork"        : "promote",
+    "InterstitialNetwork"  : "promote",
+    "InterstitialSPNetwork": "promote",
+    "NativeNetwork"        : "admob",
+    "RewardNetwork"        : "admob",
+
+    "AdInterval": 1,
+
+    "AdPlacement": {
+
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialSP": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
+
+      "FacebookBanner": "621902803077355_621904523077183",
+      "FacebookInterstitial": "621902803077355_621905109743791",
+      "FacebookInterstitialSP": "621902803077355_621905109743791",
+      "FacebookNative": "621902803077355_621906106410358",
+      "FacebookReward": "621902803077355_621906723076963",
+
+      "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
+      "ApplovinBanner": "da17eff31ae69f15",
+      "ApplovinInterstitial": "98f6a586ed642919",
+      "ApplovinInterstitialSP": "98f6a586ed642919",
+      "ApplovinNative": "98f6a586ed642919",
+      "ApplovinReward": "98f6a586ed642919",
+
+      "IronSourceKey": "85460dcd",
+      "IronBanner": "thnfvcsog13bhn08",
+      "IronInterstitial": "aeyqi3vqlv6o8sh9",
+      "IronInterstitialSP": "aeyqi3vqlv6o8sh9",
+      "IronReward": "76yy3nay3ceui2a3",
+
+
+      "PrivacyURL" : "https://sites.google.com/view/essota-policy",
+      "OnesignalID": "xx-xxx-xxx-xxx-xxx",
+      "WebURL"     : "https://github.com/saidmotya"
+    },
+
+    "PopAdSetting": {
+      "showBtnClose": true,
+      "showFullScreen": true,
+      "icon": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
+      "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+      "title": "Good news ! play and earn coins",
+      "button_title": "Install",
+      "button_url": "https://github.com/saidmotya/"
+    }
+  },
+
+  "AppContent": {
+
+    "contacts": [
+      {
+        "name": "Nastya",
+        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/profile.jpg",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/audio.mp3",
+        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/video.mp4",
+        "birthday": 2014,
+        "country": "Russia",
+        "job": "Playing with my family and make videos",
+        "locked": false,
+        "gallery": [
+          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/gallery/0.jpg",
+          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/nastya/gallery/.jpg"
+        ]
+      },
+      {
+        "name": "Anna Mother",
+        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/anna/profile.jpg",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/anna/audio.mp3",
+        "video": "",
+        "birthday": 1989,
+        "country": "Russia",
+        "job": "makeup salon to wedding",
+        "locked": false,
+        "gallery": [
+          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/anna/gallery/0.jpg"
+        ]
+      },
+      {
+        "name": "Sergey Father",
+        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/sergey/profile.jpg",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/sergey/audio.mp3",
+        "video": "",
+        "birthday": 1986,
+        "country": "United States",
+        "job": "construction company",
+        "locked": false,
+        "gallery": [
+          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/sergey/gallery/0.jpg"
+        ]
+      },
+      {
+        "name": "Daniel Brother",
+        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/daniel/profile.jpg",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/daniel/audio.mp3",
+        "video": "",
+        "birthday": 2016,
+        "country": "United States",
+        "job": "I'm currently student in primary school",
+        "locked": false,
+        "gallery": [
+          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/daniel/gallery/0.jpg"
+        ]
+      },
+      {
+        "name": "Viktoria Sister",
+        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/viktoria/profile.jpg",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/viktoria/audio.mp3",
+        "video": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/viktoria/video.mp4",
+        "birthday": 2020,
+        "country": "United States",
+        "job": "nothing",
+        "locked": false,
+        "gallery": [
+          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/viktoria/gallery/0.jpg"
+        ]
+      },
+      {
+        "name": "Alisa Friend",
+        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/alisa/profile.jpg",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/alisa/audio.mp3",
+        "video": "",
+        "birthday": 2015,
+        "country": "Atlanta, US",
+        "job": "Make videos with Nastya",
+        "locked": true,
+        "gallery": [
+          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/alisa/gallery/0.jpg"
+        ]
+      },
+      {
+        "name": "Karina Teacher",
+        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/karina/profile.jpg",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/karina/audio.mp3",
+        "video": "",
+        "birthday": 1998,
+        "country": "Russia",
+        "job": "Teach Nastya and learn multiple language together",
+        "locked": true,
+        "gallery": [
+          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/karina/gallery/0.jpg"
+        ]
+      },
+      {
+        "name": "Ryan Friend",
+        "profile": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/ryan/profile.jpg",
+        "audio": "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/ryan/audio.mp3",
+        "video": "",
+        "birthday": 2013,
+        "country": "Russia",
+        "job": "Playing toys with Nastya",
+        "locked": true,
+        "gallery": [
+          "https://zonekapp.com/SecretGFXServices/MohamedELGhazi/hahaFakeCall/contacts/ryan/gallery/0.jpg"
+        ]
+      }
+    ],
+
+    "autoComment": [
+      "Awesome picture ! nice ",
+      "So cute images, i love it ",
+      "Wow it a wonderful pic ",
+      "Thanks for sending me your photo, it cute ",
+      "Cool ! what camera used for take this image ",
+      "I love it, it beautiful ",
+      "Very nice pic, i will save them in my Gallery ",
+      "This image contains some flow, but it nice i love it thanks ",
+      "Your are a amazing "
+    ],
+
+    "autoLive": [
+      "hi #NAME",
+      "How are you #NAME ?",
+      "Live chat is begin cool",
+      "Hello every one...happy day",
+      "I love you so much",
+      "Im glad to talk with you #NAME",
+      "can you show us your toys ?",
+      "where is your parent #NAME ?",
+      "#NAME do you go to school ?",
+      "what is your educational level",
+      "#NAME it possible to be friends ?",
+      "I'm happy to see you #NAME",
+      "I like Mathematics and cartoon and you #NAME ?",
+      "#NAME are you alone ? have you done the homework",
+      "i love this Application so much"
+    ],
+
+    "autoChat": [
+      {
+        "question": "Hello #HERO 🙋",
+        "answer": [
+          "hey there 😅",
+          "hi #USER 😎",
+          "hello #USER 😃",
+          "hey #USER 🤔 ! how are you",
+          "good day to you, how are you doing #USER ? 🧉"
+        ]
+      },
+      {
+        "question": "what's up? 😊",
+        "answer": [
+          "Just the usual, what about you? 🧘",
+          "nothing much really, what about you? 🧔",
+          "I am having a really good day, 😳 you?",
+          "Things are pretty good, hbu? 😜",
+          "just surfing social media, you? 😃"
+        ]
+      },
+      {
+        "question": "what your name ? 🙅",
+        "answer": [
+          "my name is #HERO 🙆 what about you ?",
+          "#HERO and you ? 🙅",
+          "my name is #HERO 🙄 and you ?"
+        ]
+      },
+      {
+        "question": "my name is #USER 🙄",
+        "answer": [
+          "nice meeting you #USER 🙋",
+          "glad to meet you #USER 🙋",
+          "nice too meet you, 🙋 tell me more about yourself",
+          "Glad to make your acquaintances #USER 🙋",
+          "hi #USER 🙋 what's on your mind?"
+        ]
+      },
+      {
+        "question": "how are you ? 😃",
+        "answer": [
+          "I am well, 😳 how are you?",
+          "doing pretty well, 😳 how about u?",
+          "I am good, 😊 how are you?",
+          "I am really good, thanks! 😊",
+          "good, what about you? 🧔",
+          "I'm doing fine, thanks 😃",
+          "I am doing very well today 😃",
+          "good, 😒 how is your day going?"
+        ]
+      },
+      {
+        "question": "I am good ❤️ thank you",
+        "answer": [
+          "good to hear that 😃",
+          "I am happy to talk with you today 😊",
+          "Welcome to my chat, 😊 it great day to lak with you"
+        ]
+      },
+      {
+        "question": "How old are you ? 🧘",
+        "answer": [
+          "by next month i will be #AGE years old 🙄",
+          "my age is #AGE years old 🙄",
+          "Iam #AGE years old 🙄"
+        ]
+      },
+      {
+        "question": "Where are you from ? 🧔",
+        "answer": [
+          "I'm from #COUNTRY 🙇",
+          "my country called #COUNTRY 🙋",
+          "#COUNTRY this is my country",
+          "#COUNTRY is my home 🙋",
+          "I'm from #COUNTRY but actually living in USA 🙋"
+        ]
+      },
+      {
+        "question": "What is your job ? 😅",
+        "answer": [
+          "I'm now #JOB 😶",
+          "my job for now is #JOB but next time i don't know",
+          "I'm working in #JOB 🙋 for this moment",
+          "#JOB what about you ? 😤"
+        ]
+      },
+      {
+        "question": "send me your photo #PHOTO",
+        "answer": [
+          "of course i will sent you my photo 📱",
+          "wait me to take same photo for you ❤️",
+          "do you mean my photo 📱 ? look it in my profile",
+          "what photo do you talk about 🧔 ? ok i will sent my picture",
+          "I'm going to take same photo for you ❤️",
+          "look if you talk about my photo 🙇",
+          "please, keep my photo between us 🙇"
+        ]
+      },
+      {
+        "question": "can you call me ? 📱 #CALL",
+        "answer": [
+          "do you want to call you now ? okay just wait",
+          "now ? ok please wait few moment",
+          "with pleasure, wait..",
+          "wait some few seconds",
+          "*emm , ok i will call you now",
+          "yes of course, wait me some second",
+          "emm ok right now"
+        ]
+      },
+      {
+        "question": "send me video 📹",
+        "answer": [
+          "i will sent you my video tomorrow okay ?",
+          "why do you want my video, 📱 ok call me video than",
+          "if you want my video, call me video 📱"
+        ]
+      },
+      {
+        "question": "I'm happy 😎",
+        "answer": [
+          "is it because of me 😎 ?",
+          "how ws I helpful in making you fell that way?",
+          "It makes me feel good to know that 😎",
+          "happy to hear that 😅",
+          "that is great to know",
+          "that's amazing 😅",
+          "what makes you that happy 😎 ?",
+          "I hope you always feel that way",
+          "can you explain to me the reason behind you felling that way?"
+        ]
+      },
+      {
+        "question": "do you like this application ? ❤️",
+        "answer": [
+          "Yes i like it ! if you like this chat please rate me on 👇 :\n *rate"
+        ]
+      },
+      {
+        "question": "what cartoon do you like ? 🤔",
+        "answer": [
+          "My favourite cartoon is sponge bob , ❤️ and you ?",
+          "I like the Tom and Jerry , ❤️ and you ?",
+          "I love the Queen of ice",
+          "Emm let me think, i guest naratoo is amazing"
+        ]
+      },
+      {
+        "question": "what your film do you prefer ? 🧔",
+        "answer": [
+          "My favourite film is sponge bob",
+          "I love star trek films 🔭",
+          "I love 🔭 the scientific films",
+          "I love the horror films",
+          "The science fiction is my fav 🔭"
+        ]
+      },
+      {
+        "question": "do you play sport ? 🏃",
+        "answer": [
+          "I like running 🏃",
+          "I love swimming in the sea 😳",
+          "I love 😳 the football sports ",
+          "i love dancing 😳",
+          "riding 😅",
+          "climb mountains",
+          "i like hunting 😊 but rarely play it",
+          "racing cars",
+          "BasketBall with my local team 😅",
+          "Handball and you ?",
+          "Tennis and you ?",
+          "baseball 😳 and you ?",
+          "bowling 😊 and you ?",
+          "fishing LOL",
+          "judo and you ?",
+          "i play 😊 karate to defense",
+          "surfing every summer 😊",
+          "volleyball with my friends 😊"
+        ]
+      },
+      {
+        "question": "who are you ? 🧔",
+        "answer": [
+          "i'm robot 🤖 ! do machines worry you?",
+          "what do you think of artificial intelligence? 🤖",
+          "what is the relevance of this to the topic 🙆",
+          "what do machines 🤖 have to do with your problem?",
+          "i'm computer 🤖 doing just what they are programmed to do",
+          "I would love to know more about what you think of that 🙆"
+        ]
+      },
+      {
+        "question": "do you know where I am? 🧔",
+        "answer": [
+          "no 🧔",
+          "no I don't 🤔",
+          "how can I possibly 🤔 know that?"
+        ]
+      },
+      {
+        "question": "good day 🙋",
+        "answer": [
+          "good evening, how is your day going?",
+          "hey there, what are you up to?",
+          "evening, how was your day?"
+        ]
+      },
+      {
+        "question": "good 🌃 night",
+        "answer": [
+          "have a good night, see you soon.",
+          "sweet dreams, hope I'll see you soon 😛"
+        ]
+      },
+      {
+        "question": "goodbye 👋",
+        "answer": [
+          "alright, see you later then 😎",
+          "well, take care then. see you later 😊",
+          "be safe, talk to you soon 👋",
+          "okay, hope we can talk more soon. #USER",
+          "leaving so soon?",
+          "take care. 👋",
+          "alright, be safe 😊"
+        ]
+      }
+    ]
+  }
+}
