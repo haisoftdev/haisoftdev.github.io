@@ -40,7 +40,12 @@
       "UnityGameID"           : "4076527",
       "UnityBanner"           : "BannerAd",
       "UnityInterstitialAd"   : "InterstitialAd",
-      "UnityRewardAd"         : "rewardedVideo"
+      "UnityRewardAd"         : "rewardedVideo",
+
+      "PrivacyURL" : "https://sites.google.com/view/andersofts",
+      "OnesignalID": "xx-xxx-xxx-xxx-xxx",
+      "WebURL"     : "https://play.google.com/store/apps/developer?id=ANDERSOFT"
+        
     },
     
     "PopAdSetting":{
