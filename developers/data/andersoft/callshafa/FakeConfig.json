@@ -1,6 +1,6 @@
 {
   "AppRedirect": {
-    "status": true,
+    "status": false,
     "version": "1.0.0",
     "redirectURL": "https://play.google.com/store/apps/details?id=com.appStudio.valorant.wallpaper"
   },
@@ -13,10 +13,10 @@
     
     "AdInterval": 1,
 
-    "BannerNetwork"        : "promote",
-    "InterstitialNetwork"  : "promote",
-    "InterstitialSPNetwork": "promote",
-    "NativeNetwork"        : "promote",
+    "BannerNetwork"        : "admob",
+    "InterstitialNetwork"  : "admob",
+    "InterstitialSPNetwork": "admob",
+    "NativeNetwork"        : "admob",
     "RewardNetwork"        : "admob",
 
 
