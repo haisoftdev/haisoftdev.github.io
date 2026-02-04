@@ -19,8 +19,6 @@
     "NativeNetwork"        : "admob",
     "RewardNetwork"        : "admob",
 
-
-
     "AdPlacement": {
 
       "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
@@ -41,6 +39,5 @@
       "button_url": "https://haisoftdev.github.io/"
     }
   }
-
 }
 
