@@ -21,12 +21,12 @@
 
     "AdPlacement": {
 
-      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
-      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-      "AdMobInterstitialSP": "xca-app-pub-3940256099942544/9257395921",
-      "AdMobNative": "xca-app-pub-3940256099942544/2247696110",
-      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
-      "AdMobAppOpen": "xca-app-pub-3940256099942544/9257395921"
+      "AdMobBanner": "ca-app-pub-1778309717892354/7504135246",
+      "AdMobInterstitial": "ca-app-pub-1778309717892354/7127864751",
+      "AdMobInterstitialSP": "ca-app-pub-3940256099942544/9257395921",
+      "AdMobNative": "ca-app-pub-1778309717892354/8089592634",
+      "AdMobReward": "ca-app-pub-1778309717892354/3648650719",
+      "AdMobAppOpen": "ca-app-pub-3940256099942544/9257395921"
     },
 
     "PopAdSetting": {
