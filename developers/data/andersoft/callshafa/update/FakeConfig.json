@@ -1,0 +1,43 @@
+{
+  "AppRedirect": {
+    "status": false,
+    "version": "13.1.0",
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.andersoft.fakecallshafa"
+  },
+
+  "AdsController": {
+
+    "README" : "To run ads for each network, enter one of this : 'admob' , 'promote' ",
+
+    "ShowAds"   : true,
+    
+    "AdInterval": 1,
+
+    "BannerNetwork"        : "admob",
+    "InterstitialNetwork"  : "admob",
+    "InterstitialSPNetwork": "",
+    "NativeNetwork"        : "",
+    "RewardNetwork"        : "admob",
+
+    "AdPlacement": {
+
+      "AdMobBanner": "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialSP": "ca-app-pub-3940256099942544/9257395921",
+      "AdMobNative": "ca-app-pub-3940256099942544/2247696110",
+      "AdMobReward": "ca-app-pub-3940256099942544/5224354917",
+      "AdMobAppOpen": "ca-app-pub-3940256099942544/9257395921"
+    },
+
+    "PopAdSetting": {
+      "showBtnClose": true,
+      "showFullScreen": true,
+      "icon": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
+      "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+      "title": "Good news ! play and earn coins",
+      "button_title": "Install",
+      "button_url": "https://haisoftdev.github.io/"
+    }
+  }
+}
+
