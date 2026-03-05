@@ -1,8 +1,9 @@
 {
     
  "AppRedirect": {
-    "status"     :  false,
-    "version"    :	"48.2.5",
+  "AppRedirect": {
+    "status": true,
+    "version": "17.1.2",
     "redirectURL": "https://play.google.com/store/apps/details?id=com.reemdev.shafacall"
   },
   
