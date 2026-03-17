@@ -7,17 +7,17 @@
 
   "AdsController": {
 
-    "README": "Networks supported: admob, promote, facebook, applovin, ironsource",
+    "README" : "To run ads for each network, enter one of this : 'admob' , 'promote' ",
 
-    "ShowAds": true,
-
+    "ShowAds"   : true,
+    
     "AdInterval": 1,
 
-    "BannerNetwork": "admob",
-    "InterstitialNetwork": "admob",
+    "BannerNetwork"        : "admob",
+    "InterstitialNetwork"  : "admob",
     "InterstitialSPNetwork": "",
-    "NativeNetwork": "",
-    "RewardNetwork": "admob",
+    "NativeNetwork"        : "",
+    "RewardNetwork"        : "admob",
 
     "AdPlacement": {
 
@@ -27,29 +27,6 @@
       "AdMobNative": "ca-app-pub-1778309717892354/8309986114",
       "AdMobReward": "ca-app-pub-1778309717892354/1884178560",
       "AdMobAppOpen": "ca-app-pub-1778309717892354/9420363169"
-
-      "FacebookBanner": "",
-      "FacebookInterstitial": "",
-      "FacebookInterstitialSP": "",
-      "FacebookNative": "",
-      "FacebookReward": "",
-
-      "ApplovinKey": "",
-      "ApplovinBanner": "",
-      "ApplovinInterstitial": "",
-      "ApplovinInterstitialSP": "",
-      "ApplovinNative": "",
-      "ApplovinReward": "",
-
-      "IronSourceKey": "",
-      "IronBanner": "",
-      "IronInterstitial": "",
-      "IronInterstitialSP": "",
-      "IronReward": "",
-
-      "PrivacyURL": "https://sites.google.com/view/andersofts",
-      "OnesignalID": "26303db3-ff6f-40d9-96d8-a91009224d98",
-      "WebURL": "https://play.google.com/store/apps/developer?id=ANDERSOFT"
     },
 
     "PopAdSetting": {
@@ -57,10 +34,10 @@
       "showFullScreen": true,
       "icon": "https://play-lh.googleusercontent.com/gnSC6s8-6Tjc4uhvDW7nfrSJxpbhllzYhgX8y374N1LYvWBStn2YhozS9XXaz1T_Pi2q",
       "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
-      "title": "Good news! play and earn coins",
+      "title": "Good news ! play and earn coins",
       "button_title": "Install",
-      "button_url": "https://play.google.com/store/apps/developer?id=ANDERSOFT"
+      "button_url": "https://haisoftdev.github.io/"
     }
-
   }
 }
+
