@@ -1,6 +1,6 @@
 {
   "AppRedirect": {
-    "status": false,
+    "status": true,
     "version": "17.1.3",
     "redirectURL": "https://play.google.com/store/apps/details?id=com.andersoft.fakecallshafa"
   },
